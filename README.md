@@ -9,9 +9,19 @@
 | Problème de sourcing | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources |
 | Pas de mentorat | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord |
 
+# Details
+
 La multiplicité des serveurs Discord dont la création est à la charge des formateurs<br>
 amène à la répétitions d'actions pénibles de leur part, c'est pourquoi, nous proposons<br>
 de créer un serveur Discord global permettant à n'importe quel formateur de créer un espace<br>
 dédié à la formation qu'il dispense.<br>
 De cette façon, nous réduirons le nombre d'actions répétitives à faire, en simplifiant tout<br>
 le processus de création d'espace de discution pour chaque promotion.<br>
+
+Un formateur aura un canal dédié à la configuration de l'espace dédié à sa promotion<br>
+une fois l'espace dédié crée, le formateur pourra envoyer une invitation à ses apprenants<br>
+généré par le biais d'un bot, l'attribution des rôles apprenants se fera automatiquement par le même biais.<br>
+
+Grace à ce système, le formateur n'a plus qu'à configurer brièvement son espace et peut le déployer<br>
+en quelques clics.<br>
+
