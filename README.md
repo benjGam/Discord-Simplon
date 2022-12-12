@@ -25,3 +25,13 @@ généré par le biais d'un bot, l'attribution des rôles apprenants se fera aut
 Grace à ce système, le formateur n'a plus qu'à configurer brièvement son espace et peut le déployer<br>
 en quelques clics.<br>
 
+Un des points importants que nous traiterons aussi sera l'identification des utilisateurs lors d'intéractions<br>
+il arrive qu'un utilisateur ne soit pas facilement reconnaissable de par la nature de son pseudo.<br>
+C'est pourquoi, nous allons mettre en place un système d'identification lors de la première connexion d'un<br>
+membre sur le serveur Discord, l'utilisateur devra entré son nom ainsi que son prénom et attendre la validation<br>
+d'un membre du STAFF ou du formateur qui lui est rattaché, de cette façons, lorsqu'un apprennant aura besoin<br>
+d'intéragir avec un membre de l'équipe administrative par la biais du système de ticketing dont nous parlerons<br>
+après, celui-ci sera facilement identifié et donc, la prise en charge de son problème sera réalisée de façon plus efficace<br>
+
+Parlons maintenant du problème des messages inutiles, admettons qu'un membre de l'équipe de administrative<br>
+ait un nombre elevé de requête venant de tous les apprennants en formation.<br>
