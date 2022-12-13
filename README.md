@@ -40,3 +40,15 @@ manuelle.<br>
 Nous avons imaginés afin de simplifier l'utilisation de Discord, une panoplie de fonctionnalités<br>
 implentée directement dans des bots Discord, afin de rendre l'administration / la gestion du serveur<br>
 la plus érgonomique possible, avec des canaux didiés à l'utilisation de ces outils.<br>
+
+# Développer un esprit de communauté
+
+Afin de développer un esprit communautaire au sein de ce serveur, nous proposons de mettre en place<br>
+des canaux généraux de discussion, de partage de ressources, de partage de code, de partage d'annonce,
+entre les apprennants, les anciens apprennants ainsi qu'avec les équipes Simplon.<br>
+
+De cette façons, les membres du Discord pourront intéragir entre-eux dans des cannaux dédiés<br>
+cela permettra de garder le contact avec d'anciens apprennants par exemple et donc d'établir<br>
+un meilleur sourcing.<br>
+
+Aussi, nous proposons de mettre en oeuvre un espace dédié au Mentorat.<br>
