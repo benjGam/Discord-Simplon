@@ -34,3 +34,9 @@ et la répétition de tâches fastidieuses.<br>
 Afin de permettre l'application de cette solution, nous mettrons en place des bots Discord dont le but sera de rendre<br>
 toutes ces tâches répétitives automatiques ou de réduire au maximum le nombre d'actions répétitives à faire de façon<br>
 manuelle.<br>
+
+# Comment traiter la mauvaise utilisation de Discord ?
+
+Nous avons imaginés afin de simplifier l'utilisation de Discord, une panoplie de fonctionnalités<br>
+implentée directement dans des bots Discord, afin de rendre l'administration / la gestion du serveur<br>
+la plus érgonomique possible, avec des canaux didiés à l'utilisation de ces outils.<br>
