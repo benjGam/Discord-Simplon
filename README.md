@@ -12,43 +12,59 @@
 # Introduction
 
 Nous avons identifié certains problèmes quant à l'organisation concernant les promotions chez Simplon.<br>
-lors de discution avec notre formateur, c'est pourquoi, nous vous proposons de rémédier à ces soucis en<br>
+lors de discution avec notre formateur, c'est pourquoi, nous vous proposons de rémédier à ces problèmes en<br>
 passant par l'outil de communication Discord.<br>
 
 Dans l'optique d'optimiser et de corriger ces soucis, nous proposons de créer un serveur Discord global<br>
 avec un certains nombre de Bots permettant de simplifier l'outil et d'optimiser son utilisation,<br>
 afin de permettre à toute l'organisation de Simplon d'être centralisée et d'être plus éfficace.<br>
 
-# Comment traiter la répétition de tâches fastidieuses ?
+# Endiguer la multiplicité des outils
 
-Afin de lutter contre la répétition de tâches fastidieuses aux formateurs, entendons par là, la création<br>
-d'un nouveau serveur Discord lors de l'ouverture d'une promotion, ainsi que sa configuration.<br>
+La plutiplicité des outils peut être un problème dans une communauté comme celle-ci, car cela<br>
+peut créer de la confusion, de la pollution pour les apprenants et les équipes Simplon<br>
+ainsi que des difficultés pour tous les utiliseurs des divers moyens de communications employés.<br>
 
-De cette façon, un formateur n'aura plus besoin de s'occuper de cette partie fastidieuse lors de la mise en route<br>
-d'une nouvelle promotion, on réduit aussi la pollution pour le formateur et pour les apprenants concernés.<br>
+Une solution possible pour ce problème est d'utiliser un seul serveur Discord communautaire maintenable.<br>
+En utilisant un seul serveur, tous les membres de Simplon, aussi bien apprenants que membres des équipes<br>
+Simplon, peuvent être rassemblés en un seul endroit, ainsi que de centraliser toutes les interactions entre-eux.<br>
 
-Avec la solution imaginée, nous centralisons toute l'organisation Simplon et par la même nous endiguons certains<br>
-problèmes, comme par exemple la désorganisation de l'information, la multiplicité des outils (outils de communication)<br>
-et la répétition de tâches fastidieuses.<br>
-
-Afin de permettre l'application de cette solution, nous mettrons en place des bots Discord dont le but sera de rendre<br>
-toutes ces tâches répétitives automatiques ou de réduire au maximum le nombre d'actions répétitives à faire de façon<br>
-manuelle.<br>
-
-# Comment traiter la mauvaise utilisation de Discord ?
-
-Nous avons imaginés afin de simplifier l'utilisation de Discord, une panoplie de fonctionnalités<br>
-implentée directement dans des bots Discord, afin de rendre l'administration / la gestion du serveur<br>
-la plus érgonomique possible, avec des canaux didiés à l'utilisation de ces outils.<br>
+De plus, en utilisant un seul et unique serveur, il est possible d'ajouter des bots Discord afin d'automatiser<br>
+certaines taches et rendre l'utilisation de Discord plus simple pour les utilisateurs.<br>
+Cela peut également aider à réduire les actions répétitives des membres des équipes Simplon, et améliorer l'expérience<br>
+utilisateur.<br>
 
 # Développer un esprit de communauté
 
 Afin de développer un esprit communautaire au sein de ce serveur, nous proposons de mettre en place<br>
-des canaux généraux de discussion, de partage de ressources, de partage de code, de partage d'annonce,
+des canaux généraux de discussion, de partage de ressources, de partage de code, de partage d'annonces,
 entre les apprennants, les anciens apprennants ainsi qu'avec les équipes Simplon.<br>
 
-De cette façons, les membres du Discord pourront intéragir entre-eux dans des cannaux dédiés<br>
+De cette façons, les membres du serveur Discord pourront intéragir entre-eux dans des cannaux dédiés<br>
 cela permettra de garder le contact avec d'anciens apprennants par exemple et donc d'établir<br>
-un meilleur sourcing.<br>
+un plus grand éventail de potentiels candidats aux formations dispensées par Simplon<br>
 
-Aussi, nous proposons de mettre en oeuvre un espace dédié au Mentorat.<br>
+Il est aussi importe de maintenir une communauté active et engagée, comme nous l'avons vu plus tôt<br>
+la multiplicité des outils de communications peut-être un frein à cet objectif.<br>
+
+Aussi, afin de consolider une communauté active au sein de l'éco-système Simplon, il est important de<br>
+ne pas négliger les anciens apprenants de Simplon, c'est pourquoi nous proposons de mettre en place un<br>
+rôle attitré à tout apprenant ayant déjà participé à une formation auprès de Simplon, de cette façons<br>
+les anciens apprenants seront en mesure de partager leur expérience avec les nouveaux et pourront<br>
+être une solution au manque de candidats de formations Simplon.<br>
+
+Afin de garder un espace de communication propre et organisé, nous proposons de déployer des bots<br>
+de gestions des canaux, afin de supprimer certains messages inapropriés, ou simplement inutiles.<br>
+
+Dans une optique d'améliorer les échanges entre les apprenants et les équipes Simplon, nous proposons<br>
+de déployer un système de ticket, dans lequel un apprenant remonte un problème qu'il rencontre, un membre<br>
+de l'équipe concerné peut s'occuper du ticket de l'apprenant dans un système de messagerie synchrone<br>
+clair et organisé.<br>
+
+# Apporter une solution de Mentorat
+
+Afin d'apporter un aspect de mentorat autour de l'éco-système Simplon, nous proposons de mettre en place<br>
+diverses canaux dédiés, ainsi que de déployer un bot de mise en relation de Mentor - Apprenant.<br>
+
+Aussi il peut être intéressant d'inclure les anciens apprenants dans ce processus de Mentoring, afin<br>
+de les garder actifs et de créer un réel sentiments de communauté.<br>
