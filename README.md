@@ -16,3 +16,12 @@ Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avo
 un dossier afin de reprendre chaque problèmatiques et de détailler les solutions possibles.<br>
 
 Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
+
+# Endiguer la multiplicité des outils
+
+Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous proposons de mettre<br>
+en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
+et ainsi garder une organisation monolithique, centralisée en un seul et même endroit.<br>
+
+De cette façons, les informations et ressources partagées se situeront au même endroit<br>
+et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
