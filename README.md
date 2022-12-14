@@ -36,3 +36,13 @@ divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
 En déployant des bots d'automatisation de tâches sur un serveur Discord, nous améliorerons<br>
 l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
 de travail.<br>
+
+# Amélioration de l'ergonomie de Discord
+
+Afin de faciliter l'utilisation de Discord nous avons réfléchis à deployer un large<br>
+pannel de bot, afin de fournir des interfaces simples et ergonomique à la gestion<br>
+du serveur Discord.
+
+De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
+main la gestion du serveur Discord.<br>
+
