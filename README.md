@@ -52,3 +52,16 @@ Nous avons identifié un problème d'identification des utilisateurs lors d'inte
 en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
 des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
 arrivants une identification par le nom et le prénom.<br>
+
+# Réduction du nombre de messages inutiles
+
+Lors d'intéraction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
+à poster des messages hors-sujet ou simplement de SPAM dû à un manque de reponse.<br>
+
+C'est pourquoi nous avons imaginé établir une liste de règle de conduite.<br>
+Ainsi qu'un système de gestion des canaux de discussions, aussi, nous avons imaginé<br>
+un système de ticket.<br>
+
+Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de demander<br>
+de l'aide auprès des équipes concernées, ainsi grace à ce système, l'apprenant peut<br>
+notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
