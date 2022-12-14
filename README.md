@@ -44,5 +44,11 @@ pannel de bot, afin de fournir des interfaces simples et ergonomique à la gesti
 du serveur Discord.
 
 De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
-main la gestion du serveur Discord.<br>
+main la gestion du serveur Discord dans certaines mesures définies par son rôle.<br>
 
+# Amélioration de l'identification des utilisateurs
+
+Nous avons identifié un problème d'identification des utilisateurs lors d'interactions,<br>
+en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
+des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
+arrivants une identification par le nom et le prénom.<br>
