@@ -2,7 +2,7 @@
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Multiplicité des outils                       | Utilisation de Discord par le biais d'un seul serveur communautaire maintenable                                         |
 | Actions répétitives du personnel              | Mise en place d'un système d'automatisation par le biais d'un bot Discord                                               |
-| Mauvaise utilisation de l'outil Discord       | Rendre l'outil Discord le plus simple possible par le biais de bots                                                     |
+| Manque d'ergonomie de Discord                 | Rendre l'outil Discord le plus simple possible par le biais de bots                                                     |
 | Mauvaise identification lors des intéractions | Obligation pour l'utilisateur de s'identifier avec un nom et prénom lors de la première connexion par le biais d'un bot |
 | Multiplicité des messages inutiles (SPAM)     | Mise en place d'un système de ticket par le biais d'un bot                                                              |
 | Perte de contact avec les anciens apprenants  | Mise en place d'un rôle attitré                                                                                         |
@@ -25,3 +25,12 @@ et ainsi garder une organisation monolithique, centralisée en un seul et même 
 
 De cette façons, les informations et ressources partagées se situeront au même endroit<br>
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
+
+# Réduire le nombre d'actions répétitives du personnel
+
+Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
+divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
+
+En déployant des bots d'automatisation de tâches sur un serveur Discord, nous améliorerons<br>
+l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
+de travail.<br>
