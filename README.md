@@ -1,3 +1,13 @@
+# Introduction
+
+Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
+Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
+un dossier afin de reprendre chaque problèmatiques et de détailler les solutions possibles.<br>
+
+Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
+
+# Identification des problèmes et solutions
+
 | Problèmes                                     | Solutions                                                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Multiplicité des outils                       | Utilisation de Discord par le biais d'un seul serveur communautaire maintenable                                         |
@@ -8,14 +18,6 @@
 | Perte de contact avec les anciens apprenants  | Mise en place d'un rôle attitré                                                                                         |
 | Problème de sourcing                          | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources                 |
 | Pas de mentorat                               | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord                                  |
-
-# Introduction
-
-Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
-Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
-un dossier afin de reprendre chaque problèmatiques et de détailler les solutions possibles.<br>
-
-Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
 # Endiguer la multiplicité des outils
 
