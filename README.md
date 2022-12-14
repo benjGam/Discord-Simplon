@@ -21,7 +21,7 @@ afin de permettre à toute l'organisation de Simplon d'être centralisée et d'�
 
 # Endiguer la multiplicité des outils
 
-La plutiplicité des outils peut être un problème dans une communauté comme celle-ci, car cela<br>
+La multiplicité des outils peut être un problème dans une communauté comme celle-ci, car cela<br>
 peut créer de la confusion, de la pollution pour les apprenants et les équipes Simplon<br>
 ainsi que des difficultés pour tous les utiliseurs des divers moyens de communications employés.<br>
 
