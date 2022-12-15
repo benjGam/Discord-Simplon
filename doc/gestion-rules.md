@@ -3,7 +3,7 @@
 - Un serveur Discord :
   - Un serveur DIscord est un outil de discussion synchrone
   - Il permet de développer une communauté
-  - IL permet d'appliquer une stratégie de RBAC nativement
+  - Il permet d'appliquer une stratégie de RBAC nativement
   - Il permet de créer des canaux de discussions textuels
   - Il permet de créer des canaux de discussions vocaux
   - Il permet d'organiser ces différents canaux en catégorie
@@ -23,4 +23,8 @@
   - Elle peut être agencée de différentes façons
   
 - Un formateur :
-  - Peut créer un espace dédié à la formation qu'il dispense
+  - Un formateur peut créer un espace dédié à la formation qu'il dispense
+  - Il peut ajouter un apprenant à cet espace dédié
+  - Il peut supprimer un apprenant de cet espace dédié
+  - Il peut discuter librement dans les canaux généraux
+  - Il a accès aux canaux du Staff
