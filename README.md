@@ -73,8 +73,19 @@ attitré à ces derniers.<br>
 
 Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
 plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
-leurs anciens camarades, participer aux discussions, bénéficié des ressources, etc..<br>
+leurs anciens camarades, participer aux discussions, bénéficier des ressources, etc..<br>
 
 De cette façons et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
 pourrait-être plus enclin à rester en contact avec Simplon.<br>
 
+# Amélioration du sourcing
+
+De la même façon que la création d'une communauté peut engendré une fidèlisation des anciens<br>
+apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
+
+Nous avons pensés à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
+pour les formations que Simplon dispense, de cette façons, tous les membres du servuer pourront<br>
+accèder simplement à ces annonces et seront plus proche de l'accès a ces informations.<br>
+
+Ainsi, les anciens apprenants, pourront consultez les canaux dédiés et rechercher des formations<br>
+susceptibles de les intéresser.<br>
