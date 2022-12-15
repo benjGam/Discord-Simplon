@@ -65,3 +65,12 @@ un système de ticket.<br>
 Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de demander<br>
 de l'aide auprès des équipes concernées, ainsi grace à ce système, l'apprenant peut<br>
 notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
+
+# Garder le contact avec les anciens apprenants 
+
+Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
+attitré à ces derniers.<br>
+
+Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
+plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
+leurs anciens camarades et à participer aux discussions.<br>
