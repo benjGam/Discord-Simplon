@@ -73,4 +73,8 @@ attitré à ces derniers.<br>
 
 Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
 plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
-leurs anciens camarades et à participer aux discussions.<br>
+leurs anciens camarades, participer aux discussions, bénéficié des ressources, etc..<br>
+
+De cette façons et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
+pourrait-être plus enclin à rester en contact avec Simplon.<br>
+
