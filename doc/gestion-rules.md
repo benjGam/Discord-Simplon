@@ -8,11 +8,14 @@
   - Il permet de créer des canaux de discussions vocaux
   - Il permet d'organiser ces différents canaux en catégorie
 
-- Un canal de Discussion : 
+- Un rôle : 
+  - Un rôle peut être attribué à n'importe quel membre
+  - Il dispose de permsissions activables ou désactivables
+
+- Un canal de discussion : 
   - Un canal de discussion peut être textuel ou vocal
   - Il dispose d'une configurabilité par le biais de permissions
   - Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané
-  - Un canal de discussion textuel ne peut pas avoir de limite de d'utilisateur simultané
 
 - Une catégorie Discord :
   - Elle peut contenir 0 à plusieurs canaux de discussion
