@@ -122,3 +122,17 @@ entre tous les apprenants, les anciens apprenants et les membres des équipes Si
 En développant un esprit communautaire, nous pouvons pallier au manque de candidats lors<br>
 de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
 d'annonce de recrutement.<br>
+
+# Identification des besoins en fonction des acteurs
+
+# Equipes Simplon
+
+## Équipe pédagogique
+
+Les équipes pédagogiques de Simplon auront besoin de pouvoir créer et gérer<br>
+les espaces dédiés à leur formation.<br>
+
+Fonctionnalités : 
+
+- Créer un espace dédié pour une nouvelle formation
+- Inviter des apprenants au sein de cet espace dédié
