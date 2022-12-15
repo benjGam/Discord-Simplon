@@ -123,16 +123,20 @@ En développant un esprit communautaire, nous pouvons pallier au manque de candi
 de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
 d'annonce de recrutement.<br>
 
-# Identification des besoins en fonction des acteurs
+# Identification des personas
 
-# Equipes Simplon
+# La persona Apprenant
 
-## Équipe pédagogique
+La persona apprenant est agée entre 18 et 30 ans, elle n'est pas toujours à l'aise avec l'outil Discord.<br>
+Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.<br>
 
-Les équipes pédagogiques de Simplon auront besoin de pouvoir créer et gérer<br>
-les espaces dédiés à leur formation.<br>
+# La persona Staff
 
-Fonctionnalités : 
+La persona staff est agée entre 25 et 45 ans, elle n'est pas très à l'aise avec l'outil Discord.<br>
+Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
 
-- Créer un espace dédié pour une nouvelle formation
-- Inviter des apprenants au sein de cet espace dédié
+# La persona Formateur/trice
+
+La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord<br>
+au quotidien afin de communiquer avec l'apprenant, elle utilisa aussi le mail comme moyen de communication<br>
+dans une moindre proportion que la persona Staff.<br>
