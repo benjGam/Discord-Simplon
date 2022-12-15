@@ -28,3 +28,9 @@
   - Il peut supprimer un apprenant de cet espace dédié
   - Il peut discuter librement dans les canaux généraux
   - Il a accès aux canaux du Staff
+
+- Un apprenant : 
+  - Il peut discuter librement dans les canaux 
+  - Il peut discuter librement dans les canaux de sa promotion
+  - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés
+  - Il doit être lié à une et une seule promotion en cours
