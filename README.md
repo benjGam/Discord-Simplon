@@ -125,18 +125,21 @@ d'annonce de recrutement.<br>
 
 # Identification des personas
 
-# La persona Apprenant
+## La persona Apprenant
 
 La persona apprenant est agée entre 18 et 30 ans, elle n'est pas toujours à l'aise avec l'outil Discord.<br>
 Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.<br>
 
-# La persona Staff
+## La persona Staff
 
 La persona staff est agée entre 25 et 45 ans, elle n'est pas très à l'aise avec l'outil Discord.<br>
 Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
 
-# La persona Formateur/trice
+## La persona Formateur/trice
 
 La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord<br>
 au quotidien afin de communiquer avec l'apprenant, elle utilisa aussi le mail comme moyen de communication<br>
 dans une moindre proportion que la persona Staff.<br>
+
+Ces 3 personas sont amenées à communiquer ensemble, pour simplifier les interactions<br>
+il peut être intéressant de réunir ces 3 personas à un seul et même endroit.<br> 
