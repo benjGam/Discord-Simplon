@@ -104,3 +104,21 @@ Cette espace serait maintenu en partie par des bots qui s'occuperaient de la mis
 propre et structurée des mentors et des apprenants.<br>
 
 De cette façons, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
+
+# Conclusion
+
+Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
+et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
+aspects sur un seul et même serveur, enfin de réduire le nombre d'outils de communication<br>
+et donc de permettre une récupération de l'information plus éfficace.<br>
+
+Aussi dans un second temps, il semble essentiel d'instaurer un esprit de communauté<br>
+pour que les apprenants puissent garder un contact même après la fin de leur formation.<br>
+
+Nous pouvons déveloper un esprit communautaire en dédiant des canaux textuels globaux<br>
+au partage de ressources, à la discussion, ou tout autre thème afin de créer des intéractions<br>
+entre tous les apprenants, les anciens apprenants, et les membres des équipes Simplon.<br>
+
+En développant un esprit communautaire, nous pouvons pallier au manque de candidats lors<br>
+de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
+d'annonce de recrutement.<br>
