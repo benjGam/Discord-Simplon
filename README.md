@@ -84,8 +84,10 @@ De la même façon que la création d'une communauté peut engendré une fidèli
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
 
 Nous avons pensés à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
-pour les formations que Simplon dispense, de cette façons, tous les membres du servuer pourront<br>
+pour les formations que Simplon dispense, de cette façons, tous les membres du serveur pourront<br>
 accèder simplement à ces annonces et seront plus proche de l'accès a ces informations.<br>
+
+Aussi, avec tous les biens-faits d'une communauté, nous augmentons le nombre de candiats potentiels<br>
 
 Ainsi, les anciens apprenants, pourront consultez les canaux dédiés et rechercher des formations<br>
 susceptibles de les intéresser.<br>
