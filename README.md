@@ -25,7 +25,7 @@ Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous propos
 en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
 et ainsi garder une organisation monolithique, centralisée en un seul et même endroit.<br>
 
-De cette façons, les informations et ressources partagées se situeront au même endroit<br>
+De cette façon, les informations et ressources partagées se situeront au même endroit<br>
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
 # Réduire le nombre d'actions répétitives du personnel
@@ -39,8 +39,8 @@ de travail.<br>
 
 # Amélioration de l'ergonomie de Discord
 
-Afin de faciliter l'utilisation de Discord nous avons réfléchis à deployer un large<br>
-pannel de bot, afin de fournir des interfaces simples et ergonomique à la gestion<br>
+Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
+éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
 du serveur Discord.
 
 De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
@@ -55,15 +55,15 @@ arrivants une identification par le nom et le prénom.<br>
 
 # Réduction du nombre de messages inutiles
 
-Lors d'intéraction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
-à poster des messages hors-sujet ou simplement de SPAM dû à un manque de reponse.<br>
+Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
+à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
 
 C'est pourquoi nous avons imaginé établir une liste de règle de conduite.<br>
 Ainsi qu'un système de gestion des canaux de discussions, aussi, nous avons imaginé<br>
 un système de ticket.<br>
 
 Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de demander<br>
-de l'aide auprès des équipes concernées, ainsi grace à ce système, l'apprenant peut<br>
+de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
 notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
 
 # Garder le contact avec les anciens apprenants 
@@ -73,23 +73,23 @@ attitré à ces derniers.<br>
 
 Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
 plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
-leurs anciens camarades, participer aux discussions, bénéficier des ressources, etc..<br>
+leurs anciens camarades, participer aux discussions, bénéficier des ressources, etc.<br>
 
-De cette façons et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
-pourrait-être plus enclin à rester en contact avec Simplon.<br>
+De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
+pourrait être plus enclin à rester en contact avec Simplon.<br>
 
 # Amélioration du sourcing via Discord
 
-De la même façon que la création d'une communauté peut engendré une fidèlisation des anciens<br>
+De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
 
-Nous avons pensés à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
-pour les formations que Simplon dispense, de cette façons, tous les membres du serveur pourront<br>
-accèder simplement à ces annonces et seront plus proche de l'accès a ces informations.<br>
+Nous avons pensé à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
+pour les formations que Simplon dispense, de cette façon, tous les membres du serveur pourront<br>
+accéder simplement à ces annonces et seront plus proches de l'accès à ces informations.<br>
 
-Aussi, avec tous les biens-faits d'une communauté, nous augmentons le nombre de candiats potentiels<br>
+De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre de candidats potentiels<br>
 
-Ainsi, les anciens apprenants, pourront consultez les canaux dédiés et rechercher des formations<br>
+Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
 susceptibles de les intéresser.<br>
 
 # Apport d'un aspect de Mentoring
@@ -97,27 +97,27 @@ susceptibles de les intéresser.<br>
 Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
 lors de stages et après avoir terminé une formation Simplon.<br>
 
-C'est pourquoi nous proposons de mettre en place un espace dedié au Mentoring ou chaque<br>
+C'est pourquoi nous proposons de mettre en place un espace dédié au Mentoring ou chaque<br>
 apprenant ou ancien apprenant pourra être mis en relation avec un mentor.<br>
 
-Cette espace serait maintenu en partie par des bots qui s'occuperaient de la mise en relation<br>
+Cet espace serait maintenu en partie par des bots qui s'occuperaient de la mise en relation<br>
 propre et structurée des mentors et des apprenants.<br>
 
-De cette façons, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
+De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
 
 # Conclusion
 
 Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
 et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
-aspects sur un seul et même serveur, enfin de réduire le nombre d'outils de communication<br>
-et donc de permettre une récupération de l'information plus éfficace.<br>
+aspects sur un seul et même serveur, afin de réduire le nombre d'outils de communication<br>
+et donc de permettre une récupération de l'information plus efficace.<br>
 
-Aussi dans un second temps, il semble essentiel d'instaurer un esprit de communauté<br>
-pour que les apprenants puissent garder un contact même après la fin de leur formation.<br>
+De plus, il semble essentiel d'instaurer un esprit de communauté pour que les apprenants<br> 
+puissent garder un contact même après la fin de leur formation.<br>
 
-Nous pouvons déveloper un esprit communautaire en dédiant des canaux textuels globaux<br>
-au partage de ressources, à la discussion, ou tout autre thème afin de créer des intéractions<br>
-entre tous les apprenants, les anciens apprenants, et les membres des équipes Simplon.<br>
+Nous pouvons développer un esprit communautaire en dédiant des canaux textuels globaux<br>
+au partage de ressources, à la discussion, ou tout autre thème afin de créer des interactions<br>
+entre tous les apprenants, les anciens apprenants et les membres des équipes Simplon.<br>
 
 En développant un esprit communautaire, nous pouvons pallier au manque de candidats lors<br>
 de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
