@@ -78,7 +78,7 @@ leurs anciens camarades, participer aux discussions, bénéficier des ressources
 De cette façons et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
 pourrait-être plus enclin à rester en contact avec Simplon.<br>
 
-# Amélioration du sourcing
+# Amélioration du sourcing via Discord
 
 De la même façon que la création d'une communauté peut engendré une fidèlisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
@@ -91,3 +91,16 @@ Aussi, avec tous les biens-faits d'une communauté, nous augmentons le nombre de
 
 Ainsi, les anciens apprenants, pourront consultez les canaux dédiés et rechercher des formations<br>
 susceptibles de les intéresser.<br>
+
+# Apport d'un aspect de Mentoring
+
+Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
+lors de stages et après avoir terminé une formation Simplon.<br>
+
+C'est pourquoi nous proposons de mettre en place un espace dedié au Mentoring ou chaque<br>
+apprenant ou ancien apprenant pourra être mis en relation avec un mentor.<br>
+
+Cette espace serait maintenu en partie par des bots qui s'occuperaient de la mise en relation<br>
+propre et structurée des mentors et des apprenants.<br>
+
+De cette façons, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
