@@ -16,17 +16,36 @@
   - Un canal de discussion peut être textuel ou vocal
   - Il dispose d'une configurabilité par le biais de permissions
   - Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané
+  - Possibilité d'intégrer des web Hooks (Possibilité de poster des messages dans des salons discords depuis d'autres applications !) dans les salons textuels, forum, salon announcement.
 
 - Un forum de discussions est uniquement textuel
   - Il posait un guide des postes.
   - Il possèdent des tags.
   - Possède 2 dispositions (Une sous-forme de lignes et une sous-forme de grille) pour une meilleure visibilité.
   - Peut-être mis en archive (masqué) après une période d'inactivité.
+
+- Le salon de type announcement :
+  - Récapitulatif pour les personnes qui entrent et sortent du serveur discord.
+  - Permets de suivre les messages postés dans un discord.
+  - Les mentions ne sont pas transmises.
+  - Permets un suivi de vos postes sur le discord d'un apprenant par exemple.
+
+- Le salon de type Stage (Conférence) :
+  - Permets de créé des sessions, des groupes, d'organiser des événements publics (sous forme de conférence).
+  - Permet de diffuser des informations a tous le discord.
+  - Les orateurs :
+    - faciliter de déplacement dans l'audience.
+    - Sont autorisés à parler dans les salons stages.
+  - Les modérateurs de conférence :
+    - ce sont des orateurs classiques.
+    - Peuvent ajouter, retirer et mettre en sourdine d'orateurs.
+  - Toute personne ayant la permission de voir le salon de la conférence pourra y accéder en tant que spectateur.
   
 - Une catégorie Discord :
   - Elle peut contenir 0 à plusieurs canaux de discussion
   - Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose
   - Elle peut être agencée de différentes façons
+
   
 - Un formateur :
   - Un formateur peut créer un espace dédié à la formation qu'il dispense
