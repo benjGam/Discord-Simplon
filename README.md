@@ -1,14 +1,19 @@
 Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
 il dispense de nombreuses formations de tous types et pour tous niveaux,<br>
-Simplon c'est 20 000 membres dont 37% d'apprenants et 66% de sorties positives.<br>
+Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,<br>
+44,3% d'apprenants dont le niveau de diplôme est infra-bac ou bac mais c'est aussi<br>
+123 fabriques numériques.<br>
 
 Le principal canal de discussion Apprenant - Equipes Simplon est Discord,<br>
 Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui<br>
-commence, ce qui amène à un nombre très élevé de serveur Discord à terme<br>
+commence, ce qui amène à un nombre très élevé de serveur Discord à terme.<br>
 
 De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord<br>
 des formateurs, des apprenants et de tous les acteurs qui entre en contact avec<br>
 les promotions.<br>
+
+Ce présent document fait office de proposition de solutions à différentes<br>
+problématiques identifiées au sein des fabriques Hauts-De-France.<br>
 
 # Proposition de stratégie d'amélioration de l'organisation Simplon
 
