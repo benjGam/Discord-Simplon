@@ -32,6 +32,11 @@
   - Possède 2 dispositions (Une sous-forme de lignes et une sous-forme de grille) pour une meilleure visibilité.
   - Peut-être mis en archive (masqué) après une période d'inactivité.
 
+- Les intégrations d'application :
+  - Permets de gérer les Bots, les web Hooks et autres applications.
+  - Permets de restreinte les commandes de bots selon les rôles et salons.
+
+
 - Le salon de type announcement :
   - Il peut avoir plusieurs salon de ce type.
   - Récapitulatif pour les personnes qui entrent et sortent du serveur discord.
