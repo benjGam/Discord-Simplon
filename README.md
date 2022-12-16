@@ -1,3 +1,5 @@
+# Introduction
+
 Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
 il dispense de nombreuses formations de tous types et pour tous niveaux,<br>
 Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,<br>
@@ -35,7 +37,7 @@ point par point.<br>
 
 Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
 Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
-un dossier afin de reprendre chaque problèmatiques et de détailler les solutions possibles.<br>
+un dossier afin de reprendre chaque problématiques et de détailler les solutions possibles.<br>
 
 Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
@@ -165,7 +167,7 @@ Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu 
 
 ## La persona Staff
 
-La persona staff est agée entre 25 et 45 ans, elle n'est pas très à l'aise avec l'outil Discord.<br>
+La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.<br>
 Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
 
 ## La persona Formateur/trice
