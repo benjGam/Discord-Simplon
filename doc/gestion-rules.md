@@ -17,6 +17,12 @@
   - Il dispose d'une configurabilité par le biais de permissions
   - Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané
 
+- Un forum de discussions est uniquement textuel
+  - Il posait un guide des postes.
+  - Il possèdent des tags.
+  - Possède 2 dispositions (Une sous-forme de lignes et une sous-forme de grille) pour une meilleure visibilité.
+  - Peut-être mis en archive (masqué) après une période d'inactivité.
+  
 - Une catégorie Discord :
   - Elle peut contenir 0 à plusieurs canaux de discussion
   - Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose
