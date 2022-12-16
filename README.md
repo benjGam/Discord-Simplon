@@ -1,3 +1,15 @@
+Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
+il dispense de nombreuses formations de tous types et pour tous niveaux,<br>
+Simplon c'est 20 000 membres dont 37% d'apprenants et 66% de sorties positives.<br>
+
+Le principal canal de discussion Apprenant - Equipes Simplon est Discord,<br>
+Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui<br>
+commence, ce qui amène à un nombre très élevé de serveur Discord à terme<br>
+
+De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord<br>
+des formateurs, des apprenants et de tous les acteurs qui entre en contact avec<br>
+les promotions.<br>
+
 # Proposition de stratégie d'amélioration de l'organisation Simplon
 
 Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
@@ -9,11 +21,10 @@ l'éco-système Simplon.<br>
 
 Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
 de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
-proposer des solutions adaptées.<br>
+proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
+point par point.<br>
 
-Nous dresserons une liste de problématiques et y répondront point par point.<br>
-
-# Problèmatiques et Solutions
+# Problèmatiques et Propositions de solutions
 
 ## Introduction
 
