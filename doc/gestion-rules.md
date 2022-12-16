@@ -1,22 +1,30 @@
 # Règles de gestion
 
 - Un serveur Discord :
-  - Un serveur DIscord est un outil de discussion synchrone
-  - Il permet de développer une communauté
-  - Il permet d'appliquer une stratégie de RBAC nativement
-  - Il permet de créer des canaux de discussions textuels
-  - Il permet de créer des canaux de discussions vocaux
-  - Il permet d'organiser ces différents canaux en catégorie
+  - Un serveur Discord est un outil de discussion synchrone.
+  - Il permet de développer une communauté.
+  - Il permet d'appliquer une stratégie de RBAC nativement.
+  - Il permet de créer des canaux de discussions textuels.
+  - Il permet de créer des forums de discussions textuels.
+  - Il permet de créer des canaux de discussions vocaux.
+  - Il permet d'organiser ces différents canaux en catégorie.
+  - Il permet d'organiser des événements basés ou non sur des conférences.
+  - Il permet d'uploader ses propres emoji et autocollants.
+
+- Widget de serveur :
+  - Il défini dans quel salon mène n'importe quelle invitation crée sur le discord.
+  - Permets d'intégrer un widget prédéfinit de ton discord sur ton site.
 
 - Un rôle : 
-  - Un rôle peut être attribué à n'importe quel membre
-  - Il dispose d'une liste de permsissions activables ou désactivables
+  - Un rôle peut être attribué à n'importe quel membre.
+  - Il dispose d'une liste de permsissions activables ou désactivables.
+  - Il peut-être styliser de manière différente selon son utilisation.
 
 - Un canal de discussion : 
-  - Un canal de discussion peut être textuel ou vocal
-  - Il dispose d'une configurabilité par le biais de permissions
-  - Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané
-  - Possibilité d'intégrer des web Hooks (Possibilité de poster des messages dans des salons discords depuis d'autres applications !) dans les salons textuels, forum, salon announcement.
+  - Un canal de discussion peut être textuel ( Peut-être mis en archive (masqué) après une période d'inactivité ) ou vocal.
+  - Il dispose d'une configurabilité par le biais de permissions.
+  - Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané.
+  - Possibilité d'intégrer des web Hooks (Possibilité de poster des messages dans des salons discords depuis d'autres applications.!) dans les salons textuels, forum, salon announcement.
 
 - Un forum de discussions est uniquement textuel
   - Il posait un guide des postes.
@@ -25,6 +33,7 @@
   - Peut-être mis en archive (masqué) après une période d'inactivité.
 
 - Le salon de type announcement :
+  - Il peut avoir plusieurs salon de ce type.
   - Récapitulatif pour les personnes qui entrent et sortent du serveur discord.
   - Permets de suivre les messages postés dans un discord.
   - Les mentions ne sont pas transmises.
@@ -41,21 +50,22 @@
     - Peuvent ajouter, retirer et mettre en sourdine d'orateurs.
   - Toute personne ayant la permission de voir le salon de la conférence pourra y accéder en tant que spectateur.
   
+
 - Une catégorie Discord :
-  - Elle peut contenir 0 à plusieurs canaux de discussion
-  - Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose
-  - Elle peut être agencée de différentes façons
+  - Elle peut contenir 0 à plusieurs canaux de discussion.
+  - Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose.
+  - Elle peut être agencée de différentes façons.
 
   
 - Un formateur :
-  - Un formateur peut créer un espace dédié à la formation qu'il dispense
-  - Il peut ajouter un apprenant à cet espace dédié
-  - Il peut supprimer un apprenant de cet espace dédié
-  - Il peut discuter librement dans les canaux généraux
-  - Il a accès aux canaux du Staff
+  - Un formateur peut créer un espace dédié à la formation qu'il dispense.
+  - Il peut ajouter un apprenant à cet espace dédié.
+  - Il peut supprimer un apprenant de cet espace dédié.
+  - Il peut discuter librement dans les canaux généraux.
+  - Il a accès aux canaux du Staff.
 
 - Un apprenant : 
-  - Il peut discuter librement dans les canaux 
-  - Il peut discuter librement dans les canaux de sa promotion
-  - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés
-  - Il doit être lié à une et une seule promotion en cours
+  - Il peut discuter librement dans les canaux.
+  - Il peut discuter librement dans les canaux de sa promotion.
+  - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés.
+  - Il doit être lié à une et une seule promotion en cours.
