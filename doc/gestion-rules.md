@@ -10,6 +10,7 @@
   - Il permet d'organiser ces différents canaux en catégorie.
   - Il permet d'organiser des événements basés ou non sur des conférences.
   - Il permet d'uploader ses propres emoji et autocollants.
+  - Il permet un suivis de statistiques pousser pour sa communauter.
 
 - Widget de serveur :
   - Il défini dans quel salon mène n'importe quelle invitation crée sur le discord.
@@ -19,6 +20,9 @@
   - Un rôle peut être attribué à n'importe quel membre.
   - Il dispose d'une liste de permsissions activables ou désactivables.
   - Il peut-être styliser de manière différente selon son utilisation.
+  - Peut-être un rôle lié ( exemple: La personne aura le grade twitch si sont comptes twitch et lier à discord).
+  - Peut posséder une icône de rôle.
+  - Peut-être afficher séparément d'autres rôles.
 
 - Un canal de discussion : 
   - Un canal de discussion peut être textuel ( Peut-être mis en archive (masqué) après une période d'inactivité ) ou vocal.
