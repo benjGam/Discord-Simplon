@@ -36,6 +36,10 @@
   - Permets de gérer les Bots, les web Hooks et autres applications.
   - Permets de restreinte les commandes de bots selon les rôles et salons.
 
+- Le répertoire d'application :
+  - Permet de rechercher, parcourir et explorer des milliers d'application a fin personnaliser et d'automatiser sont serveur discord pour le rendre unique.
+  - Permet d'essayer des application avant de les mettres en place et de les utilisers sur sont propre discord.
+
 
 - Le salon de type announcement :
   - Il peut avoir plusieurs salon de ce type.
