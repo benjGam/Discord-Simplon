@@ -19,8 +19,9 @@
 
 - Une catégorie Discord :
   - Elle peut contenir 0 à plusieurs canaux de discussion
-  - Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose
-  - Elle peut être agencée de différentes façons
+  - Elle peut modifier les permissions des rôles du serveur uniquement sur les canaux qui la compose
+  - Elle peut être disposée de différentes façons
+  - Les canaux qui la composent peuvent être disposés de différentes façons
   
 - Un formateur :
   - Un formateur peut créer un espace dédié à la formation qu'il dispense
@@ -34,3 +35,4 @@
   - Il peut discuter librement dans les canaux de sa promotion
   - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés
   - Il doit être lié à une et une seule promotion en cours
+  - Il peut créer un ticket pour soliciter un membre du staff
