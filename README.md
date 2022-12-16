@@ -140,6 +140,3 @@ Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau 
 La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord<br>
 au quotidien afin de communiquer avec l'apprenant, elle utilisa aussi le mail comme moyen de communication<br>
 dans une moindre proportion que la persona Staff.<br>
-
-Ces 3 personas sont amenées à communiquer ensemble, pour simplifier les interactions<br>
-il peut être intéressant de réunir ces 3 personas à un seul et même endroit.<br> 
