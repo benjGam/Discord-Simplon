@@ -10,7 +10,7 @@
 
 - Un rôle : 
   - Un rôle peut être attribué à n'importe quel membre
-  - Il dispose de permsissions activables ou désactivables
+  - Il dispose d'une liste de permsissions activables ou désactivables
 
 - Un canal de discussion : 
   - Un canal de discussion peut être textuel ou vocal
