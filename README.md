@@ -41,7 +41,7 @@ un dossier afin de reprendre chaque problématiques et de détailler les solutio
 
 Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
-## Identification des problèmes et solutions
+## Identification des problèmes et de potentielles solutions
 
 | Problèmes                                     | Solutions                                                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
