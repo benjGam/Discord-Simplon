@@ -25,10 +25,7 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 Le choix de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
 
 Tout d'abord, TypeScript est un langage de programmation open-source qui est une extension de JavaScript,<br>
-ajoutant la vérification de type statique au code.<br>
-
-Cela permet de détecter les erreurs de type à la compilation, ce qui peut être plus efficace qu'à l'exécution,<br>
-et qui rends le développement d'une application plus efficient.<br>
+ajoutant la vérification de type statique au code, ce qui rends le debogage d'une application plus efficient.<br>
 
 En plus de la vérification de type, TypeScript ajoute également un support de la programmation orientée objet au JavaScript,<br>
 ce qui permet d'utiliser des concepts tels que les classes, les interfaces et les types génériques pour structurer le code de manière plus claire et plus évolutive.<br>
@@ -37,11 +34,13 @@ TypeScript est également connu pour sa meilleure documentation, grâce à la po
 Cela rend la documentation plus complète et facilite la compréhension du code par d'autres développeurs,<br>
 de ce fait, la maintenabilité et la lisibilité du code sont assurées de façon plus efficace.<br>
 
-Enfin, TypeScript est compatible avec de nombreux outils et frameworks populaires pour le développement JavaScript,<br>
-tel qu'Angular, ce qui le rend facile à intégrer dans une stack de développement existante.<br>
+Enfin, TypeScript est compatible avec de nombreux outils et frameworks populaires pour le développement JavaScript, <br>
+ce qui consistue un atout dans le cadre d'utilisation d'Angular par exemple.<br>
 
 En résumé, TypeScript est un langage de programmation polyvalent et performant qui ajoute certains concepts<br> 
 et une meilleure documentation au JavaScript, ce qui peut rendre le développement plus fiable et plus facile à maintenir.<br>
+
+C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutôt que JavaScript.<br>
 
 # Raisons de l'utilisation de Node.js en tant qu'environnement d'exécution
 
@@ -70,7 +69,7 @@ Node.js a donc été choisi en tant qu'environnement d'exécution pour ce projet
 de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
 De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
 
-# Raisons de l'utilisation de Angular en tant que framework Front-End
+# Raisons de l'utilisation d'Angular en tant que framework Front-End
 
 Nous proposons d'utiliser **Angular** comme framework Front-End car c'est un outil très<br> 
 puissant qui repose sur une architecture **MVC (Modèle-Vue-Contrôleur)** solide.<br>
@@ -97,13 +96,14 @@ En résumé, nous proposons donc d'utiliser Angular comme framework Front-End po
 
 Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de données (SGBD) pour notre projet en raison de sa :
 
-- **Fiabilité** : PostgreSQL a fait ses preuves en étant utilisé dans de nombreux projets à succès.
+- **Fiabilité** : PostgreSQL a fait ses preuves en étant utilisé dans de nombreux projets à succès tel qu'Instagram par exemple.
 
 - **Performance** : PostgreSQL est capable de traiter efficacement de grandes quantités de données.
+Ce qui dans le cadre de notre projet semble être intéressant en raison du nombre de données que nous<br>
+seront amenés à stocker sur le long terme.
 
-- **Flexibilité** : PostgreSQL prend en charge les bases de données relationnelles et non relationnelles, et offre une grande variété de types de données et de fonctionnalités.
-
-- **Aide de la communauté** : La communauté active autour de PostgreSQL fournit un soutien précieux pour résoudre les problèmes qui peuvent survenir.
+- **Aide de la communauté** : La communauté active autour de PostgreSQL fournit un soutien précieux pour résoudre les problèmes qui peuvent survenir
+lors de l'utilisation de PostgreSQL.<br>
 
 - **Nature open source** : PostgreSQL nous donne la liberté de modifier les bases de données selon nos besoins.
 
@@ -112,11 +112,11 @@ Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assure
 # Raisons de l'utilisation de TypeORM
 
 Nous proposons d'utiliser **TypeORM** en tant qu'ORM afin de sécuriser les<br> 
-interactions entre l'application et les bases de données. <br>
+interactions entre l'application et les bases de données.<br>
 Voici quelques raisons pour lesquelles **TypeORM** peut être un choix judicieux :<br>
 
-- **TypeORM** est un ORM entièrement conçu en **TypeScript**, ce qui correspond à nos besoins en termes de langage. <br>
-Il dispose d'une large communauté de développeurs et d'une documentation détaillée, <br>
+- **TypeORM** est un ORM entièrement conçu en **TypeScript**, ce qui correspond à nos besoins en termes de langage.<br>
+Il dispose d'une large communauté de développeurs et d'une documentation détaillée,<br>
 ce qui peut apporter un nombre conséquent de ressources en termes de résolution de problèmes éventuels<br>
 pouvant survenir lors du développement, ainsi que de nombreuses solutions pour le développement des fonctionnalités<br> 
 dont nous aurons besoin.
@@ -134,5 +134,6 @@ ce qui rend la manipulation de bases de données facile et intuitive.
 
 En résumé, **TypeORM** est un ORM complet et polyvalent qui peut s'intégrer facilement à notre projet<br> 
 et nous offrir une gestion sécurisée et efficace des interactions avec les bases de données. <br>
+
 Sa grande communauté de développeurs et sa documentation détaillée en font également<br>
 un choix de qualité pour le développement de notre application.<br>
