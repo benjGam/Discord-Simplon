@@ -43,30 +43,29 @@ un support de la programmation orientée objet et une meilleure documentation au
 
 C'est pourquoi nous avons choisi TypeScript plutôt que JavaScript.
 
-# NodeJS
+# Raisons de l'utilisation de Node.js en tant qu'environnement d'exécution
 
-Nous avons choisi NodeJS comme environnement d'exécution car il très facile de<br>
-créer des applications Web avec, NodeJS dispose d'une large gamme de Framework<br>
-permettant de faire du Back-End ainsi que du Front-End, aussi NodeJS est un<br>
-environnement complet et puissant avec une large communauté, ce qui permet<br>
-d'obtenir beaucoup de ressources et une documentation fournie.<br>
+Nous avons choisi Node.js comme environnement d'exécution pour plusieurs raisons :<br>
 
-De plus, dans le cadre des propositions que nous avons effectuées, il est question<br>
-de bots Discord.<br>
+- **Facilité de création d'applications Web** : Node.js dispose d'une large gamme<br>
+de frameworks pour le développement de back-end et de front-end,<br> 
+ce qui rend la création d'applications Web très facile.
 
-Discord étant lui même développer sous NodeJS, il semble plus intéressant de<br>
-développer des bots sous NodeJS, bien que cela aurait pu être fait sous d'autres<br>
-environnement d'exécution, nous avons privilégiés la facilité de mise en place,<br>
-la fléxibilité, les hautes performances ainsi que le nombre d'outils facilitant<br>
-la communication entre les bots et Discord, étant donné le temps impartis dans lequel<br>
-nous devons développer et déployer ce projet, nous avons préférés utiliser NodeJS<br>
-afin d'assurer la réalisation de ce projet.<br>
+- **Environnement complet et puissant** : Node.js est un environnement complet et puissant,<br> 
+avec une large communauté de développeurs.<br> 
+Cela permet d'avoir accès à de nombreuses ressources et à une documentation fournie.
 
-De plus, NodeJS n'étant pas seulement utile pour créer des bots Discord, mais aussi<br>
-pour créer des applications Web complètes, nous avons privilégiés l'utilissation d'un seul<br>
-et même environnement d'exécution pour développer des bots Discord ainsi que<br>
-pour développer une interace Web permettant de configurer tout ces bots et d'obtenir<br>
-des informations détaillées sur le serveur communautaire.<br>
+- **Développement de bots Discord** : Dans le cadre de ce projet, nous souhaitons<br>
+développer des bots Discord. Discord étant lui-même développé avec Node.js, il semble<br>
+plus intéressant de développer nos bots avec le même environnement.<br>
+De plus, Node.js offre une grande flexibilité et des performances élevées, <br>
+ainsi qu'un large choix d'outils pour faciliter la communication entre les bots et Discord.<br>
 
-NodeJS a donc été choisi à la proposition en tant qu'environnement d'exécution dans<br>
-le cadre de la réalisation de ce projet.<br>
+- **Utilisation d'un seul environnement** : Enfin, en choisissant Node.js comme<br>
+environnement d'exécution, nous pouvons développer à la fois des bots Discord et une<br>
+interface Web de configuration de ces bots et de consultation de données sur le serveur communautaire,<br>
+tout en utilisant un seul et même environnement.<br>
+
+Node.js a donc été choisi en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place,<br> 
+de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
+De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
