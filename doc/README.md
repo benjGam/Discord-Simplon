@@ -66,24 +66,21 @@ Node.js a donc été choisi en tant qu'environnement d'exécution pour ce projet
 de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
 De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
 
-# Raisons de l'uitlisation de Angular en tant que Framwork Front-End
+# Raisons de l'utilisation de Angular en tant que framework Front-End
 
-Nous avons décidé de chosiir Angular en guise de Framework Front-End car c'est un Framework très puissant<br>
-qui repose sur une architecture MVC (Model-View-Controller) solide, qui permet de séparer efficacement<br>
-les données, la logique et la répresentation de l'application.<br>
+Nous avons décidé d'utiliser Angular comme framework Front-End car c'est un outil très puissant<br> 
+qui repose sur une architecture MVC (Modèle-Vue-Contrôleur) solide.<br> 
+Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.
 
-De plus, Angular propose du Binding-Bidirectionnels, ce qui est intéressant dans le cadre de ce projet<br>
-quant à la visualisation de données, en effet, grace à ce système, il est possible de syncroniser en temps<br>
-réel des changements de données.<br>
+De plus, Angular propose des bindings bidirectionnels, ce qui est intéressant dans le cadre de ce projet en ce qui concerne la visualisation de données.<br>
+En effet, grâce à ce système, il est possible de synchroniser en temps réel des changements de données.<br>
 
-Angular propose aussi un système de composants réutilisables, c'est à dire que des composants peuvent être<br>
-utilisés au sein de certaines interfaces et être réutilisés sur d'autres, sans avoir à les redéveloppers.<br>
+Angular propose également un système de composants réutilisables,<br>
+ce qui signifie que des composants peuvent être utilisés dans certaines interfaces et réutilisés dans d'autres sans avoir à les redévelopper.<br>
 
-Aussi, Angular propose une structure de fichier claire et organisée, ce qui peut rendre la maintenabilité de<br>
-l'application plus facile à prendre en main pour d'autres développeurs, et donc assure une meilleure maintenabilité<br>
-de l'application.<br>
+En outre, Angular a une structure de fichiers claire et organisée, ce qui peut rendre la maintenance de l'application plus facile pour d'autres développeurs,<br> 
+et donc assurer une meilleure maintenabilité de l'application.
 
-Angular dispose d'une grande communauté de développeur, ce qui permet d'obtenir un certains nombre de ressources<br>
-afin d'avancer au mieux sur le développement en utilisant Angular.<br>
+Angular a également une grande communauté de développeurs, ce qui peut être une source précieuse d'aide et de soutien pendant le développement de cette application.<br>
 
-D'après toutes ces informations, nous proposons donc d'utiliser Angular en guise de Framwork Front-End.<br>
+En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.<br>
