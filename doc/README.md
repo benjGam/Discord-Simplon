@@ -41,7 +41,7 @@ ce qui peut rendre le développement plus fiable et plus facile à maintenir.<br
 
 # Raisons de l'utilisation de Node.js en tant qu'environnement d'exécution
 
-Nous avons choisi Node.js comme environnement d'exécution pour plusieurs raisons :<br>
+Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons :<br>
 
 - **Facilité de création d'applications Web** : Node.js dispose d'une large gamme<br>
 de frameworks pour le développement de back-end et de front-end,<br> 
@@ -68,7 +68,7 @@ De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce
 
 # Raisons de l'utilisation de Angular en tant que framework Front-End
 
-Nous avons décidé d'utiliser Angular comme framework Front-End car c'est un outil très puissant<br> 
+Nous proposons d'utiliser Angular comme framework Front-End car c'est un outil très puissant<br> 
 qui repose sur une architecture MVC (Modèle-Vue-Contrôleur) solide.<br> 
 Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.
 
@@ -84,3 +84,19 @@ et donc assurer une meilleure maintenabilité de l'application.
 Angular a également une grande communauté de développeurs, ce qui peut être une source précieuse d'aide et de soutien pendant le développement de cette application.<br>
 
 En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.<br>
+
+# Raisons de l'utilisation de PostgreSQL en tant que SGBD
+
+Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de données (SGBD) pour notre projet en raison de sa :
+
+- **Fiabilité** : PostgreSQL a fait ses preuves en étant utilisé dans de nombreux projets à succès.
+
+- **Performance** : PostgreSQL est capable de traiter efficacement de grandes quantités de données.
+
+- **Flexibilité** : PostgreSQL prend en charge les bases de données relationnelles et non relationnelles, et offre une grande variété de types de données et de fonctionnalités.
+
+- **Aide de la communauté** : La communauté active autour de PostgreSQL fournit un soutien précieux pour résoudre les problèmes qui peuvent survenir.
+
+- **Nature open source** : PostgreSQL nous donne la liberté de modifier les bases de données selon nos besoins.
+
+Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assurer la persistance des données de notre application.
