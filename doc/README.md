@@ -68,22 +68,26 @@ De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce
 
 # Raisons de l'utilisation de Angular en tant que framework Front-End
 
-Nous proposons d'utiliser Angular comme framework Front-End car c'est un outil très puissant<br> 
-qui repose sur une architecture MVC (Modèle-Vue-Contrôleur) solide.<br> 
-Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.
+Nous proposons d'utiliser **Angular** comme framework Front-End car c'est un outil très<br> 
+puissant qui repose sur une architecture **MVC (Modèle-Vue-Contrôleur)** solide.<br>
+Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.<br>
 
-De plus, Angular propose des bindings bidirectionnels, ce qui est intéressant dans le cadre de ce projet en ce qui concerne la visualisation de données.<br>
+De plus, Angular propose des **bindings bidirectionnels**, ce qui est intéressant dans le cadre<br>
+de ce projet en ce qui concerne la visualisation de données. <br>
 En effet, grâce à ce système, il est possible de synchroniser en temps réel des changements de données.<br>
 
-Angular propose également un système de composants réutilisables,<br>
-ce qui signifie que des composants peuvent être utilisés dans certaines interfaces et réutilisés dans d'autres sans avoir à les redévelopper.<br>
+Angular propose également un système de **composants réutilisables**, ce qui signifie que des<br> 
+composants peuvent être utilisés dans certaines interfaces et réutilisés dans d'autres<br>
+sans avoir à les redévelopper.<br>
 
-En outre, Angular a une structure de fichiers claire et organisée, ce qui peut rendre la maintenance de l'application plus facile pour d'autres développeurs,<br> 
-et donc assurer une meilleure maintenabilité de l'application.
+En outre, Angular a une **structure de fichiers claire et organisée**, ce qui peut rendre la<br>
+maintenance de l'application plus facile pour d'autres développeurs, et donc assurer une<br>
+meilleure maintenabilité de l'application.<br>
 
-Angular a également une grande communauté de développeurs, ce qui peut être une source précieuse d'aide et de soutien pendant le développement de cette application.<br>
+Angular a également une grande **communauté de développeurs**, ce qui peut être une<br>
+source précieuse d'aide et de soutien pendant le développement de cette application.<br>
 
-En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.<br>
+En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.
 
 # Raisons de l'utilisation de PostgreSQL en tant que SGBD
 
