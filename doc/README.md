@@ -39,9 +39,9 @@ nous devons développer et déployer ce projet, nous avons préférés utiliser 
 afin d'assurer la réalisation de ce projet.<br>
 
 De plus, NodeJS n'étant pas seulement utile pour créer des bots Discord, mais aussi<br>
-de créer des applications Web complètes, nous avons privilégiés d'utiliser un seul<br>
+pour créer des applications Web complètes, nous avons privilégiés l'utilissation d'un seul<br>
 et même environnement d'exécution pour développer des bots Discord ainsi que<br>
-de développer une interace Web permettant de configurer tout ces bots et d'obtenir<br>
+pour développer une interace Web permettant de configurer tout ces bots et d'obtenir<br>
 des informations détaillées sur le serveur communautaire.<br>
 
 NodeJS a donc été choisi à la proposition en tant qu'environnement d'exécution dans<br>
