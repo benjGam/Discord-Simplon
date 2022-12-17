@@ -2,13 +2,13 @@
 
 # Introduction
 
-Afin de mettre en oeuvre la réalisation de ce projet, mon équipe à réaliser<br>
-des comparatifs sur différentes technologies afin d'évaluer lesquelles seraient<br>
-les plus adaptées à la réalisation de ce projet.<br>
+Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet,<br>
+notre équipe a mené une analyse comparative de différentes options. <br>
 
-Ce présent document fait office de proposition technique quant à la réalisation<br>
-des différentes propositions préalablement explicitées.<br>
+Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées<br>
+pour la mise en œuvre du projet.<br>
 
+Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix.<br>
 # Identification des technologies 
 
 | Technologies | Description                                                                                                         |
