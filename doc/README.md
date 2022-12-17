@@ -15,7 +15,6 @@ des différentes propositions préalablement explicitées.<br>
 | ------------ | ------------------------------------------------------------------------------------------------------------------- |
 | NodeJS       | NodeJS est un environnement d'exécution JavaScript permettant de réaliser applications Web côté Serveur             |
 | NestJS       | NestJS est un Framework Back-End qui permet de créer des applications Web robustes et facilement maintenables       |
-| Fastify      |  Fastify est un framework de serveur web rapide et léger pour Node.js qui permet de créer facilement des serveurs web performants et évolutifs. |
 | Angular      | Angular est un Framework Front-End qui permet de créer des applications Web dynamiques et performantes              |
 | PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
 | TypeORM      | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée        |
@@ -66,3 +65,25 @@ tout en utilisant un seul et même environnement.<br>
 Node.js a donc été choisi en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place,<br> 
 de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
 De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
+
+# Raisons de l'uitlisation de Angular en tant que Framwork Front-End
+
+Nous avons décidé de chosiir Angular en guise de Framework Front-End car c'est un Framework très puissant<br>
+qui repose sur une architecture MVC (Model-View-Controller) solide, qui permet de séparer efficacement<br>
+les données, la logique et la répresentation de l'application.<br>
+
+De plus, Angular propose du Binding-Bidirectionnels, ce qui est intéressant dans le cadre de ce projet<br>
+quant à la visualisation de données, en effet, grace à ce système, il est possible de syncroniser en temps<br>
+réel des changements de données.<br>
+
+Angular propose aussi un système de composants réutilisables, c'est à dire que des composants peuvent être<br>
+utilisés au sein de certaines interfaces et être réutilisés sur d'autres, sans avoir à les redéveloppers.<br>
+
+Aussi, Angular propose une structure de fichier claire et organisée, ce qui peut rendre la maintenabilité de<br>
+l'application plus facile à prendre en main pour d'autres développeurs, et donc assure une meilleure maintenabilité<br>
+de l'application.<br>
+
+Angular dispose d'une grande communauté de développeur, ce qui permet d'obtenir un certains nombre de ressources<br>
+afin d'avancer au mieux sur le développement en utilisant Angular.<br>
+
+D'après toutes ces informations, nous proposons donc d'utiliser Angular en guise de Framwork Front-End.<br>
