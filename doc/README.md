@@ -104,3 +104,31 @@ Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de do
 - **Nature open source** : PostgreSQL nous donne la liberté de modifier les bases de données selon nos besoins.
 
 Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assurer la persistance des données de notre application.
+
+# Raisons de l'utilisation de TypeORM
+
+Nous proposons d'utiliser **TypeORM** en tant qu'ORM afin de sécuriser les<br> 
+interactions entre l'application et les bases de données. <br>
+Voici quelques raisons pour lesquelles **TypeORM** peut être un choix judicieux :<br>
+
+- **TypeORM** est un ORM entièrement conçu en **TypeScript**, ce qui correspond à nos besoins en termes de langage. <br>
+Il dispose d'une large communauté de développeurs et d'une documentation détaillée, <br>
+ce qui peut apporter un nombre conséquent de ressources en termes de résolution de problèmes éventuels<br>
+pouvant survenir lors du développement, ainsi que de nombreuses solutions pour le développement des fonctionnalités<br> 
+dont nous aurons besoin.
+- **TypeORM** est un ORM **open source**, ce qui est intéressant en termes de<br>
+liberté quant à l'utilisation et la manipulation de ce dernier.
+- **TypeORM** est performant et est utilisé par un grand nombre de développeurs<br>
+en raison de sa flexibilité. Il prend en charge de nombreux SGBD, dont **PostgreSQL**.
+- **TypeORM** gère automatiquement les schémas de base de données en termes<br>
+de création et de modifications, selon les modèles établis dans le code, ce qui<br>
+permet de gagner du temps<br>
+- **TypeORM** prend en charge la migration de base de données, ce qui permet de<br>
+gérer plus facilement les mises à jour du schéma de base de données.<br>
+- **TypeORM** est très intuitif et simple d'utilisation, <br>
+ce qui rend la manipulation de bases de données facile et intuitive.
+
+En résumé, **TypeORM** est un ORM complet et polyvalent qui peut s'intégrer facilement à notre projet<br> 
+et nous offrir une gestion sécurisée et efficace des interactions avec les bases de données. <br>
+Sa grande communauté de développeurs et sa documentation détaillée en font également<br>
+un choix de qualité pour le développement de notre application.<br>
