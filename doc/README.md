@@ -9,6 +9,7 @@ Suite à cette évaluation, nous avons établi ce document de proposition techni
 pour la mise en œuvre du projet.<br>
 
 Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix.<br>
+
 # Identification des technologies 
 
 | Technologies | Description                                                                                                         |
@@ -26,18 +27,21 @@ Le choix de TypeScript plutôt que JavaScript a été motivé par plusieurs fact
 Tout d'abord, TypeScript est un langage de programmation open-source qui est une extension de JavaScript,<br>
 ajoutant la vérification de type statique au code.<br>
 
-Cela permet de détecter les erreurs de type à la compilation, ce qui peut être plus efficace qu'à l'exécution.<br>
+Cela permet de détecter les erreurs de type à la compilation, ce qui peut être plus efficace qu'à l'exécution,<br>
+et qui rends le développement d'une application plus efficient.<br>
+
 En plus de la vérification de type, TypeScript ajoute également un support de la programmation orientée objet au JavaScript,<br>
 ce qui permet d'utiliser des concepts tels que les classes, les interfaces et les types génériques pour structurer le code de manière plus claire et plus évolutive.<br>
 
 TypeScript est également connu pour sa meilleure documentation, grâce à la possibilité de définir les types de chaque variable et fonction dans le code. <br>
-Cela rend la documentation plus complète et facilite la compréhension du code par d'autres développeurs.<br>
-Enfin, TypeScript est compatible avec de nombreux outils et frameworks populaires pour le développement JavaScript,<br>
-tels que Angular, React et Vue.js, ce qui le rend facile à intégrer dans une stack de développement existante.<br>
+Cela rend la documentation plus complète et facilite la compréhension du code par d'autres développeurs,<br>
+de ce fait, la maintenabilité et la lisibilité du code sont assurées de façon plus efficace.<br>
 
-En résumé, TypeScript est un langage de programmation polyvalent et performant qui ajoute la vérification de type statique,<br> 
-un support de la programmation orientée objet et une meilleure documentation au JavaScript,<br>
-ce qui peut rendre le développement plus fiable et plus facile à maintenir.<br>
+Enfin, TypeScript est compatible avec de nombreux outils et frameworks populaires pour le développement JavaScript,<br>
+tel qu'Angular, ce qui le rend facile à intégrer dans une stack de développement existante.<br>
+
+En résumé, TypeScript est un langage de programmation polyvalent et performant qui ajoute certains concepts<br> 
+et une meilleure documentation au JavaScript, ce qui peut rendre le développement plus fiable et plus facile à maintenir.<br>
 
 # Raisons de l'utilisation de Node.js en tant qu'environnement d'exécution
 
