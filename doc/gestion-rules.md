@@ -1,7 +1,7 @@
 # Règles de gestion
 
 - Un serveur Discord :
-  - Un serveur DIscord est un outil de discussion synchrone
+  - Un serveur Discord est un outil de discussion synchrone
   - Il permet de développer une communauté
   - Il permet d'appliquer une stratégie de RBAC nativement
   - Il permet de créer des canaux de discussions textuels
@@ -36,3 +36,9 @@
   - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés
   - Il doit être lié à une et une seule promotion en cours
   - Il peut créer un ticket pour soliciter un membre du staff
+
+- Un visiteur : 
+  - Un visiteur doit s'identifier
+  - Il doit accepter les règles du serveur
+  - Il à un accès restreint aux canaux du serveur
+  - Il doit être validé par un membre de Staff
