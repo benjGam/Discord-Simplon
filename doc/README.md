@@ -65,7 +65,7 @@ environnement d'exécution, nous pouvons développer à la fois des bots Discord
 interface Web de configuration de ces bots et de consultation de données sur le serveur communautaire,<br>
 tout en utilisant un seul et même environnement.<br>
 
-Node.js a donc été choisi en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place,<br> 
+Node.js a donc été retenu en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place,<br> 
 de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
 De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
 
