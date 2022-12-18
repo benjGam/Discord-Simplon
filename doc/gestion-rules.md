@@ -28,7 +28,7 @@
   - Un membre du staff peut valider les demandes d'identification des visiteurs
   - Un membre du staff peut créer des salons
   - Un membre du staff peut accèder aux tickets crées par les apprenants
-  - Un membre du staff peut expulser ou bannier un membre du serveur Discord
+  - Un membre du staff peut expulser ou bannir un membre du serveur Discord
   - Un membre du staff peut accèder au panel d'administration de gestion des bots
   - Un membre du staff peut poster des messages dans les canaux généraux
   - Un membre du staff peut poster des annonces
