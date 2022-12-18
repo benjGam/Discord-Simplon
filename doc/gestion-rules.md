@@ -1,7 +1,7 @@
 # Règles de gestion
 
 - Un serveur Discord :
-  - Un serveur DIscord est un outil de discussion synchrone
+  - Un serveur Discord est un outil de discussion synchrone
   - Il permet de développer une communauté
   - Il permet d'appliquer une stratégie de RBAC nativement
   - Il permet de créer des canaux de discussions textuels
@@ -19,9 +19,20 @@
 
 - Une catégorie Discord :
   - Elle peut contenir 0 à plusieurs canaux de discussion
-  - Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose
-  - Elle peut être agencée de différentes façons
+  - Elle peut modifier les permissions des rôles du serveur uniquement sur les canaux qui la compose
+  - Elle peut être disposée de différentes façons
+  - Les canaux qui la composent peuvent être disposés de différentes façons
   
+- Un membre du Staff : 
+  - Un membre du staff peut créer des catégories
+  - Un membre du staff peut valider les demandes d'identification des visiteurs
+  - Un membre du staff peut créer des salons
+  - Un membre du staff peut accèder aux tickets crées par les apprenants
+  - Un membre du staff peut expulser ou bannir un membre du serveur Discord
+  - Un membre du staff peut accèder au panel d'administration de gestion des bots
+  - Un membre du staff peut poster des messages dans les canaux généraux
+  - Un membre du staff peut poster des annonces
+
 - Un formateur :
   - Un formateur peut créer un espace dédié à la formation qu'il dispense
   - Il peut ajouter un apprenant à cet espace dédié
@@ -32,5 +43,14 @@
 - Un apprenant : 
   - Il peut discuter librement dans les canaux 
   - Il peut discuter librement dans les canaux de sa promotion
-  - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés
   - Il doit être lié à une et une seule promotion en cours
+  - Il peut créer un ticket pour soliciter un membre du staff
+
+- Un visiteur vérifié :
+  - Un visiteur vérifié peut consulter les canaux dédiés au recrutement
+
+- Un visiteur : 
+  - Un visiteur doit s'identifier
+  - Il doit accepter les règles du serveur
+  - Il à un accès restreint aux canaux du serveur
+  - Il doit être validé par un membre de Staff
