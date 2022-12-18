@@ -43,9 +43,11 @@
 - Un apprenant : 
   - Il peut discuter librement dans les canaux 
   - Il peut discuter librement dans les canaux de sa promotion
-  - Il peut prendre contact avec un membre du staff par le biais de canaux dédiés
   - Il doit être lié à une et une seule promotion en cours
   - Il peut créer un ticket pour soliciter un membre du staff
+
+- Un visiteur vérifié :
+  - Un visiteur vérifié peut consulter les canaux dédiés au recrutement
 
 - Un visiteur : 
   - Un visiteur doit s'identifier
