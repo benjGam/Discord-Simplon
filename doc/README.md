@@ -2,8 +2,9 @@
 
 # Introduction
 
+<<<<<<< HEAD
 Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet,<br>
-notre équipe a mené une analyse comparative de différentes options. <br>
+notre équipe a mené une analyse comparative de différentes options.<br>
 
 Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées<br>
 pour la mise en œuvre du projet.<br>
@@ -20,7 +21,20 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 | PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
 | TypeORM      | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée        |
 
-# Choix du langage
+# Proposition d'une API
+
+Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
+
+Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire<br>
+qu'une architecture en Monolithique, ce qui permet par exemple à d'autres développeurs<br>
+d'utiliser notre application afin d'ajouter des fonctionnalités et d'être capable de créer<br>
+de nouveaux outils à partir de notre de application.<br>
+
+Cela permettra d'apporter une évolutivité du projet dans son ensemble en permettant l'agrégation<br>
+de nouveaux outils sans besoin de retravailler l'architecture de l'application préalablement<br>
+en plus de permettre l'utilisation de l'API en tant que source d'informations.<br>
+
+# Proposition de langage
 
 Le choix de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
 
@@ -137,3 +151,22 @@ et nous offrir une gestion sécurisée et efficace des interactions avec les bas
 
 Sa grande communauté de développeurs et sa documentation détaillée en font également<br>
 un choix de qualité pour le développement de notre application.<br>
+=======
+Afin de mettre en oeuvre la réalisation de ce projet, mon équipe à réaliser<br>
+des comparatifs sur différentes technologies afin d'évaluer lesquelles seraient<br>
+les plus adaptées à la réalisation de ce projet.<br>
+
+Ce présent document fait office de proposition technique quant à la réalisation<br>
+des différentes propositions préalablement explicitées.<br>
+
+# Identification des technologies 
+
+| Technologies  | Description  |
+|---|---|
+| NodeJS | NodeJS est un environnement d'exécution JavaScript permettant de réaliser applications Web côté Serveur  |
+| NestJS | NestJS est un Framework Back-End qui permet de créer des applications Web robustes et facilement maintenables  |
+| Angular  | Angular est un Framework Front-End qui permet de créer des applications Web dynamiques et performantes |
+| PostgreSQL | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif  |
+| TypeORM  | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée |
+
+>>>>>>> 60051d6 (docs(common): add introduction section and technos introduction)

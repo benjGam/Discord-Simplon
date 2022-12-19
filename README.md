@@ -17,6 +17,13 @@ les promotions.<br>
 Ce présent document fait office de proposition de solutions à différentes<br>
 problématiques identifiées au sein des fabriques Hauts-De-France.<br>
 
+# Identification de l'équipe en charge du projet
+
+Pour la réalisation de ce projet, notre équipe est composée d'un<br>
+
+- Scrum Master : Bourez Bastien
+- Product Owner :  Gamache Benjamin
+
 # Proposition de stratégie d'amélioration de l'organisation Simplon
 
 Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
