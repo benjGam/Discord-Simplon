@@ -3,7 +3,7 @@
 # Introduction
 
 Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet,<br>
-notre équipe a mené une analyse comparative de différentes options. <br>
+notre équipe a mené une analyse comparative de différentes options.<br>
 
 Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées<br>
 pour la mise en œuvre du projet.<br>
@@ -20,7 +20,7 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 | PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
 | TypeORM      | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée        |
 
-# Choix du langage
+# Proposition de langage
 
 Le choix de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
 
