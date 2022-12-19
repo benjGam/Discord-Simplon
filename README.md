@@ -1,12 +1,47 @@
 # Introduction
 
+Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
+il dispense de nombreuses formations de tous types et pour tous niveaux,<br>
+Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,<br>
+44,3% d'apprenants dont le niveau de diplôme est infra-bac ou bac mais c'est aussi<br>
+123 fabriques numériques.<br>
+
+Le principal canal de discussion Apprenant - Equipes Simplon est Discord,<br>
+Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui<br>
+commence, ce qui amène à un nombre très élevé de serveur Discord à terme.<br>
+
+De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord<br>
+des formateurs, des apprenants et de tous les acteurs qui entre en contact avec<br>
+les promotions.<br>
+
+Ce présent document fait office de proposition de solutions à différentes<br>
+problématiques identifiées au sein des fabriques Hauts-De-France.<br>
+
+# Proposition de stratégie d'amélioration de l'organisation Simplon
+
+Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
+organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
+d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
+que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
+des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
+l'éco-système Simplon.<br>
+
+Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
+de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
+proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
+point par point.<br>
+
+# Problèmatiques et Propositions de solutions
+
+## Introduction
+
 Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
 Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
-un dossier afin de reprendre chaque problèmatiques et de détailler les solutions possibles.<br>
+un dossier afin de reprendre chaque problématiques et de détailler les solutions possibles.<br>
 
 Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
-# Identification des problèmes et solutions
+## Identification des problèmes et de potentielles solutions
 
 | Problèmes                                     | Solutions                                                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -19,7 +54,7 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 | Problème de sourcing                          | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources                 |
 | Pas de mentorat                               | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord                                  |
 
-# Endiguer la multiplicité des outils
+## Endiguer la multiplicité des outils
 
 Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous proposons de mettre<br>
 en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
@@ -28,7 +63,7 @@ et ainsi garder une organisation monolithique, centralisée en un seul et même 
 De cette façon, les informations et ressources partagées se situeront au même endroit<br>
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
-# Réduire le nombre d'actions répétitives du personnel
+## Réduire le nombre d'actions répétitives du personnel
 
 Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
 divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
@@ -37,7 +72,7 @@ En déployant des bots d'automatisation de tâches sur un serveur Discord, nous 
 l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
 de travail.<br>
 
-# Amélioration de l'ergonomie de Discord
+## Amélioration de l'ergonomie de Discord
 
 Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
 éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
@@ -46,14 +81,14 @@ du serveur Discord.
 De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
 main la gestion du serveur Discord dans certaines mesures définies par son rôle.<br>
 
-# Amélioration de l'identification des utilisateurs
+## Amélioration de l'identification des utilisateurs
 
 Nous avons identifié un problème d'identification des utilisateurs lors d'interactions,<br>
 en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
 des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
 arrivants une identification par le nom et le prénom.<br>
 
-# Réduction du nombre de messages inutiles
+## Réduction du nombre de messages inutiles
 
 Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
 à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
@@ -66,7 +101,7 @@ Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de dem
 de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
 notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
 
-# Garder le contact avec les anciens apprenants 
+## Garder le contact avec les anciens apprenants 
 
 Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
 attitré à ces derniers.<br>
@@ -78,7 +113,7 @@ leurs anciens camarades, participer aux discussions, bénéficier des ressources
 De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
 pourrait être plus enclin à rester en contact avec Simplon.<br>
 
-# Amélioration du sourcing via Discord
+## Amélioration du sourcing via Discord
 
 De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
@@ -92,7 +127,7 @@ De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre 
 Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
 susceptibles de les intéresser.<br>
 
-# Apport d'un aspect de Mentoring
+## Apport d'un aspect de Mentoring
 
 Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
 lors de stages et après avoir terminé une formation Simplon.<br>
@@ -105,7 +140,7 @@ propre et structurée des mentors et des apprenants.<br>
 
 De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
 
-# Conclusion
+## Conclusion
 
 Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
 et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
@@ -132,7 +167,7 @@ Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu 
 
 ## La persona Staff
 
-La persona staff est agée entre 25 et 45 ans, elle n'est pas très à l'aise avec l'outil Discord.<br>
+La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.<br>
 Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
 
 ## La persona Formateur/trice
