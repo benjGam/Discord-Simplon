@@ -14,7 +14,7 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 
 | Technologies | Description                                                                                                         |
 | ------------ | ------------------------------------------------------------------------------------------------------------------- |
-| NodeJS       | NodeJS est un environnement d'exécution JavaScript permettant de réaliser applications Web côté Serveur             |
+| NodeJS       | NodeJS est un environnement d'exécution JavaScript permettant de réaliser des applications Web côté Serveur         |
 | NestJS       | NestJS est un Framework Back-End qui permet de créer des applications Web robustes et facilement maintenables       |
 | Angular      | Angular est un Framework Front-End qui permet de créer des applications Web dynamiques et performantes              |
 | PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
@@ -25,7 +25,7 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
 
 Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire<br>
-qu'une architecture en Monolithique, ce qui permet par exemple à d'autres développeurs<br>
+qu'une architecture monolithique, ce qui permet par exemple à d'autres développeurs<br>
 d'utiliser notre application afin d'ajouter des fonctionnalités et d'être capable de créer<br>
 de nouveaux outils à partir de notre de application.<br>
 
@@ -35,7 +35,7 @@ en plus de permettre l'utilisation de l'API en tant que source d'informations.<b
 
 # Proposition de langage
 
-Le choix de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
+La proposition de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
 
 Tout d'abord, TypeScript est un langage de programmation open-source qui est une extension de JavaScript,<br>
 ajoutant la vérification de type statique au code, ce qui rends le debogage d'une application plus efficient.<br>
@@ -60,7 +60,7 @@ C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutô
 Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons :<br>
 
 - **Facilité de création d'applications Web** : Node.js dispose d'une large gamme<br>
-de frameworks pour le développement de back-end et de front-end,<br> 
+de frameworks pour le développement back-end et front-end,<br> 
 ce qui rend la création d'applications Web très facile.
 
 - **Environnement complet et puissant** : Node.js est un environnement complet et puissant,<br> 
@@ -68,9 +68,8 @@ avec une large communauté de développeurs.<br>
 Cela permet d'avoir accès à de nombreuses ressources et à une documentation fournie.
 
 - **Développement de bots Discord** : Dans le cadre de ce projet, nous souhaitons<br>
-développer des bots Discord. Discord étant lui-même développé avec Node.js, il semble<br>
-plus intéressant de développer nos bots avec le même environnement.<br>
-De plus, Node.js offre une grande flexibilité et des performances élevées, <br>
+développer des bots Discord.<br>
+Node.js offre une grande flexibilité et des performances élevées, <br>
 ainsi qu'un large choix d'outils pour faciliter la communication entre les bots et Discord.<br>
 
 - **Utilisation d'un seul environnement** : Enfin, en choisissant Node.js comme<br>
