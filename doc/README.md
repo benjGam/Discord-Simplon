@@ -55,7 +55,7 @@ et une meilleure documentation au JavaScript, ce qui peut rendre le développeme
 
 C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutôt que JavaScript.<br>
 
-# Raisons de l'utilisation de Node.js en tant qu'environnement d'exécution
+# Proposition d'environnement d'exécution
 
 Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons :<br>
 
@@ -81,7 +81,7 @@ Node.js a donc été retenu en tant qu'environnement d'exécution pour ce projet
 de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
 De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
 
-# Raisons de l'utilisation d'Angular en tant que framework Front-End
+# Proposition de Framework Front-End
 
 Nous proposons d'utiliser **Angular** comme framework Front-End car c'est un outil très<br> 
 puissant qui repose sur une architecture **MVC (Modèle-Vue-Contrôleur)** solide.<br>
@@ -104,7 +104,7 @@ source précieuse d'aide et de soutien pendant le développement de cette applic
 
 En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.
 
-# Raisons de l'utilisation de PostgreSQL en tant que SGBD
+# Proposition de base de donnée
 
 Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de données (SGBD) pour notre projet en raison de sa :
 
@@ -121,7 +121,7 @@ lors de l'utilisation de PostgreSQL.<br>
 
 Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assurer la persistance des données de notre application.
 
-# Raisons de l'utilisation de TypeORM
+# Proposition d'ORM
 
 Nous proposons d'utiliser **TypeORM** en tant qu'ORM afin de sécuriser les<br> 
 interactions entre l'application et les bases de données.<br>
