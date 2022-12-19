@@ -20,6 +20,19 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 | PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
 | TypeORM      | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée        |
 
+# Proposition d'une API
+
+Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
+
+Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire<br>
+qu'une architecture en Monolithique, ce qui permet par exemple à d'autres développeurs<br>
+d'utiliser notre application afin d'ajouter des fonctionnalités et d'être capable de créer<br>
+de nouveaux outils à partir de notre de application.<br>
+
+Cela permettra d'apporter une évolutivité du projet dans son ensemble en permettant l'agrégation<br>
+de nouveaux outils sans besoin de retravailler l'architecture de l'application préalablement<br>
+en plus de permettre l'utilisation de l'API en tant que source d'informations.<br>
+
 # Proposition de langage
 
 Le choix de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
