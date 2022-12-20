@@ -14,10 +14,10 @@ Ce projet consiste en la création d'un serveur communautaire Discord ayant pour
 acteurs de Simplon au sein d'un seul et même serveur Discord afin qu'à terme toute ou une majeure partie de <br>
 l'organisation de Simplon soit centralisée en un seul et même point.<br> 
 
-L'équipe est constituée par 4 membres :
+L'équipe est constituée de 4 membres :
 
 - **GAMACHE Benjamin** qui a le rôle de **Product Owner** dont la fonction est entre autre de prendre en charge les intéractions<br>
-entre l'équipe en charge du projet et le cient.
+entre l'équipe en charge du projet et le client.
 
 - **BOUREZ Bastien** qui a le rôle de **Scrum Master** dont la fonction est de diriger les membres de l'équipe en charge du projet<br> 
 et d'assigner des tâches à chacun.
