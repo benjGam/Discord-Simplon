@@ -57,7 +57,7 @@ C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutô
 
 ## 🌍 Proposition d'environnement d'exécution
 
-*Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons*
+Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons.
 
 ### 👶🏼 Facilité de création d'applications Web
 
