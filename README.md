@@ -23,22 +23,22 @@ problématiques identifiées au sein des fabriques Hauts-De-France.<br>
 
 Pour la réalisation de ce projet, notre équipe est composée d'un<br>
 
-- Scrum Master : Bourez Bastien
-- Product Owner :  Gamache Benjamin
+    - Scrum Master : Bourez Bastien
+    - Product Owner :  Gamache Benjamin
 
 # 📃 Proposition de stratégie d'amélioration de l'organisation Simplon
 
-Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
-organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
-d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
-que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
-des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
-l'éco-système Simplon.<br>
-
-Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
-de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
-proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
-point par point.<br>
+>Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
+>organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
+>d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
+>que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
+>des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
+>l'éco-système Simplon.<br>
+>
+>Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
+>de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
+>proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
+>point par point.<br>
 
 # 📝 Problèmatiques et Propositions de solutions
 
