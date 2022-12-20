@@ -4,6 +4,7 @@
 - <a href="#architecture">Architecture du projet</a>
 - <a href="#project-doc">Documentation relative au projet</a>
   - <a href="#project-presentation">Présentation du projet</a>
+  - <a href="#project-technical-documentation">Présentation des choix techniques</a>
 
 # Introduction <a id="introduction"></a>
 
@@ -72,3 +73,15 @@ au projet, ainsi nous avons établis une liste de problématiques, dans l'optiqu
 stratégies afin de résoudre les différentes problématiques identifiées.<br>
 
 Ce document peut être consulté en cliquant <a href="doc/improvement-proposition-strategy.md">ici</a>
+
+## Présentation technique du projet <a id="project-technical-documentation"></a>
+
+Dans un second temps, nous avons rédigés un document de présentation des choix techniques que<br>
+nous avons réalisés, nous avons donc dû réaliser des études quant au différentes technologies<br>
+envisageables dans le cadre de la mise en place de ce projet, et avons comparés ces différentes<br>
+technologies afin d'obtenir des **Benchmarks** dans l'optique d'obtenir la meilleure technologie<br>
+dans chaque domaine, nous avons donc rédigé un document récapitulatif et explicatifs de nos choix<br>
+afin de permettre à de tiers personnes d'en comprendre les enjeux ainsi que les raisons qui ont<br>
+motivées nos choix.<br>
+
+Ce document peut-être consulté en cliquant <a href="doc/technical-proposition.md">ici</a>
