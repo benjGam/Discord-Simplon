@@ -1,3 +1,5 @@
+![Simplon logo](https://www.actuia.com/wp-content/uploads/2019/07/%C3%A9cole-simplon.png)
+
 # Introduction
 
 Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
@@ -17,14 +19,14 @@ les promotions.<br>
 Ce présent document fait office de proposition de solutions à différentes<br>
 problématiques identifiées au sein des fabriques Hauts-De-France.<br>
 
-# Identification de l'équipe en charge du projet
+# 👥 Identification de l'équipe en charge du projet
 
 Pour la réalisation de ce projet, notre équipe est composée d'un<br>
 
 - Scrum Master : Bourez Bastien
 - Product Owner :  Gamache Benjamin
 
-# Proposition de stratégie d'amélioration de l'organisation Simplon
+# 📃 Proposition de stratégie d'amélioration de l'organisation Simplon
 
 Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
 organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
@@ -38,9 +40,9 @@ de Simplon, nous aborderons certaines problématiques que nous avons identifiés
 proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
 point par point.<br>
 
-# Problèmatiques et Propositions de solutions
+# 📝 Problèmatiques et Propositions de solutions
 
-## Introduction
+## 📌 Introduction
 
 Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
 Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
@@ -48,7 +50,7 @@ un dossier afin de reprendre chaque problématiques et de détailler les solutio
 
 Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
-## Identification des problèmes et de potentielles solutions
+## 👁‍🗨 Identification des problèmes et de potentielles solutions
 
 | Problèmes                                     | Solutions                                                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -61,7 +63,7 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 | Problème de sourcing                          | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources                 |
 | Pas de mentorat                               | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord                                  |
 
-## Endiguer la multiplicité des outils
+## 🔕 Endiguer la multiplicité des outils
 
 Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous proposons de mettre<br>
 en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
@@ -70,7 +72,7 @@ et ainsi garder une organisation monolithique, centralisée en un seul et même 
 De cette façon, les informations et ressources partagées se situeront au même endroit<br>
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
-## Réduire le nombre d'actions répétitives du personnel
+## 💭 Réduire le nombre d'actions répétitives du personnel
 
 Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
 divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
@@ -79,7 +81,7 @@ En déployant des bots d'automatisation de tâches sur un serveur Discord, nous 
 l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
 de travail.<br>
 
-## Amélioration de l'ergonomie de Discord
+## 💻 Amélioration de l'ergonomie de Discord
 
 Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
 éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
@@ -88,14 +90,14 @@ du serveur Discord.
 De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
 main la gestion du serveur Discord dans certaines mesures définies par son rôle.<br>
 
-## Amélioration de l'identification des utilisateurs
+## 🛂 Amélioration de l'identification des utilisateurs
 
 Nous avons identifié un problème d'identification des utilisateurs lors d'interactions,<br>
 en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
 des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
 arrivants une identification par le nom et le prénom.<br>
 
-## Réduction du nombre de messages inutiles
+## 📵 Réduction du nombre de messages inutiles
 
 Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
 à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
@@ -108,7 +110,7 @@ Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de dem
 de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
 notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
 
-## Garder le contact avec les anciens apprenants 
+## 📱 Garder le contact avec les anciens apprenants 
 
 Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
 attitré à ces derniers.<br>
@@ -120,7 +122,7 @@ leurs anciens camarades, participer aux discussions, bénéficier des ressources
 De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
 pourrait être plus enclin à rester en contact avec Simplon.<br>
 
-## Amélioration du sourcing via Discord
+## 📂 Amélioration du sourcing via Discord
 
 De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
@@ -134,7 +136,7 @@ De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre 
 Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
 susceptibles de les intéresser.<br>
 
-## Apport d'un aspect de Mentoring
+## 👩‍🏫 Apport d'un aspect de Mentoring
 
 Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
 lors de stages et après avoir terminé une formation Simplon.<br>
@@ -147,7 +149,7 @@ propre et structurée des mentors et des apprenants.<br>
 
 De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
 
-## Conclusion
+## 🔚 Conclusion
 
 Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
 et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
@@ -165,19 +167,21 @@ En développant un esprit communautaire, nous pouvons pallier au manque de candi
 de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
 d'annonce de recrutement.<br>
 
-# Identification des personas
+# 👤 Identification des personas
 
-## La persona Apprenant
+<br>
+
+## 👨🏼‍🎓 La persona Apprenant
 
 La persona apprenant est agée entre 18 et 30 ans, elle n'est pas toujours à l'aise avec l'outil Discord.<br>
 Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.<br>
 
-## La persona Staff
+## 👮‍♀️ La persona Staff
 
 La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.<br>
 Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
 
-## La persona Formateur/trice
+## 🧑‍🏫 La persona Formateur/trice
 
 La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord<br>
 au quotidien afin de communiquer avec l'apprenant, elle utilisa aussi le mail comme moyen de communication<br>
