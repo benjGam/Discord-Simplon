@@ -2,6 +2,8 @@
 
 - <a href="#introduction">Introduction</a>
 - <a href="#architecture">Architecture du projet</a>
+- <a href="#project-doc">Documentation relative au projet</a>
+  - <a href="#project-presentation">Présentation du projet</a>
 
 # Introduction <a id="introduction"></a>
 
@@ -56,3 +58,17 @@ de cette dernière.<br>
 
 - Le dossier **test** correspond aux ressources relatives aux tests au cours du développement,<br>
 c'est à dire les test unitaires, les tests d'intégrations par exemple.<br>
+
+# Documentation relative au projet <a id="project-doc"></a>
+
+Dans le cadre de ce projet, nous avons dû rédiger des documents afin de présenter à notre client<br>
+(Direction Simplon).
+
+## Présentation du projet <a id="project-presentation"></a>
+
+Dans un premier temps nous avons rédigés un document de présentation du contexte dans lequel ce<br>
+projet à vu le jour, puis nous avons introduit notre client afin d'ajouter d'avantage de contexte<br>
+au projet, ainsi nous avons établis une liste de problématiques, dans l'optique d'établir des<br>
+stratégies afin de résoudre les différentes problématiques identifiées.<br>
+
+Ce document peut être consulté en cliquant <a href="doc/improvement-proposition-strategy.md">ici</a>
