@@ -50,18 +50,18 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 ## 👁‍🗨 Identification des problèmes et de potentielles solutions
 
-| Problèmes                                     | Solutions                                                                                                               |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Multiplicité des outils                       | Utilisation de Discord par le biais d'un seul serveur communautaire maintenable                                         |
-| Actions répétitives du personnel              | Mise en place d'un système d'automatisation par le biais d'un bot Discord                                               |
-| Manque d'ergonomie de Discord                 | Rendre l'outil Discord le plus simple possible par le biais de bots                                                     |
-| Mauvaise identification lors des intéractions | Obligation pour l'utilisateur de s'identifier avec un nom et prénom lors de la première connexion par le biais d'un bot |
-| Multiplicité des messages inutiles (SPAM)     | Mise en place d'un système de ticket par le biais d'un bot                                                              |
-| Perte de contact avec les anciens apprenants  | Mise en place d'un rôle attitré                                                                                         |
-| Problème de sourcing                          | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources                 |
-| Pas de mentorat                               | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord                                  |
+| Problématiques                  | Problèmes                                     | Solutions                                                            |
+| ------------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
+| Mauvaise utilisation de Discord | Multiplicité des outils                       | <a href="#tools-multiplicity">Endiguer la multiplicité des outils</a> |
+|                                 | Actions répétitives du personnel              | <a href="#repetitives-tasks">Réduire le nombre d'actions répétitives du personnel</a> |
+|                                 | Manque d'ergonomie de Discord                 | <a href="#improve-discord-ergonomics">Amélioration de l'ergonomie de Discord</a> |
+|                                 | Mauvaise identification lors des intéractions | <a href="#users-identification">Amélioration de l'identification des utilisateurs</a> |
+| Manque de communication         | Multiplicité des messages inutiles (FLOOD)    | <a href="#useless-messages">Réduction du nombre de messages inutiles</a> |
+|                                 | Perte de contact avec les anciens apprenants  | <a href="#keep-alumnis-conctact">Garder le contact avec les anciens apprenants</a> |
+|                                 | Problème de sourcing                          | <a href="#improve-sourcing">Amélioration du sourcing via Discord</a> |
+|                                 | Pas de mentorat                               | <a href="#get-mentoring">Apport d'un aspect de Mentoring</a> |
 
-## 🔕 Endiguer la multiplicité des outils
+## 🔕 Endiguer la multiplicité des outils <a id="tools-multiplicity"></a>
 
 ![tool multiplicity](https://d3mq5qvsho0pww.cloudfront.net/AqqyI62Sj2kg8UmdNTkwPz/security=policy:eyJleHBpcnkiOjQxMDI0NDEyMDAsImNhbGwiOlsicmVhZCIsInN0YXQiLCJjb252ZXJ0Il0sInBhdGgiOiIvKD8hcHJpdmF0ZSkifQ==,signature:9f1daba952f50b97bf51d34e5c4f3666a4410c18d5cbc064c40fb0fe9d099542/output=compress:true,quality:80/https://cdn.filestackcontent.com/QQnox8jToalMFJqSbCpk)
 
@@ -72,7 +72,7 @@ et ainsi garder une organisation monolithique, centralisée en un seul et même 
 De cette façon, les informations et ressources partagées se situeront au même endroit<br>
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
-## 💭 Réduire le nombre d'actions répétitives du personnel
+## 💭 Réduire le nombre d'actions répétitives du personnel <a id="repetitives-tasks"></a>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
 
@@ -83,7 +83,7 @@ En déployant des bots d'automatisation de tâches sur un serveur Discord, nous 
 l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
 de travail.<br>
 
-## 💻 Amélioration de l'ergonomie de Discord
+## 💻 Amélioration de l'ergonomie de Discord <a id="improve-discord-ergonomics"></a>
 
 ![](https://www.ergo-site.com/wp-content/uploads/2021/04/ergonomie-poste-1400x700.jpg)
 
@@ -94,7 +94,7 @@ du serveur Discord.
 De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
 main la gestion du serveur Discord dans certaines mesures définies par son rôle.<br>
 
-## 🛂 Amélioration de l'identification des utilisateurs
+## 🛂 Amélioration de l'identification des utilisateurs <a id="users-identification"></a>
 
 ![identification image](https://theleaflet.in/wp-content/uploads/2022/08/Criminal-Identification-1024x500.png)
 
@@ -103,7 +103,7 @@ en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à c
 des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
 arrivants une identification par le nom et le prénom.<br>
 
-## 📵 Réduction du nombre de messages inutiles
+## 📵 Réduction du nombre de messages inutiles <a id="useless-messages"></a>
 
 ![](https://www.monequerre.fr/wp-content/uploads/2017/11/r%C3%A9duction-dimp%C3%B4t.jpg)
 
@@ -118,7 +118,7 @@ Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de dem
 de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
 notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
 
-## 📱 Garder le contact avec les anciens apprenants 
+## 📱 Garder le contact avec les anciens apprenants  <a id="keep-alumnis-conctact"></a>
 
 ![Conctact image](https://www.saint-quentin-en-yvelines.fr/sites/default/files/styles/banner/public/2022-10/Contact-illustration_bando.png?h=db9e9ca1&itok=gSanesyY)
 
@@ -132,7 +132,7 @@ leurs anciens camarades, participer aux discussions, bénéficier des ressources
 De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
 pourrait être plus enclin à rester en contact avec Simplon.<br>
 
-## 📂 Amélioration du sourcing via Discord
+## 📂 Amélioration du sourcing via Discord <a id="improve-sourcing"></a>
 
 ![Sourcing image](https://i.imgur.com/d9xHEse.png)
 
@@ -148,7 +148,7 @@ De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre 
 Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
 susceptibles de les intéresser.<br>
 
-## 👩‍🏫 Apport d'un aspect de Mentoring
+## 👩‍🏫 Apport d'un aspect de Mentoring <a id="get-mentoring"></a>
 
 ![mentoring image](https://www.sequoia.com/wp-content/uploads/2020/12/Benefits-of-Mentorship.png)
 
