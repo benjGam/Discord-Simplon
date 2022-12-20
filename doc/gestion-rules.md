@@ -1,6 +1,6 @@
 # Règles de gestion
 
-![gestion rules](https://www.financewhile.com/wp-content/uploads/2021/01/Business-Rules.png)
+![gestion rules image](https://www.financewhile.com/wp-content/uploads/2021/01/Business-Rules.png)
 
 ## 🤝 Un serveur Discord
 
@@ -25,10 +25,10 @@
     6. Peut-être afficher séparément d'autres rôles.
 
 ## 🗣️ Un canal de discussion
-    1. Un canal de discussion peut être textuel ( Peut-être mis en archive (masqué) après une période d'inactivité ) ou vocal.
+    1. Un canal de discussion peut être textuel ou vocal.
     2. Il dispose d'une configurabilité par le biais de permissions.
     3. Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané.
-    4. Possibilité d'intégrer des web Hooks (Possibilité de poster des messages dans des salons discords depuis d'autres applications.!) dans les salons textuels, forum, salon announcement.
+    4. Possibilité d'intégrer des web Hooks. dans les salons textuels, forum, salon announcement.
 
 ## 💬 Un forum de discussions est uniquement textuel
     1. Il posait un guide des postes.
