@@ -16,7 +16,7 @@ La réunion des différents acteurs Simplon ne sera pas aisée.
 Nous travaillerons pour vous rendre la plus facile possible.
 
 Suite à cette entrevue, nous avons convenue d'une nouvelle entrevue à la date du 09/01/2023 afin
-d'aborder plus en détails certains de vos besoins 
+d'aborder plus en profondeur certains de vos besoins.
 
 Je vous envoie ci-joint les documents sur lesquels nos réflexions se sont appuyées.
 
