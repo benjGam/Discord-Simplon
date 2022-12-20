@@ -2,13 +2,13 @@
 
 ![technical proposition image](https://img.freepik.com/premium-vector/people-work-office-vector-illustration_81522-379.jpg?w=2000)
 
-**Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet**,<br>
-**notre équipe a mené une analyse comparative de différentes options**.<br>
+Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet,<br>
+notre équipe a mené une analyse comparative de différentes options.<br>
 
-**Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées**<br>
-**pour la mise en œuvre du projet**.<br>
+Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées<br>
+pour la mise en œuvre du projet**.<br>
 
-**Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix**.<br>
+Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix.<br>
 
 ## 👀 Identification des technologies 
 
