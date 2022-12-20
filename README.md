@@ -2,22 +2,22 @@
 
 # Introduction
 
-Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
-il dispense de nombreuses formations de tous types et pour tous niveaux,<br>
-Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,<br>
-44,3% d'apprenants dont le niveau de diplôme est infra-bac ou bac mais c'est aussi<br>
-123 fabriques numériques.<br>
+    Simplon est un centre de formation orienté dans le milieu de l'informatique,
+    il dispense de nombreuses formations de tous types et pour tous niveaux,
+    Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,
+    44,3% d'apprenants dont le niveau de diplôme est infra-bac ou bac mais c'est aussi
+    123 fabriques numériques.
 
-Le principal canal de discussion Apprenant - Equipes Simplon est Discord,<br>
-Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui<br>
-commence, ce qui amène à un nombre très élevé de serveur Discord à terme.<br>
+    Le principal canal de discussion Apprenant - Equipes Simplon est Discord,
+    Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui
+    commence, ce qui amène à un nombre très élevé de serveur Discord à terme.
 
-De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord<br>
-des formateurs, des apprenants et de tous les acteurs qui entre en contact avec<br>
-les promotions.<br>
+    De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord
+    des formateurs, des apprenants et de tous les acteurs qui entre en contact avec
+    les promotions.
 
-Ce présent document fait office de proposition de solutions à différentes<br>
-problématiques identifiées au sein des fabriques Hauts-De-France.<br>
+    Ce présent document fait office de proposition de solutions à différentes
+    problématiques identifiées au sein des fabriques Hauts-De-France.
 
 # 👥 Identification de l'équipe en charge du projet
 
@@ -28,17 +28,17 @@ Pour la réalisation de ce projet, notre équipe est composée d'un<br>
 
 # 📃 Proposition de stratégie d'amélioration de l'organisation Simplon
 
->Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
->organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
->d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
->que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
->des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
->l'éco-système Simplon.<br>
->
->Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
->de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
->proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
->point par point.<br>
+Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
+organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
+d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
+que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
+des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
+l'éco-système Simplon.<br>
+
+Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
+de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
+proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
+point par point.<br>
 
 # 📝 Problèmatiques et Propositions de solutions
 
@@ -173,16 +173,18 @@ d'annonce de recrutement.<br>
 
 ## 👨🏼‍🎓 La persona Apprenant
 
-La persona apprenant est agée entre 18 et 30 ans, elle n'est pas toujours à l'aise avec l'outil Discord.<br>
-Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.<br>
+    La persona apprenant est agée entre 18 et 30 ans, 
+    elle n'est pas toujours à l'aise avec l'outil Discord.
+    Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.
 
 ## 👮‍♀️ La persona Staff
 
-La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.<br>
-Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
+    La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.
+    Cette persona utilise le mail et Discord afin de communiquer, 
+    elle a un réseau développé dans le milieu.
 
 ## 🧑‍🏫 La persona Formateur/trice
 
-La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord<br>
-au quotidien afin de communiquer avec l'apprenant, elle utilisa aussi le mail comme moyen de communication<br>
-dans une moindre proportion que la persona Staff.<br>
+    La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord
+    au quotidien afin de communiquer avec l'apprenant, elle utilise aussi le mail comme moyen de communication
+    dans une moindre proportion que la persona Staff.
