@@ -1,162 +1,191 @@
-# Proposition technique pour la réalisation du projet
+![Simplon logo](https://www.actuia.com/wp-content/uploads/2019/07/%C3%A9cole-simplon.png)
 
-![technical proposition image](https://img.freepik.com/premium-vector/people-work-office-vector-illustration_81522-379.jpg?w=2000)
+# Introduction
 
-Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet,<br>
-notre équipe a mené une analyse comparative de différentes options.<br>
+    Simplon est un centre de formation orienté dans le milieu de l'informatique,
+    il dispense de nombreuses formations de tous types et pour tous niveaux,
+    Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,
+    44,3% d'apprenants dont le niveau de diplôme est infra-bac ou bac mais c'est aussi
+    123 fabriques numériques.
 
-Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées<br>
-pour la mise en œuvre du projet**.<br>
+    Le principal canal de discussion Apprenant - Equipes Simplon est Discord,
+    Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui
+    commence, ce qui amène à un nombre très élevé de serveur Discord à terme.
 
-Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix.<br>
+    De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord
+    des formateurs, des apprenants et de tous les acteurs qui entre en contact avec
+    les promotions.
 
-## 👀 Identification des technologies 
+    Ce présent document fait office de proposition de solutions à différentes
+    problématiques identifiées au sein des fabriques Hauts-De-France.
 
-| Technologies | Description                                                                                                         |
-| ------------ | ------------------------------------------------------------------------------------------------------------------- |
-| NodeJS       | NodeJS est un environnement d'exécution JavaScript permettant de réaliser des applications Web côté Serveur         |
-| NestJS       | NestJS est un Framework Back-End qui permet de créer des applications Web robustes et facilement maintenables       |
-| Angular      | Angular est un Framework Front-End qui permet de créer des applications Web dynamiques et performantes              |
-| PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
-| TypeORM      | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée        |
+# 👥 Identification de l'équipe en charge du projet
 
-## 📄 Proposition d'une API
+Pour la réalisation de ce projet, notre équipe est composée d'un<br>
 
-Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
+    - Scrum Master : Bourez Bastien
+    - Product Owner :  Gamache Benjamin
 
-Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire<br>
-qu'une architecture monolithique, ce qui permet par exemple à d'autres développeurs<br>
-d'utiliser notre application afin d'ajouter des fonctionnalités et d'être capable de créer<br>
-de nouveaux outils à partir de notre de application.<br>
+# 📃 Proposition de stratégie d'amélioration de l'organisation Simplon
 
-Cela permettra d'apporter une évolutivité du projet dans son ensemble en permettant l'agrégation<br>
-de nouveaux outils sans besoin de retravailler l'architecture de l'application préalablement<br>
-en plus de permettre l'utilisation de l'API en tant que source d'informations.<br>
+Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
+organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
+d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
+que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
+des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
+l'éco-système Simplon.<br>
 
-## ⚛️ Proposition de langage
+Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
+de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
+proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
+point par point.<br>
 
-La proposition de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
+# 📝 Problèmatiques et Propositions de solutions
 
-Tout d'abord, TypeScript est un langage de programmation open-source qui est une extension de JavaScript,<br>
-ajoutant la vérification de type statique au code, ce qui rends le debogage d'une application plus efficient.<br>
+## 📌 Introduction
 
-En plus de la vérification de type, TypeScript ajoute également un support de la programmation orientée objet au JavaScript,<br>
-ce qui permet d'utiliser des concepts tels que les classes, les interfaces et les types génériques pour structurer le code de manière plus claire et plus évolutive.<br>
+Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
+Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
+un dossier afin de reprendre chaque problématiques et de détailler les solutions possibles.<br>
 
-TypeScript est également connu pour sa meilleure documentation, grâce à la possibilité de définir les types de chaque variable et fonction dans le code. <br>
-Cela rend la documentation plus complète et facilite la compréhension du code par d'autres développeurs,<br>
-de ce fait, la maintenabilité et la lisibilité du code sont assurées de façon plus efficace.<br>
+Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
-Enfin, TypeScript est compatible avec de nombreux outils et frameworks populaires pour le développement JavaScript, <br>
-ce qui consistue un atout dans le cadre d'utilisation d'Angular par exemple.<br>
+## 👁‍🗨 Identification des problèmes et de potentielles solutions
 
-En résumé, TypeScript est un langage de programmation polyvalent et performant qui ajoute certains concepts<br> 
-et une meilleure documentation au JavaScript, ce qui peut rendre le développement plus fiable et plus facile à maintenir.<br>
+| Problèmes                                     | Solutions                                                                                                               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Multiplicité des outils                       | Utilisation de Discord par le biais d'un seul serveur communautaire maintenable                                         |
+| Actions répétitives du personnel              | Mise en place d'un système d'automatisation par le biais d'un bot Discord                                               |
+| Manque d'ergonomie de Discord                 | Rendre l'outil Discord le plus simple possible par le biais de bots                                                     |
+| Mauvaise identification lors des intéractions | Obligation pour l'utilisateur de s'identifier avec un nom et prénom lors de la première connexion par le biais d'un bot |
+| Multiplicité des messages inutiles (SPAM)     | Mise en place d'un système de ticket par le biais d'un bot                                                              |
+| Perte de contact avec les anciens apprenants  | Mise en place d'un rôle attitré                                                                                         |
+| Problème de sourcing                          | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources                 |
+| Pas de mentorat                               | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord                                  |
 
-C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutôt que JavaScript.<br>
+## 🔕 Endiguer la multiplicité des outils
 
-## 🌍 Proposition d'environnement d'exécution
+Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous proposons de mettre<br>
+en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
+et ainsi garder une organisation monolithique, centralisée en un seul et même endroit.<br>
 
-Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons.
+De cette façon, les informations et ressources partagées se situeront au même endroit<br>
+et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
-### 👶🏼 Facilité de création d'applications Web
+## 💭 Réduire le nombre d'actions répétitives du personnel
 
-    Node.js dispose d'une large gamme
-    de frameworks pour le développement back-end et front-end,
-    ce qui rend la création d'applications Web très facile.
+Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
+divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
 
-### 🗃 Environnement complet et puissant
+En déployant des bots d'automatisation de tâches sur un serveur Discord, nous améliorerons<br>
+l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
+de travail.<br>
 
-    Node.js est un environnement complet et puissant,
-    avec une large communauté de développeurs. 
-    Cela permet d'avoir accès à de nombreuses ressources et à une documentation fournie.
+## 💻 Amélioration de l'ergonomie de Discord
 
-### 🤖 Développement de bots Discord
+Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
+éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
+du serveur Discord.
 
-    Dans le cadre de ce projet, nous souhaitons
-    développer des bots Discord.
-    Node.js offre une grande flexibilité et des performances élevées,
-    ainsi qu'un large choix d'outils pour faciliter la communication entre les bots et Discord.
+De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
+main la gestion du serveur Discord dans certaines mesures définies par son rôle.<br>
 
-### 1️⃣ Utilisation d'un seul environnement
+## 🛂 Amélioration de l'identification des utilisateurs
 
-    Enfin, en choisissant Node.js comme<br>
-    environnement d'exécution, nous pouvons développer à la fois des bots Discord et une<br>
-    interface Web de configuration de ces bots et de consultation de données sur le serveur communautaire,<br>
-    tout en utilisant un seul et même environnement.<br>
+Nous avons identifié un problème d'identification des utilisateurs lors d'interactions,<br>
+en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
+des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
+arrivants une identification par le nom et le prénom.<br>
 
-*Node.js a donc été retenu en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place*,<br> 
-*de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord*.<br> 
-*De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement*.<br>
+## 📵 Réduction du nombre de messages inutiles
 
-## 📦 Proposition de Framework Front-End
+Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
+à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
 
-Nous proposons d'utiliser **Angular** comme framework Front-End car c'est un outil très<br> 
-puissant qui repose sur une architecture **MVC (Modèle-Vue-Contrôleur)** solide.<br>
-Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.<br>
+C'est pourquoi nous avons imaginé établir une liste de règle de conduite.<br>
+Ainsi qu'un système de gestion des canaux de discussions, aussi, nous avons imaginé<br>
+un système de ticket.<br>
 
-Voici quelques raisons pour lesquelles **Angular** peut être un choix judicieux :<br>
+Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de demander<br>
+de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
+notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
 
-- Angular propose des **bindings bidirectionnels**, ce qui est intéressant dans le cadre<br>
-de ce projet en ce qui concerne la visualisation de données. <br>
-En effet, grâce à ce système, il est possible de synchroniser en temps réel des changements de données.<br>
+## 📱 Garder le contact avec les anciens apprenants 
 
-- Angular propose également un système de **composants réutilisables**, ce qui signifie que des<br> 
-composants peuvent être utilisés dans certaines interfaces et réutilisés dans d'autres<br>
-sans avoir à les redévelopper.<br>
+Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
+attitré à ces derniers.<br>
 
-- En outre, Angular a une **structure de fichiers claire et organisée**, ce qui peut rendre la<br>
-maintenance de l'application plus facile pour d'autres développeurs, et donc assurer une<br>
-meilleure maintenabilité de l'application.<br>
+Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
+plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
+leurs anciens camarades, participer aux discussions, bénéficier des ressources, etc.<br>
 
-- Angular a également une grande **communauté de développeurs**, ce qui peut être une<br>
-source précieuse d'aide et de soutien pendant le développement de cette application.<br>
+De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
+pourrait être plus enclin à rester en contact avec Simplon.<br>
 
-En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.
+## 📂 Amélioration du sourcing via Discord
 
-## 📑 Proposition de base de donnée
+De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
+apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
 
-Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de données (SGBD) pour notre projet en raison de sa :
+Nous avons pensé à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
+pour les formations que Simplon dispense, de cette façon, tous les membres du serveur pourront<br>
+accéder simplement à ces annonces et seront plus proches de l'accès à ces informations.<br>
 
-- **Fiabilité** : PostgreSQL a fait ses preuves en étant utilisé dans de nombreux projets à succès tel qu'Instagram par exemple.
+De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre de candidats potentiels<br>
 
-- **Performance** : PostgreSQL est capable de traiter efficacement de grandes quantités de données.
-Ce qui dans le cadre de notre projet semble être intéressant en raison du nombre de données que nous<br>
-seront amenés à stocker sur le long terme.
+Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
+susceptibles de les intéresser.<br>
 
-- **Aide de la communauté** : La communauté active autour de PostgreSQL fournit un soutien précieux pour résoudre les problèmes qui peuvent survenir
-lors de l'utilisation de PostgreSQL.<br>
+## 👩‍🏫 Apport d'un aspect de Mentoring
 
-- **Nature open source** : PostgreSQL nous donne la liberté de modifier les bases de données selon nos besoins.
+Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
+lors de stages et après avoir terminé une formation Simplon.<br>
 
-Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assurer la persistance des données de notre application.
+C'est pourquoi nous proposons de mettre en place un espace dédié au Mentoring ou chaque<br>
+apprenant ou ancien apprenant pourra être mis en relation avec un mentor.<br>
 
-## 🧐 Proposition d'ORM
+Cet espace serait maintenu en partie par des bots qui s'occuperaient de la mise en relation<br>
+propre et structurée des mentors et des apprenants.<br>
 
-Nous proposons d'utiliser **TypeORM** en tant qu'ORM afin de sécuriser les<br> 
-interactions entre l'application et les bases de données.<br>
+De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
 
-Voici quelques raisons pour lesquelles **TypeORM** peut être un choix judicieux :<br>
+## 🔚 Conclusion
 
-**TypeORM** est un ORM entièrement conçu en **TypeScript**, ce qui correspond à nos besoins en termes de langage.<br>
-Il dispose d'une large communauté de développeurs et d'une documentation détaillée,<br>
-ce qui peut apporter un nombre conséquent de ressources en termes de résolution de problèmes éventuels<br>
-pouvant survenir lors du développement, ainsi que de nombreuses solutions pour le développement des fonctionnalités<br> 
-dont nous aurons besoin.
-- **TypeORM** est un ORM **open source**, ce qui est intéressant en termes de<br>
-liberté quant à l'utilisation et la manipulation de ce dernier.
-- **TypeORM** est performant et est utilisé par un grand nombre de développeurs<br>
-en raison de sa flexibilité. Il prend en charge de nombreux SGBD, dont **PostgreSQL**.
-- **TypeORM** gère automatiquement les schémas de base de données en termes<br>
-de création et de modifications, selon les modèles établis dans le code, ce qui<br>
-permet de gagner du temps<br>
-- **TypeORM** prend en charge la migration de base de données, ce qui permet de<br>
-gérer plus facilement les mises à jour du schéma de base de données.<br>
-- **TypeORM** est très intuitif et simple d'utilisation, <br>
-ce qui rend la manipulation de bases de données facile et intuitive.
+Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
+et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
+aspects sur un seul et même serveur, afin de réduire le nombre d'outils de communication<br>
+et donc de permettre une récupération de l'information plus efficace.<br>
 
-En résumé, **TypeORM** est un ORM complet et polyvalent qui peut s'intégrer facilement à notre projet<br> 
-et nous offrir une gestion sécurisée et efficace des interactions avec les bases de données.<br>
+De plus, il semble essentiel d'instaurer un esprit de communauté pour que les apprenants<br> 
+puissent garder un contact même après la fin de leur formation.<br>
 
-Sa grande communauté de développeurs et sa documentation détaillée en font également,<br>
- un choix de qualité pour le développement de notre application.<br>
+Nous pouvons développer un esprit communautaire en dédiant des canaux textuels globaux<br>
+au partage de ressources, à la discussion, ou tout autre thème afin de créer des interactions<br>
+entre tous les apprenants, les anciens apprenants et les membres des équipes Simplon.<br>
+
+En développant un esprit communautaire, nous pouvons pallier au manque de candidats lors<br>
+de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
+d'annonce de recrutement.<br>
+
+# 👤 Identification des personas
+
+<br>
+
+## 👨🏼‍🎓 La persona Apprenant
+
+    La persona apprenant est agée entre 18 et 30 ans, 
+    elle n'est pas toujours à l'aise avec l'outil Discord.
+    Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.
+
+## 👮‍♀️ La persona Staff
+
+    La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.
+    Cette persona utilise le mail et Discord afin de communiquer, 
+    elle a un réseau développé dans le milieu.
+
+## 🧑‍🏫 La persona Formateur/trice
+
+    La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation
+    de Discord au quotidien afin de communiquer avec l'apprenant.
+    Elle utilise aussi le mail comme moyen de communication,
+    dans une moindre proportion que la persona Staff.
