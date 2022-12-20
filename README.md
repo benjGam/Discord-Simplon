@@ -186,5 +186,6 @@ d'annonce de recrutement.<br>
 ## 🧑‍🏫 La persona Formateur/trice
 
     La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord
-    au quotidien afin de communiquer avec l'apprenant, elle utilise aussi le mail comme moyen de communication
+    au quotidien afin de communiquer avec l'apprenant.
+    Elle utilise aussi le mail comme moyen de communication,
     dans une moindre proportion que la persona Staff.
