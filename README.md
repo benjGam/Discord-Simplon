@@ -43,7 +43,7 @@ ou encore les fichiers relatifs à Docker par exemple.<br>
 d'éxecution local, afin d'initialiser le projet.<br>
 
 - Le dossier **.github** correspond aux ressources relatives à Github, ce dossier peut contenir<br>
-la liste non-exhaustive des contributeurs ainsi que le code de conduite à adopter en autre.<br>
+la liste non-exhaustive des contributeurs ainsi que le code de conduite à adopter entre autre.<br>
 
 - Le dossier **dep** correspond aux dépendances relatives au projet, ce dossier doit contenir<br>
 les dépendances relatives au bon fonctionnement de l'application.<br>
@@ -63,14 +63,14 @@ c'est à dire les test unitaires, les tests d'intégrations par exemple.<br>
 # Documentation relative au projet <a id="project-doc"></a>
 
 Dans le cadre de ce projet, nous avons dû rédiger des documents afin de présenter à notre client<br>
-(Direction Simplon).
+(Direction Simplon) des pistes d'amélioration au sein de l'organisme.
 
 ## Présentation du projet <a id="project-presentation"></a>
 
 Dans un premier temps nous avons rédigés un document de présentation du contexte dans lequel ce<br>
 projet à vu le jour, puis nous avons introduit notre client afin d'ajouter d'avantage de contexte<br>
 au projet, ainsi nous avons établis une liste de problématiques, dans l'optique d'établir des<br>
-stratégies afin de résoudre les différentes problématiques identifiées.<br>
+stratégies de résolutions de ces dernières.<br>
 
 Ce document peut être consulté en cliquant <a href="doc/improvement-proposition-strategy.md">ici</a>
 
@@ -80,7 +80,7 @@ Dans un second temps, nous avons rédigés un document de présentation des choi
 nous avons réalisés, nous avons donc dû réaliser des études quant au différentes technologies<br>
 envisageables dans le cadre de la mise en place de ce projet, et avons comparés ces différentes<br>
 technologies afin d'obtenir des **Benchmarks** dans l'optique d'obtenir la meilleure technologie<br>
-dans chaque domaine, nous avons donc rédigé un document récapitulatif et explicatifs de nos choix<br>
+dans chaque domaine, nous avons donc rédigés un document récapitulatif et explicatif de nos choix<br>
 afin de permettre à de tiers personnes d'en comprendre les enjeux ainsi que les raisons qui ont<br>
 motivées nos choix.<br>
 
