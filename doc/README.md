@@ -134,7 +134,7 @@ pourrait être plus enclin à rester en contact avec Simplon.<br>
 
 ## 📂 Amélioration du sourcing via Discord
 
-![Sourcing image](https://fingerprint.com/static/2708428a46f16f6b676cdf87e0c450d1/f7616/fingerprintjs-discord.png)
+![Sourcing image](https://i.imgur.com/d9xHEse.png)
 
 De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
