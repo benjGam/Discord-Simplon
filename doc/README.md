@@ -42,8 +42,6 @@ point par point.<br>
 
 # 📝 Problèmatiques et Propositions de solutions
 
-## 📌 Introduction
-
 Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
 Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
 un dossier afin de reprendre chaque problématiques et de détailler les solutions possibles.<br>
@@ -65,6 +63,8 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 ## 🔕 Endiguer la multiplicité des outils
 
+![tool multiplicity](https://d3mq5qvsho0pww.cloudfront.net/AqqyI62Sj2kg8UmdNTkwPz/security=policy:eyJleHBpcnkiOjQxMDI0NDEyMDAsImNhbGwiOlsicmVhZCIsInN0YXQiLCJjb252ZXJ0Il0sInBhdGgiOiIvKD8hcHJpdmF0ZSkifQ==,signature:9f1daba952f50b97bf51d34e5c4f3666a4410c18d5cbc064c40fb0fe9d099542/output=compress:true,quality:80/https://cdn.filestackcontent.com/QQnox8jToalMFJqSbCpk)
+
 Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous proposons de mettre<br>
 en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
 et ainsi garder une organisation monolithique, centralisée en un seul et même endroit.<br>
@@ -73,6 +73,8 @@ De cette façon, les informations et ressources partagées se situeront au même
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
 ## 💭 Réduire le nombre d'actions répétitives du personnel
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
 
 Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
 divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
@@ -83,6 +85,8 @@ de travail.<br>
 
 ## 💻 Amélioration de l'ergonomie de Discord
 
+![](https://www.ergo-site.com/wp-content/uploads/2021/04/ergonomie-poste-1400x700.jpg)
+
 Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
 éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
 du serveur Discord.
@@ -92,12 +96,16 @@ main la gestion du serveur Discord dans certaines mesures définies par son rôl
 
 ## 🛂 Amélioration de l'identification des utilisateurs
 
+![identification image](https://theleaflet.in/wp-content/uploads/2022/08/Criminal-Identification-1024x500.png)
+
 Nous avons identifié un problème d'identification des utilisateurs lors d'interactions,<br>
 en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
 des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
 arrivants une identification par le nom et le prénom.<br>
 
 ## 📵 Réduction du nombre de messages inutiles
+
+![](https://www.monequerre.fr/wp-content/uploads/2017/11/r%C3%A9duction-dimp%C3%B4t.jpg)
 
 Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
 à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
@@ -112,6 +120,8 @@ notifier son problème et nous pouvons réguler le flux de messages inutiles.<br
 
 ## 📱 Garder le contact avec les anciens apprenants 
 
+![Conctact image](https://www.saint-quentin-en-yvelines.fr/sites/default/files/styles/banner/public/2022-10/Contact-illustration_bando.png?h=db9e9ca1&itok=gSanesyY)
+
 Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
 attitré à ces derniers.<br>
 
@@ -123,6 +133,8 @@ De cette façon et par tous les aspects qu'apporte une communauté, les anciens 
 pourrait être plus enclin à rester en contact avec Simplon.<br>
 
 ## 📂 Amélioration du sourcing via Discord
+
+![Sourcing image](https://fingerprint.com/static/2708428a46f16f6b676cdf87e0c450d1/f7616/fingerprintjs-discord.png)
 
 De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
@@ -137,6 +149,8 @@ Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et recherc
 susceptibles de les intéresser.<br>
 
 ## 👩‍🏫 Apport d'un aspect de Mentoring
+
+![mentoring image](https://www.sequoia.com/wp-content/uploads/2020/12/Benefits-of-Mentorship.png)
 
 Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
 lors de stages et après avoir terminé une formation Simplon.<br>
@@ -168,6 +182,8 @@ de lancement de nouvelles formations Simplon, par le biais de canaux dédiés au
 d'annonce de recrutement.<br>
 
 # 👤 Identification des personas
+
+![peapole identification](https://d35fo82fjcw0y8.cloudfront.net/2019/08/28115234/user-personas-header-1024x433.jpg)
 
 <br>
 
