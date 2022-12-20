@@ -1,16 +1,16 @@
 # Proposition technique pour la réalisation du projet
 
-# Introduction
+![technical proposition image](https://img.freepik.com/premium-vector/people-work-office-vector-illustration_81522-379.jpg?w=2000)
 
-Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet,<br>
-notre équipe a mené une analyse comparative de différentes options.<br>
+*Afin de déterminer les technologies les plus adaptées à la réalisation de notre projet*,<br>
+*notre équipe a mené une analyse comparative de différentes options*.<br>
 
-Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées<br>
-pour la mise en œuvre du projet.<br>
+*Suite à cette évaluation, nous avons établi ce document de proposition technique détaillant les différentes approches proposées*<br>
+*pour la mise en œuvre du projet*.<br>
 
-Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix.<br>
+*Ce document vise à présenter de manière claire et concise les choix technologiques retenus et les raisons de ces choix*.<br>
 
-# Identification des technologies 
+## 👀 Identification des technologies 
 
 | Technologies | Description                                                                                                         |
 | ------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 | PostgreSQL   | PostgreSQL est un système de gestion de base de données relationnelles de haute performance Open Source et évolutif |
 | TypeORM      | TypeORM est un ORM Open Source permettant d'intéragir avec les bases de données de façon simple et sécurisée        |
 
-# Proposition d'une API
+## 📄 Proposition d'une API
 
 Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
 
@@ -33,7 +33,7 @@ Cela permettra d'apporter une évolutivité du projet dans son ensemble en perme
 de nouveaux outils sans besoin de retravailler l'architecture de l'application préalablement<br>
 en plus de permettre l'utilisation de l'API en tant que source d'informations.<br>
 
-# Proposition de langage
+## ⚛️ Proposition de langage
 
 La proposition de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
 
@@ -55,56 +55,66 @@ et une meilleure documentation au JavaScript, ce qui peut rendre le développeme
 
 C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutôt que JavaScript.<br>
 
-# Proposition d'environnement d'exécution
+## 🌍 Proposition d'environnement d'exécution
 
-Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons :<br>
+*Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons*
 
-- **Facilité de création d'applications Web** : Node.js dispose d'une large gamme<br>
-de frameworks pour le développement back-end et front-end,<br> 
-ce qui rend la création d'applications Web très facile.
+#### 👶🏼 Facilité de création d'applications Web
 
-- **Environnement complet et puissant** : Node.js est un environnement complet et puissant,<br> 
-avec une large communauté de développeurs.<br> 
-Cela permet d'avoir accès à de nombreuses ressources et à une documentation fournie.
+    Node.js dispose d'une large gamme
+    de frameworks pour le développement back-end et front-end,
+    ce qui rend la création d'applications Web très facile.
 
-- **Développement de bots Discord** : Dans le cadre de ce projet, nous souhaitons<br>
-développer des bots Discord.<br>
-Node.js offre une grande flexibilité et des performances élevées, <br>
-ainsi qu'un large choix d'outils pour faciliter la communication entre les bots et Discord.<br>
+#### 🗃 Environnement complet et puissant
 
-- **Utilisation d'un seul environnement** : Enfin, en choisissant Node.js comme<br>
-environnement d'exécution, nous pouvons développer à la fois des bots Discord et une<br>
-interface Web de configuration de ces bots et de consultation de données sur le serveur communautaire,<br>
-tout en utilisant un seul et même environnement.<br>
+    Node.js est un environnement complet et puissant,
+    avec une large communauté de développeurs. 
+    Cela permet d'avoir accès à de nombreuses ressources et à une documentation fournie.
 
-Node.js a donc été retenu en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place,<br> 
-de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord.<br> 
-De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement.<br>
+#### 🤖 Développement de bots Discord
 
-# Proposition de Framework Front-End
+    Dans le cadre de ce projet, nous souhaitons
+    développer des bots Discord.
+    Node.js offre une grande flexibilité et des performances élevées,
+    ainsi qu'un large choix d'outils pour faciliter la communication entre les bots et Discord.
+
+#### 1️⃣ Utilisation d'un seul environnement
+
+    Enfin, en choisissant Node.js comme<br>
+    environnement d'exécution, nous pouvons développer à la fois des bots Discord et une<br>
+    interface Web de configuration de ces bots et de consultation de données sur le serveur communautaire,<br>
+    tout en utilisant un seul et même environnement.<br>
+
+*Node.js a donc été retenu en tant qu'environnement d'exécution pour ce projet en raison de sa facilité de mise en place*,<br> 
+*de sa flexibilité, de ses hautes performances, de sa large communauté et de la disponibilité d'outils pour la communication avec Discord*.<br> 
+*De plus, en choisissant Node.js, nous pouvons développer tous les aspects de ce projet dans un seul et même environnement*.<br>
+
+## 📦 Proposition de Framework Front-End
 
 Nous proposons d'utiliser **Angular** comme framework Front-End car c'est un outil très<br> 
 puissant qui repose sur une architecture **MVC (Modèle-Vue-Contrôleur)** solide.<br>
 Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.<br>
 
-De plus, Angular propose des **bindings bidirectionnels**, ce qui est intéressant dans le cadre<br>
+Voici quelques raisons pour lesquelles **Angular** peut être un choix judicieux :<br>
+
+- Angular propose des **bindings bidirectionnels**, ce qui est intéressant dans le cadre<br>
 de ce projet en ce qui concerne la visualisation de données. <br>
 En effet, grâce à ce système, il est possible de synchroniser en temps réel des changements de données.<br>
 
-Angular propose également un système de **composants réutilisables**, ce qui signifie que des<br> 
+- Angular propose également un système de **composants réutilisables**, ce qui signifie que des<br> 
 composants peuvent être utilisés dans certaines interfaces et réutilisés dans d'autres<br>
 sans avoir à les redévelopper.<br>
 
-En outre, Angular a une **structure de fichiers claire et organisée**, ce qui peut rendre la<br>
+- En outre, Angular a une **structure de fichiers claire et organisée**, ce qui peut rendre la<br>
 maintenance de l'application plus facile pour d'autres développeurs, et donc assurer une<br>
 meilleure maintenabilité de l'application.<br>
 
-Angular a également une grande **communauté de développeurs**, ce qui peut être une<br>
+- Angular a également une grande **communauté de développeurs**, ce qui peut être une<br>
 source précieuse d'aide et de soutien pendant le développement de cette application.<br>
 
 En résumé, nous proposons donc d'utiliser Angular comme framework Front-End pour tous ces avantages.
 
-# Proposition de base de donnée
+## 📑 Proposition de base de donnée
 
 Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de données (SGBD) pour notre projet en raison de sa :
 
@@ -121,13 +131,14 @@ lors de l'utilisation de PostgreSQL.<br>
 
 Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assurer la persistance des données de notre application.
 
-# Proposition d'ORM
+## 🧐 Proposition d'ORM
 
 Nous proposons d'utiliser **TypeORM** en tant qu'ORM afin de sécuriser les<br> 
 interactions entre l'application et les bases de données.<br>
+
 Voici quelques raisons pour lesquelles **TypeORM** peut être un choix judicieux :<br>
 
-- **TypeORM** est un ORM entièrement conçu en **TypeScript**, ce qui correspond à nos besoins en termes de langage.<br>
+**TypeORM** est un ORM entièrement conçu en **TypeScript**, ce qui correspond à nos besoins en termes de langage.<br>
 Il dispose d'une large communauté de développeurs et d'une documentation détaillée,<br>
 ce qui peut apporter un nombre conséquent de ressources en termes de résolution de problèmes éventuels<br>
 pouvant survenir lors du développement, ainsi que de nombreuses solutions pour le développement des fonctionnalités<br> 
@@ -145,7 +156,7 @@ gérer plus facilement les mises à jour du schéma de base de données.<br>
 ce qui rend la manipulation de bases de données facile et intuitive.
 
 En résumé, **TypeORM** est un ORM complet et polyvalent qui peut s'intégrer facilement à notre projet<br> 
-et nous offrir une gestion sécurisée et efficace des interactions avec les bases de données. <br>
+et nous offrir une gestion sécurisée et efficace des interactions avec les bases de données.<br>
 
-Sa grande communauté de développeurs et sa documentation détaillée en font également<br>
-un choix de qualité pour le développement de notre application.<br>
+Sa grande communauté de développeurs et sa documentation détaillée en font également,<br>
+ un choix de qualité pour le développement de notre application.<br>
