@@ -22,6 +22,8 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 
 ## 📄 Proposition d'une API
 
+![API proposition image](https://i.imgur.com/OdKnUjw.png)
+
 Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
 
 Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire<br>
@@ -34,6 +36,8 @@ de nouveaux outils sans besoin de retravailler l'architecture de l'application p
 en plus de permettre l'utilisation de l'API en tant que source d'informations.<br>
 
 ## ⚛️ Proposition de langage
+
+![Langage proposition image](https://i.imgur.com/7kaaBB5.png)
 
 La proposition de TypeScript plutôt que JavaScript a été motivé par plusieurs facteurs. <br>
 
@@ -57,7 +61,10 @@ C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutô
 
 ## 🌍 Proposition d'environnement d'exécution
 
-Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons.
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220614183841/laravel-vs-nodejs-vs-django.png)
+
+
+Nous vous proposons Node.js comme environnement d'exécution pour plusieurs raisons.
 
 ### 👶🏼 Facilité de création d'applications Web
 
@@ -91,6 +98,8 @@ Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons.
 
 ## 📦 Proposition de Framework Front-End
 
+![framework front choice](https://digiwin.fr/wp-content/uploads/2021/03/1-GEVBYK_t2QirtIhCJwrxvA.jpeg)
+
 Nous proposons d'utiliser **Angular** comme framework Front-End car c'est un outil très<br> 
 puissant qui repose sur une architecture **MVC (Modèle-Vue-Contrôleur)** solide.<br>
 Cette architecture permet de séparer efficacement les données, la logique et la présentation de l'application.<br>
@@ -116,6 +125,8 @@ En résumé, nous proposons donc d'utiliser Angular comme framework Front-End po
 
 ## 📑 Proposition de base de donnée
 
+![database proposition image](https://i.imgur.com/DxiRJ8j.png)
+
 Nous proposons d'utiliser **PostgreSQL** comme système de gestion de base de données (SGBD) pour notre projet en raison de sa :
 
 - **Fiabilité** : PostgreSQL a fait ses preuves en étant utilisé dans de nombreux projets à succès tel qu'Instagram par exemple.
@@ -132,6 +143,8 @@ lors de l'utilisation de PostgreSQL.<br>
 Nous pensons que l'utilisation de PostgreSQL est la meilleure option pour assurer la persistance des données de notre application.
 
 ## 🧐 Proposition d'ORM
+
+![ORM proposition image](https://i.imgur.com/GPDIYHZ.jpg)
 
 Nous proposons d'utiliser **TypeORM** en tant qu'ORM afin de sécuriser les<br> 
 interactions entre l'application et les bases de données.<br>
