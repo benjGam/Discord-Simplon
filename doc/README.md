@@ -59,26 +59,26 @@ C'est pourquoi, notre proposition de langage s'est portée sur TypeScript plutô
 
 *Nous proposons Node.js comme environnement d'exécution pour plusieurs raisons*
 
-#### 👶🏼 Facilité de création d'applications Web
+### 👶🏼 Facilité de création d'applications Web
 
     Node.js dispose d'une large gamme
     de frameworks pour le développement back-end et front-end,
     ce qui rend la création d'applications Web très facile.
 
-#### 🗃 Environnement complet et puissant
+### 🗃 Environnement complet et puissant
 
     Node.js est un environnement complet et puissant,
     avec une large communauté de développeurs. 
     Cela permet d'avoir accès à de nombreuses ressources et à une documentation fournie.
 
-#### 🤖 Développement de bots Discord
+### 🤖 Développement de bots Discord
 
     Dans le cadre de ce projet, nous souhaitons
     développer des bots Discord.
     Node.js offre une grande flexibilité et des performances élevées,
     ainsi qu'un large choix d'outils pour faciliter la communication entre les bots et Discord.
 
-#### 1️⃣ Utilisation d'un seul environnement
+### 1️⃣ Utilisation d'un seul environnement
 
     Enfin, en choisissant Node.js comme<br>
     environnement d'exécution, nous pouvons développer à la fois des bots Discord et une<br>
