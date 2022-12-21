@@ -200,16 +200,19 @@ Cependant, comme nous l'avons explicité avant, il est possible de mettre en pla
 
 ![mentoring image](https://www.sequoia.com/wp-content/uploads/2020/12/Benefits-of-Mentorship.png)
 
-Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
-lors de stages et après avoir terminé une formation Simplon.<br>
+Lors de nos phases de recherche, nous avons réfléchis à l'apport d'un aspect de Mentoring à cette stratégie et des biens faits que cela pourrait engendrer ainsi que des inconvénients liés, nous avons alors discuter de cet aspect avec différents membres du staff simplon HDF et avons constatés qu'il s'agissait d'une amélioration intéressante dans le cadre de ce projet.
 
-C'est pourquoi nous proposons de mettre en place un espace dédié au Mentoring ou chaque<br>
-apprenant ou ancien apprenant pourra être mis en relation avec un mentor.<br>
+Nous avons alors imaginé un système de mise en relation entre apprenants/alumnis au sein du serveur Discord, par le biais d'espace dédié, les utilisateurs pourront prendre contact avec des mentors sélectionnés. 
+Les interactions entre les utilisateurs et les mentors seront encadrées par un bot spécialement conçu pour la bonne mise en relation de ces deux parties.
 
-Cet espace serait maintenu en partie par des bots qui s'occuperaient de la mise en relation<br>
-propre et structurée des mentors et des apprenants.<br>
+En effet, l'apport d'un aspect de Mentorat constitue une amélioration intéressante car cela permet d'offrir un suivi post-formation pour les alumnis et ainsi apporter de nouvelles raisons aux alumnis de rester actifs sur le serveur Discord Simplon HDF.
+La possibilité d'être accompagné par un mentor après une formation constitue un avantage de poids dans le parcours d'un apprenant notamment en fin de formation, afin d'assurer une monter en compétence continue.
 
-De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
+Cependant, des difficultés sont à prendre en compte, tout d'abord, la mise en place de cette solution requiert un certain nombre d'étapes préalables telles que 
+la recherche de mentors ainsi que la sélection de ces derniers, ceci est une charge de travail que rajoute cette solution.
+
+Néanmoins, il est possible d'optimiser ces processus à l'aide de bot permettant d'effectuer des analyses afin de réaliser un premier tri des profils préalables.
+L'utilisation d'un bot effectuant ces tâches permettra alors de réduire grandement la charge de travail initiale apportée avec cette solution.
 
 ## 📂 Amélioration du sourcing via Discord <a id="improve-sourcing"></a>
 
