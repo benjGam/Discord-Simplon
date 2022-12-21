@@ -85,8 +85,6 @@ de travail.<br>
 
 ## 💻 Amélioration de l'ergonomie de Discord <a id="improve-discord-ergonomics"></a>
 
-![](https://www.ergo-site.com/wp-content/uploads/2021/04/ergonomie-poste-1400x700.jpg)
-
 Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
 éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
 du serveur Discord.
@@ -104,8 +102,6 @@ des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux n
 arrivants une identification par le nom et le prénom.<br>
 
 ## 📵 Réduction du nombre de messages inutiles <a id="useless-messages"></a>
-
-![](https://www.monequerre.fr/wp-content/uploads/2017/11/r%C3%A9duction-dimp%C3%B4t.jpg)
 
 Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
 à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
