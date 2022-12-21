@@ -23,7 +23,11 @@
     il mettra en lumière se sentiments de communauté de Simploniens souvent mis en avant 
     avec difficultés. Il est aussi question d'organisation pour améliorer la vie des apprenants et
     du staff Simplon. Un énorme gain de temps est aussi de mise, ce projet permettra au staff de ce 
-    recentrer sur les objectis principaux sans s'occuper du superflux.
+    recentrer sur les objectis principaux sans s'occuper du superflux, donc minimiser toute les tâches 
+    répété. Ameliorer la resolution de problème d'apprenant à staff si une demande est faite. Améliorer le 
+    future des apprenants avec certaine solutions. Trouver de bon profile pour les formations. Améliorer 
+    l'apprentissage des apprenants.
+
 
 # 👥 Identification de l'équipe en charge du projet
 
