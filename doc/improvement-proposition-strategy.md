@@ -88,12 +88,12 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
         <td><a href="#keep-alumnis-conctact">Garder le contact avec les anciens apprenants</a></td>
     </tr>
     <tr>
-        <td>Problème de sourcing</td>
-        <td><a href="#improve-sourcing">Amélioration du sourcing via Discord</a></td>
-    </tr>
-    <tr>
         <td>Pas de mentorat</td>
         <td><a href="#get-mentoring">Apport d'un aspect de Mentoring</a></td>
+    </tr>
+    <tr>
+        <td>Problème de sourcing</td>
+        <td><a href="#improve-sourcing">Amélioration du sourcing via Discord</a></td>
     </tr>
 </table>
 
