@@ -22,11 +22,11 @@
     Ce projet soulève différents enjeux concernant la communication de Simplon HDF, 
     il mettra en lumière se sentiments de communauté de Simploniens souvent mis en avant 
     avec difficultés. Il est aussi question d'organisation pour améliorer la vie des apprenants et
-    du staff Simplon. Un énorme gain de temps est aussi de mise, ce projet permettra au staff de ce 
+    des équipes Simplon. Un énorme gain de temps est aussi de mise, ce projet permettra aux équipes de se 
     recentrer sur les objectis principaux sans s'occuper du superflux, donc minimiser toute les tâches 
-    répété. Ameliorer la resolution de problème d'apprenant à staff si une demande est faite. Améliorer le 
-    future des apprenants avec certaine solutions. Trouver de bon profile pour les formations. Améliorer 
-    l'apprentissage des apprenants.
+    répété, ameliorer la resolution de problème d'apprenants par les équipes administratives lorsqu'une demande est faite, améliorer le 
+    futur des apprenants en favorisant le suivi post-formation, trouver les meilleurs profils pour les formations, améliorer 
+    les conditions d'apprentissage des apprenants.
 
 
 # 👥 Identification de l'équipe en charge du projet
@@ -39,7 +39,7 @@ Pour la réalisation de ce projet, notre équipe est composée d'un<br>
 # 📃 Proposition de stratégie d'amélioration de la communication interne à Simplon HDF
 
 Notre équipe une proposition de stratégie d'amélioration de l'organisation<br>
-de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
+de Simplon, nous aborderons certaines problématiques que nous avons identifié afin de<br>
 proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
 point par point.<br>
 
@@ -47,7 +47,7 @@ point par point.<br>
 
 # 📝 Problèmatiques et Propositions de solutions
 
-Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
+Nous avons identifié certaines problématiques au sein de l'organisation de Simplon.<br>
 Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
 un dossier afin de reprendre chaque problématiques et de détailler les solutions possibles.<br>
 
@@ -242,7 +242,7 @@ d'annonce de recrutement.<br>
 
 Lors de discutions avec différents membres des équipes Simplno HDF, nous avons réaliser des analyses concernants différentes problématiques, nous avons donc identifié une multiplicité des outils de communication tel qu'un nombre très élevé de serveur Discord, et avons donc établis une stratégie afin de réduire cette multiplicité.
 
-Nous avons réfléchis à des solutions afin de pallier aux différentes problématiques que nous avons identifiés et avons réfléchis à la mise en place d'un unique serveur Discord ayant pour objectif de centraliser tout l'éco-système Simplon HDF en un seul et même point.
+Nous avons réfléchis à des solutions afin de pallier aux différentes problématiques que nous avons identifié et avons réfléchis à la mise en place d'un unique serveur Discord ayant pour objectif de centraliser tout l'éco-système Simplon HDF en un seul et même point.
 
 Ce serveur Discord aura pour fonction de réunir tous les acteurs Simplon HDF, qu'il s'agisse des membres des différentes équipes d'administration ou d'apprenants/alumnis.
 
