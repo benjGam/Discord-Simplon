@@ -57,16 +57,48 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 //refaire en HTML
 
-| Problématiques                                                 | Problèmes                                     | Solutions                                                                             |
-| -------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Utilisation de Discord inapropriée dans un cadre professionnel | Multiplicité des outils                       | <a href="#tools-multiplicity">Endiguer la multiplicité des outils</a>                 |
-|                                                                | Actions répétitives du personnel              | <a href="#repetitives-tasks">Réduire le nombre d'actions répétitives du personnel</a> |
-|                                                                | Manque d'ergonomie de Discord                 | <a href="#improve-discord-ergonomics">Amélioration de l'ergonomie de Discord</a>      |
-|                                                                | Mauvaise identification lors des intéractions | <a href="#users-identification">Amélioration de l'identification des utilisateurs</a> |
-| Communication  inefficace                                      | Multiplicité des messages inutiles (FLOOD)    | <a href="#useless-messages">Réduction du nombre de messages inutiles</a>              |
-|                                                                | Perte de contact avec les anciens apprenants  | <a href="#keep-alumnis-conctact">Garder le contact avec les anciens apprenants</a>    |
-|                                                                | Problème de sourcing                          | <a href="#improve-sourcing">Amélioration du sourcing via Discord</a>                  |
-|                                                                | Pas de mentorat                               | <a href="#get-mentoring">Apport d'un aspect de Mentoring</a>                          |
+
+<table>
+    <tr>
+        <td>Problématiques</td>
+        <td>Problèmes</td>
+        <td>Solution</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Utilisation de Discord inapropriée dans un cadre professionnel</td>
+        <td>Mutliplicité des outils</td>
+        <td><a href="#tools-multiplicity">Endiguer la multiplicité des outils</a></td>
+    </tr>
+    <tr>
+        <td>Mauvaise identification lors des interactions</td>
+        <td><a href="#users-identification">Amélioration de l'identification des utilisateurs</a></td>
+    </tr>
+    <tr>
+        <td>Actions répétitives du personnel</td>
+        <td><a href="#repetitives-tasks">Réduire le nombre d'actions répétitives du personnel</a></td>
+    </tr>
+    <tr>
+        <td>Manque d'ergonomie de Discord</td>
+        <td><a href="#improve-discord-ergonomics">Amélioration de l'ergonomie de Discord</a></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Communication inefficace</td>
+        <td>Multiplicité des messages inutiles (FLOOD)</td>
+        <td><a href="#useless-messages">Réduction du nombre de messages inutiles</a></td>
+    </tr>
+    <tr>
+        <td>Perte de contact avec les anciens apprenants</td>
+        <td><a href="#keep-alumnis-conctact">Garder le contact avec les anciens apprenants</a></td>
+    </tr>
+    <tr>
+        <td>Problème de sourcing</td>
+        <td><a href="#improve-sourcing">Amélioration du sourcing via Discord</a></td>
+    </tr>
+    <tr>
+        <td>Pas de mentorat</td>
+        <td><a href="#get-mentoring">Apport d'un aspect de Mentoring</a></td>
+    </tr>
+</table>
 
 ## 🔕 Endiguer la multiplicité des outils <a id="tools-multiplicity"></a>
 
@@ -82,7 +114,7 @@ De cette façon, les membres des équipes Simplon HDF, pourront séléctionner l
 
 Nous avons aussi identifié que certains membres des équipes Simplon HDF devant intervenir auprès des différentes promotions, ont un nombre élevé de serveur Discord dans lesquels ils postent des messages tels que des annonces par exemple. Grâce à la réunification de tous les acteurs Simplon HDF, il est possible de mettre à disposition des canaux dédiés aux annonces globales dans lesquels des messages pourront être postés par les membres des équipes d'administration afin d'atteindre tous les utilisateurs du serveur en même temps, ce qui permettra de faire gagner un temps considérable aux équipes.
 
-De plus, nous avons identifié qu'il n'est pas toujours simple pour les utilisateurs de s'identifier entre-eux lors d'interactions.
+De plus, nous avons identifié qu'il n'est pas toujours simple pour les utilisateurs de s'identifier entre-eux lors d'interactions. <a id="users-identification"></a>
 A cette problématique, nous avons réfléchis à un système imposant aux nouveaux arrivants de s'identifier par leurs noms et leurs prénoms uniquement sur le serveur Discord afin d'y accéder, de ce fait, les utilisateurs seront identifiables par leur noms et prénoms et donc pourront savoir avec qui ils interagissent, ce qui facilitera alors grandement les échanges entre les différents utilisateurs.
 
 Cette solution apporte une équivalence quant à la qualité des supports de communications au sein de chaque promotion, en effet, Discord offre la possibilité de **booster** un serveur, permettant entre autre d'améliorer la qualité des échanges vocaux et vidéos des canaux. En recentralisant toutes les promotions au sein d'un unique serveur Discord, les promotions bénéficieront toutes des avantages qu'offre le Boost de serveur tel que l'amélioration de la qualité des canaux vocaux, en utilisant un unique serveur Discord, nous améliorons donc les conditions de toutes les promotions à moindre coût.
