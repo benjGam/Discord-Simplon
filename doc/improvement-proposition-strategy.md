@@ -179,8 +179,6 @@ d'annonce de recrutement.<br>
 
 # 👤 Identification des personas
 
-![peapole identification](https://d35fo82fjcw0y8.cloudfront.net/2019/08/28115234/user-personas-header-1024x433.jpg)
-
 <br>
 
 ## 👨🏼‍🎓 La persona Apprenant
