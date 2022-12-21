@@ -1,6 +1,6 @@
 ![Simplon logo](https://www.actuia.com/wp-content/uploads/2019/07/%C3%A9cole-simplon.png)
 
-# Introduction
+# Contexte
 
     Simplon est un centre de formation orienté dans le milieu de l'informatique,
     il dispense de nombreuses formations de tous types et pour tous niveaux,
@@ -19,6 +19,8 @@
     Ce présent document fait office de proposition de solutions à différentes
     problématiques identifiées au sein des fabriques Hauts-De-France.
 
+    + enjeux
+
 # 👥 Identification de l'équipe en charge du projet
 
 Pour la réalisation de ce projet, notre équipe est composée d'un<br>
@@ -26,19 +28,14 @@ Pour la réalisation de ce projet, notre équipe est composée d'un<br>
     - Scrum Master : Bourez Bastien
     - Product Owner :  Gamache Benjamin
 
-# 📃 Proposition de stratégie d'amélioration de l'organisation Simplon
+# 📃 Proposition de stratégie d'amélioration de la communication interne à Simplon HDF
 
-Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
-organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
-d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
-que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
-des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
-l'éco-système Simplon.<br>
-
-Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
+Notre équipe une proposition de stratégie d'amélioration de l'organisation<br>
 de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
 proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
 point par point.<br>
+
++ enjeux
 
 # 📝 Problèmatiques et Propositions de solutions
 
@@ -50,16 +47,18 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 ## 👁‍🗨 Identification des problèmes et de potentielles solutions
 
-| Problématiques                  | Problèmes                                     | Solutions                                                            |
-| ------------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
-| Mauvaise utilisation de Discord | Multiplicité des outils                       | <a href="#tools-multiplicity">Endiguer la multiplicité des outils</a> |
-|                                 | Actions répétitives du personnel              | <a href="#repetitives-tasks">Réduire le nombre d'actions répétitives du personnel</a> |
-|                                 | Manque d'ergonomie de Discord                 | <a href="#improve-discord-ergonomics">Amélioration de l'ergonomie de Discord</a> |
-|                                 | Mauvaise identification lors des intéractions | <a href="#users-identification">Amélioration de l'identification des utilisateurs</a> |
-| Manque de communication         | Multiplicité des messages inutiles (FLOOD)    | <a href="#useless-messages">Réduction du nombre de messages inutiles</a> |
-|                                 | Perte de contact avec les anciens apprenants  | <a href="#keep-alumnis-conctact">Garder le contact avec les anciens apprenants</a> |
-|                                 | Problème de sourcing                          | <a href="#improve-sourcing">Amélioration du sourcing via Discord</a> |
-|                                 | Pas de mentorat                               | <a href="#get-mentoring">Apport d'un aspect de Mentoring</a> |
+//refaire en HTML
+
+| Problématiques                                                 | Problèmes                                     | Solutions                                                                             |
+| -------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Utilisation de Discord inapropriée dans un cadre professionnel | Multiplicité des outils                       | <a href="#tools-multiplicity">Endiguer la multiplicité des outils</a>                 |
+|                                                                | Actions répétitives du personnel              | <a href="#repetitives-tasks">Réduire le nombre d'actions répétitives du personnel</a> |
+|                                                                | Manque d'ergonomie de Discord                 | <a href="#improve-discord-ergonomics">Amélioration de l'ergonomie de Discord</a>      |
+|                                                                | Mauvaise identification lors des intéractions | <a href="#users-identification">Amélioration de l'identification des utilisateurs</a> |
+| Communication  inefficace                                      | Multiplicité des messages inutiles (FLOOD)    | <a href="#useless-messages">Réduction du nombre de messages inutiles</a>              |
+|                                                                | Perte de contact avec les anciens apprenants  | <a href="#keep-alumnis-conctact">Garder le contact avec les anciens apprenants</a>    |
+|                                                                | Problème de sourcing                          | <a href="#improve-sourcing">Amélioration du sourcing via Discord</a>                  |
+|                                                                | Pas de mentorat                               | <a href="#get-mentoring">Apport d'un aspect de Mentoring</a>                          |
 
 ## 🔕 Endiguer la multiplicité des outils <a id="tools-multiplicity"></a>
 
@@ -69,12 +68,19 @@ Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous propos
 en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
 et ainsi garder une organisation monolithique, centralisée en un seul et même endroit.<br>
 
+//En dire un peu plus (avantage + desavantages)
+//Payer un boost
+//Détaillé énormément +
+//tout réunir + les difficultés
+
 De cette façon, les informations et ressources partagées se situeront au même endroit<br>
 et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
 ## 💭 Réduire le nombre d'actions répétitives du personnel <a id="repetitives-tasks"></a>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
+
+//Dans une première approche..
 
 Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
 divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
@@ -83,7 +89,11 @@ En déployant des bots d'automatisation de tâches sur un serveur Discord, nous 
 l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
 de travail.<br>
 
-## 💻 Amélioration de l'ergonomie de Discord <a id="improve-discord-ergonomics"></a>
+## 💻 Optimisation de l'utilisation de Discord <a id="improve-discord-ergonomics"></a>
+
+![](https://www.ergo-site.com/wp-content/uploads/2021/04/ergonomie-poste-1400x700.jpg)
+
+// contexte
 
 Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
 éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
@@ -103,6 +113,10 @@ arrivants une identification par le nom et le prénom.<br>
 
 ## 📵 Réduction du nombre de messages inutiles <a id="useless-messages"></a>
 
+![](https://www.monequerre.fr/wp-content/uploads/2017/11/r%C3%A9duction-dimp%C3%B4t.jpg)
+
+//contexte
+
 Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
 à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
 
@@ -118,6 +132,8 @@ notifier son problème et nous pouvons réguler le flux de messages inutiles.<br
 
 ![Conctact image](https://www.saint-quentin-en-yvelines.fr/sites/default/files/styles/banner/public/2022-10/Contact-illustration_bando.png?h=db9e9ca1&itok=gSanesyY)
 
+//contexte
+
 Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
 attitré à ces derniers.<br>
 
@@ -131,6 +147,9 @@ pourrait être plus enclin à rester en contact avec Simplon.<br>
 ## 📂 Amélioration du sourcing via Discord <a id="improve-sourcing"></a>
 
 ![Sourcing image](https://i.imgur.com/d9xHEse.png)
+
+//contexte
+//dans notre travail de conception..
 
 De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
 apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
