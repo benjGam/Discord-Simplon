@@ -72,7 +72,7 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 ![tool multiplicity](https://d3mq5qvsho0pww.cloudfront.net/AqqyI62Sj2kg8UmdNTkwPz/security=policy:eyJleHBpcnkiOjQxMDI0NDEyMDAsImNhbGwiOlsicmVhZCIsInN0YXQiLCJjb252ZXJ0Il0sInBhdGgiOiIvKD8hcHJpdmF0ZSkifQ==,signature:9f1daba952f50b97bf51d34e5c4f3666a4410c18d5cbc064c40fb0fe9d099542/output=compress:true,quality:80/https://cdn.filestackcontent.com/QQnox8jToalMFJqSbCpk)
 
-Lors de discutions avec différents membres des équipes Simplon HDF concernant les problématiques organisationnelles, nous avons identifiée une problématique majeure : La multiplicité des outils, c'est à dire le nombre d'outils de communication que Simplon HDF utilise afin de communiquer, notamment les serveurs Discord.
+Lors de discutions avec différents membres des équipes Simplon HDF concernant les problématiques organisationnelles, nous avons identifié une problématique majeure : La multiplicité des outils, c'est à dire le nombre d'outils de communication que Simplon HDF utilise afin de communiquer, notamment les serveurs Discord.
 Dans l'optique de pallier à cette problématique, nous avons réfléchis à une solution permettant d'endiguer ce phénomène et avons optés pour la création d'un unique serveur Discord centralisant tout l'écosystème Simplon.
 
 La centralisation de l'écosystème Simplon HDF au sein d'un unique serveur Discord permettra à terme d'endiguer l'isolement des différentes promotions, en regroupant tous les apprenants/alumnis en un même endroit. Les coachs et apprenants disposeront d'espaces dédiés à leur formation mais auront aussi accès à des canaux généraux de discussion et d'échange, ce qui permettra de développer une communauté et un sentiment d'appartenance à Simplon.
