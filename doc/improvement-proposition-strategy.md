@@ -99,14 +99,18 @@ En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nou
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
 
-//Dans une première approche..
+Au cours de nos échanges avec les membres des équipes Simplon HDF, nous avons constatés que le personnel effectue un certains nombre de tâches répétitives, ce qui nuit méchaniquement à la productivité des équipes.
 
-Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
-divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
+Dans l'optique de réduire le nombre d'actions répétitives effectuées par le personnel, nous avons réfléchis à la mise en place de bots permettant de prendre en charge ces actions.
 
-En déployant des bots d'automatisation de tâches sur un serveur Discord, nous améliorerons<br>
-l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
-de travail.<br>
+En utilisant les bots comme solution à la répétitions de tâches, nous avons identifiés un amoindrissement des actions répétitives du personnel car il est possible de développer et déployer des bots sur le serveur Discord afin d'automatiser certaines tâches répétitives, ce qui aura pour effet d'augmenter la productivité des différents membres des équipes Simplon HDF et accélera les différents processus.
+
+A titre d'exemple, un coach demarrant une nouvelle formation créer un nouveau serveur Discord afin d'accueillir ses apprenants, avec cette solution, il est possible de rendre la tâche plus rapide et moins fastidieuse à effectuer, cette action peut être automatisée par le biais d'un bot qui prendra en charge la création d'un espace dédié à la promotion du coach et incorporera cet espace dédié en suivant les principes établis visant à garder un espace communautaire clair et organisé.
+De cette façon, le coach ne prends plus à sa charge la création de l'espace dédié, un bot s'occupe de créer et configurer cet espace en appliquant les principes cités plus haut.
+
+Ce cas ne représente qu'une des déclinaisons possibles de la mise en application de bots d'automatisations de tâches, il existe une multitude de tâches automatisables afin d'améliorer l'expérience des différentes entités Simplon HDF.
+
+Il existe cependant une limite à cette solution, toutes les tâches ne peuvent pas être optimisées, pour différentes raisons, cependant, cette solution apporte un gain de temps considérable.
 
 ## 💻 Optimisation de l'utilisation de Discord <a id="improve-discord-ergonomics"></a>
 
