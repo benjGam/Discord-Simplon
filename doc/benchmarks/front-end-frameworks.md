@@ -1,3 +1,12 @@
+# Introduction
+
+Le présent document fait office de **fiche comparative** ou **Benchmark** concernant<br>
+les différents Frameworks Front-end disponibles.<br>
+
+Plus les points attribués sont hauts, plus l'entrée du **Benchmark** est qualitative.<br>
+Nous nous sommes appuyés sur ce document afin de rédiger notre document de proposition<br>
+technique.<br>
+
 | Critères                 | ReactJS | Angular | Vue.js  |
 | ------------------------ | ------- | ------- | ------- |
 | Personnalisation         | 3       | 1       | 2       | 
