@@ -1,87 +1,184 @@
-# Sommaire
+# Introduction
 
-- <a href="#introduction">Introduction</a>
-- <a href="#architecture">Architecture du projet</a>
-- <a href="#project-doc">Documentation relative au projet</a>
-  - <a href="#project-presentation">Présentation du projet</a>
-  - <a href="#project-technical-documentation">Présentation des choix techniques</a>
+Simplon est un centre de formation orienté dans le milieu de l'informatique,<br>
+il dispense de nombreuses formations de tous types et pour tous niveaux,<br>
+Simplon c'est 21 000 membres dont 38,8% d'apprenantes, 73,6% de sorties positives,<br>
+44,3% d'apprenants dont le niveau de diplôme est infra-bac ou bac mais c'est aussi<br>
+123 fabriques numériques.<br>
 
-# Introduction <a id="introduction"></a>
+Le principal canal de discussion Apprenant - Equipes Simplon est Discord,<br>
+Simplon créer un nouveau serveur Discord pour chaque nouvelle promotion qui<br>
+commence, ce qui amène à un nombre très élevé de serveur Discord à terme.<br>
 
-Dans le cadre de la formation CDA dispensé par Simplon, mon équipe doit réaliser un projet Fil-Rouge.<br>
+De cela découle plusieurs phénomènes un bon exemple est la pollution des espaces Discord<br>
+des formateurs, des apprenants et de tous les acteurs qui entre en contact avec<br>
+les promotions.<br>
 
-Ce projet consiste en la création d'un serveur communautaire Discord ayant pour but de réunir les différents<br>
-acteurs de Simplon au sein d'un seul et même serveur Discord afin qu'à terme toute ou une majeure partie de <br>
-l'organisation de Simplon soit centralisée en un seul et même point.<br> 
+Ce présent document fait office de proposition de solutions à différentes<br>
+problématiques identifiées au sein des fabriques Hauts-De-France.<br>
 
-L'équipe est constituée de 4 membres :
+# Identification de l'équipe en charge du projet
 
-- **GAMACHE Benjamin** qui a le rôle de **Product Owner** dont la fonction est entre autre de prendre en charge les intéractions<br>
-entre l'équipe en charge du projet et le client.
+Pour la réalisation de ce projet, notre équipe est composée d'un<br>
 
-- **BOUREZ Bastien** qui a le rôle de **Scrum Master** dont la fonction est de diriger les membres de l'équipe en charge du projet<br> 
-et d'assigner des tâches à chacun.
+- Scrum Master : Bourez Bastien
+- Product Owner :  Gamache Benjamin
 
-- **PHILIPPE Nelson** qui a le rôle de **Développeur** dont la fonction est de développer les différentes solutions élaborées par tous<br>
-les membres de l'équipe en charge du projet et validées par le client.<br>
+# Proposition de stratégie d'amélioration de l'organisation Simplon
 
-- **LEROY Cédric** qui a lui aussi le rôle de **développeur**.<br>
+Dans le cadre de notre projet fil rouge, nous avons discutés de problématiques<br>
+organisationnelles avec nos formateurs, ces discussions avaient pour objectifs<br>
+d'obtenir le plus d'informations possibles sur les pistes d'améliorations potentielles<br>
+que nous pourrions apporter afin d'optimiser ou d'améliorer la réalisation du travail<br>
+des employé(e)s de Simplon ainsi que d'assurer de meilleurs interactions au sein de<br>
+l'éco-système Simplon.<br>
 
-Nous travaillons donc en Méthode Agile qui est une méthodologie utilisée au sein des entreprises dans la majorité des cas.<br>
-Note : Le **Product Owner** ainsi que le **Scrum Master** ont aussi pour rôle de développer, cependant, certaines responsabilités
-sont inhérentes à ces rôles spécifiques.<br>
+Mon équipe doit rédiger une proposition de stratégie d'amélioration de l'organisation<br>
+de Simplon, nous aborderons certaines problématiques que nous avons identifiés afin de<br>
+proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
+point par point.<br>
 
-# Architecture du projet <a id="architecture"></a>
+# Problèmatiques et Propositions de solutions
 
-Ce Repository est découpé selon certaines bonnes pratiques, nous allons les expliquer : 
+## Introduction
 
-- Le dossier **.build** correspond à toutes les ressources relatives au build de l'application.<br>
-Les fichiers CMAKE par exemple, devraient être placés dans ce dossier, ainsi que les fichiers SH,<br>
-ou encore les fichiers relatifs à Docker par exemple.<br>
+Nous avons identifiés certaines problématiques au sein de l'organisation de Simplon.<br>
+Dans l'optique d'élaborer des solutions à ces différents problèmes, nous avons établis<br>
+un dossier afin de reprendre chaque problématiques et de détailler les solutions possibles.<br>
 
-- Le dossier **.config** correspond aux ressources relatives à la configuration de l'environnement<br>
-d'éxecution local, afin d'initialiser le projet.<br>
+Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
-- Le dossier **.github** correspond aux ressources relatives à Github, ce dossier peut contenir<br>
-la liste non-exhaustive des contributeurs ainsi que le code de conduite à adopter entre autre.<br>
+## Identification des problèmes et de potentielles solutions
 
-- Le dossier **dep** correspond aux dépendances relatives au projet, ce dossier doit contenir<br>
-les dépendances relatives au bon fonctionnement de l'application.<br>
+| Problèmes                                     | Solutions                                                                                                               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Multiplicité des outils                       | Utilisation de Discord par le biais d'un seul serveur communautaire maintenable                                         |
+| Actions répétitives du personnel              | Mise en place d'un système d'automatisation par le biais d'un bot Discord                                               |
+| Manque d'ergonomie de Discord                 | Rendre l'outil Discord le plus simple possible par le biais de bots                                                     |
+| Mauvaise identification lors des intéractions | Obligation pour l'utilisateur de s'identifier avec un nom et prénom lors de la première connexion par le biais d'un bot |
+| Multiplicité des messages inutiles (SPAM)     | Mise en place d'un système de ticket par le biais d'un bot                                                              |
+| Perte de contact avec les anciens apprenants  | Mise en place d'un rôle attitré                                                                                         |
+| Problème de sourcing                          | Augmentation de l'aspect communautaire par le biais de canaux de discutions et de partage de ressources                 |
+| Pas de mentorat                               | Mise en place d'un système de mise en relation de mentor par le biais d'un bot Discord                                  |
 
-- Le dossier **doc** correspond aux ressources relatives à la documentation du projet ainsi qu'à<br>
-l'application.<br>
+## Endiguer la multiplicité des outils
 
-- Le dossier **res** correspond aux ressources statiques relatives au projet ainsi que l'application,<br>
-il peut s'agir d'image par exemple.<br>
+Afin d'endiguer la multiplicité des outils, ou canaux de discussion nous proposons de mettre<br>
+en place un seul et unique serveur Discord afin de réduire au maximum le nombre d'outils<br>
+et ainsi garder une organisation monolithique, centralisée en un seul et même endroit.<br>
 
-- Le dossier **src** correspond aux fichiers source de l'application, c'est à dire le code source<br>
-de cette dernière.<br>
+De cette façon, les informations et ressources partagées se situeront au même endroit<br>
+et seront mieux organisées, ce qui rendra la récupération d'information plus efficace.<br>
 
-- Le dossier **test** correspond aux ressources relatives aux tests au cours du développement,<br>
-c'est à dire les test unitaires, les tests d'intégrations par exemple.<br>
+## Réduire le nombre d'actions répétitives du personnel
 
-# Documentation relative au projet <a id="project-doc"></a>
+Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
+divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
 
-Dans le cadre de ce projet, nous avons dû rédiger des documents afin de présenter à notre client<br>
-(Direction Simplon) des pistes d'amélioration au sein de l'organisme.
+En déployant des bots d'automatisation de tâches sur un serveur Discord, nous améliorerons<br>
+l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
+de travail.<br>
 
-## Présentation du projet <a id="project-presentation"></a>
+## Amélioration de l'ergonomie de Discord
 
-Dans un premier temps nous avons rédigés un document de présentation du contexte dans lequel ce<br>
-projet à vu le jour, puis nous avons introduit notre client afin d'ajouter d'avantage de contexte<br>
-au projet, ainsi nous avons établis une liste de problématiques, dans l'optique d'établir des<br>
-stratégies de résolutions de ces dernières.<br>
+Afin de faciliter l'utilisation de Discord nous avons réfléchis à déployer un large<br>
+éventail de bots, afin de fournir des interfaces simples et ergonomique à la gestion<br>
+du serveur Discord.
 
-Ce document peut être consulté en cliquant <a href="doc/improvement-proposition-strategy.md">ici</a>
+De cette façon, n'importe quel membre de l'équipe d'administration pourra prendre en<br>
+main la gestion du serveur Discord dans certaines mesures définies par son rôle.<br>
 
-## Présentation technique du projet <a id="project-technical-documentation"></a>
+## Amélioration de l'identification des utilisateurs
 
-Dans un second temps, nous avons rédigés un document de présentation des choix techniques que<br>
-nous avons réalisés, nous avons donc dû réaliser des études quant au différentes technologies<br>
-envisageables dans le cadre de la mise en place de ce projet, et avons comparés ces différentes<br>
-technologies afin d'obtenir des **Benchmarks** dans l'optique d'obtenir la meilleure technologie<br>
-dans chaque domaine, nous avons donc rédigés un document récapitulatif et explicatif de nos choix<br>
-afin de permettre à de tiers personnes d'en comprendre les enjeux ainsi que les raisons qui ont<br>
-motivées nos choix.<br>
+Nous avons identifié un problème d'identification des utilisateurs lors d'interactions,<br>
+en effet, il n'est pas simple de savoir qui dit ou fait quoi sur le serveur à cause<br>
+des pseudos Discord, c'est pourquoi nous avons pensé un système imposant aux nouveaux<br>
+arrivants une identification par le nom et le prénom.<br>
 
-Ce document peut-être consulté en cliquant <a href="doc/technical-proposition.md">ici</a>
+## Réduction du nombre de messages inutiles
+
+Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
+à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
+
+C'est pourquoi nous avons imaginé établir une liste de règle de conduite.<br>
+Ainsi qu'un système de gestion des canaux de discussions, aussi, nous avons imaginé<br>
+un système de ticket.<br>
+
+Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de demander<br>
+de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
+notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
+
+## Garder le contact avec les anciens apprenants 
+
+Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
+attitré à ces derniers.<br>
+
+Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
+plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
+leurs anciens camarades, participer aux discussions, bénéficier des ressources, etc.<br>
+
+De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
+pourrait être plus enclin à rester en contact avec Simplon.<br>
+
+## Amélioration du sourcing via Discord
+
+De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
+apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
+
+Nous avons pensé à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
+pour les formations que Simplon dispense, de cette façon, tous les membres du serveur pourront<br>
+accéder simplement à ces annonces et seront plus proches de l'accès à ces informations.<br>
+
+De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre de candidats potentiels<br>
+
+Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
+susceptibles de les intéresser.<br>
+
+## Apport d'un aspect de Mentoring
+
+Enfin, nous avons remarqués qu'il n'y avait pas de mentorat pour les apprenants Simplon<br>
+lors de stages et après avoir terminé une formation Simplon.<br>
+
+C'est pourquoi nous proposons de mettre en place un espace dédié au Mentoring ou chaque<br>
+apprenant ou ancien apprenant pourra être mis en relation avec un mentor.<br>
+
+Cet espace serait maintenu en partie par des bots qui s'occuperaient de la mise en relation<br>
+propre et structurée des mentors et des apprenants.<br>
+
+De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
+
+## Conclusion
+
+Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
+et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
+aspects sur un seul et même serveur, afin de réduire le nombre d'outils de communication<br>
+et donc de permettre une récupération de l'information plus efficace.<br>
+
+De plus, il semble essentiel d'instaurer un esprit de communauté pour que les apprenants<br> 
+puissent garder un contact même après la fin de leur formation.<br>
+
+Nous pouvons développer un esprit communautaire en dédiant des canaux textuels globaux<br>
+au partage de ressources, à la discussion, ou tout autre thème afin de créer des interactions<br>
+entre tous les apprenants, les anciens apprenants et les membres des équipes Simplon.<br>
+
+En développant un esprit communautaire, nous pouvons pallier au manque de candidats lors<br>
+de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
+d'annonce de recrutement.<br>
+
+# Identification des personas
+
+## La persona Apprenant
+
+La persona apprenant est agée entre 18 et 30 ans, elle n'est pas toujours à l'aise avec l'outil Discord.<br>
+Elle communique par Discord ou par mail, elle n'a pas de réseau dans le milieu de l'informatique.<br>
+
+## La persona Staff
+
+La persona staff est agée entre 25 et 45 ans, elle ne maitrise pas Discord.<br>
+Cette persona utilise le mail et Discord afin de communiquer, elle a un réseau développé dans le milieu.<br>
+
+## La persona Formateur/trice
+
+La persona formateur/trice est agée entre 25 et 45 ans, elle est confrontée à l'utilisation de Discord<br>
+au quotidien afin de communiquer avec l'apprenant, elle utilisa aussi le mail comme moyen de communication<br>
+dans une moindre proportion que la persona Staff.<br>
