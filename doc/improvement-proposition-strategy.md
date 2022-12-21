@@ -55,9 +55,6 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 ## 👁‍🗨 Identification des problèmes et de potentielles solutions
 
-//refaire en HTML
-
-
 <table>
     <tr>
         <td>Problématiques</td>
@@ -130,7 +127,7 @@ En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nou
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
 
-Au cours de nos échanges avec les membres des équipes Simplon HDF, nous avons constatés que le personnel effectue un certains nombre de tâches répétitives, ce qui nuit méchaniquement à la productivité des équipes.
+Au cours de nos échanges avec les membres des équipes Simplon HDF, nous avons constatés que le personnel effectue un certains nombre de tâches répétitives, ce qui nuit mécaniquement à la productivité des équipes.
 
 Dans l'optique de réduire le nombre d'actions répétitives effectuées par le personnel, nous avons réfléchis à la mise en place de bots permettant de prendre en charge ces actions.
 
@@ -150,15 +147,15 @@ Il existe cependant une limite à cette solution, toutes les tâches ne peuvent 
 Discord est un outil de communication encore très jeune, dont l'érgonomie laisse encore beaucoup à desirer, l'une de nos missions pour ce projet consiste à améliorer la prise en main de Discord par le biais d'outils tels que des bots.
 Aussi, nous avons observés une utilisation de Discord inadéquate de la part des membres des équipes Simplon HDF au cours d'échanges avec ces derniers et avons donc réfléchis à des solutions d'optimisation de l'utilisation de l'outil.
 
-Discord permet de créer différents type de canaux, tels que des salons textuels, des salons vocaux, des salons de conférence, des forums.
-Les forums sont des canaux dans lesquels il est possible de poster des messages au même titre que les canaux textuels, cependant, ils apportent la possibilité de créer des fils de discussions spécifiques aussi appelé "Topics", de cette façon, cela permet une meilleure organisation des sujets de discussion.
+Discord permet de créer différents type de canaux, tels que des salons textuels, des salons vocaux, des salons de conférence et des forums.
+Les forums sont des canaux dans lesquels il est possible de poster des messages au même titre que les canaux textuels, cependant, ils apportent la possibilité de créer des fils de discussions spécifiques aussi appelé "Topics", cela permet une meilleure organisation des sujets de discussion.
 Les canaux de conférences sont quant à eux des canaux permettant aux utilisateurs de démarrer des conférences, de la même manière que le ferais un outil tel que Google Meet.
 Nous utiliserons donc tous ces canaux afin d'organiser au mieux l'architecture du serveur Discord, en utilisant chaque type de canal de la façon pour laquelle il a été conçu, de cette façon, l'organisation des différents canaux et rubriques sera limpide et adaptée aux utilisations pour lesquelles elle à été prévue.
 
-Pour améliorer l'ergonomie défaillante de Discord, nous déployerons une large gamme de bots ayant pour objectifs de simplifier les manipulations que seront amenés à effectuer les membres des équipes Simplon HDF dans le cadre de la maintenance du serveur par exemple.
+Pour améliorer l'ergonomie défaillante de Discord, nous déploierons une large gamme de bots ayant pour objectifs de simplifier les manipulations que seront amenés à effectuer les membres des équipes Simplon HDF dans le cadre de la maintenance du serveur par exemple.
 Ces bots permettront de maintenir le serveur Discord de la façon la plus simple possible. Pour les membres du staff cela se traduira par de simples interfaces contenant des éléments tels que des boutons, des champs de textes permettant de déclencher des fonctionnalités de façon simple.
 
-Enfin, dans l'optique d'optimiser l'utilisation de Discord nous formerons les membres des équipes Simplon HDF à l'utilisation de Discord ainsi qu'aux outils que nous mettrons en place, aussi nous mettrons à disposition des canaux didactiques complet afin de permettre aux membres du staff d'obtenir de l'aide à tout moments.
+Enfin, dans l'optique d'optimiser l'utilisation de Discord nous formerons les membres des équipes Simplon HDF à l'utilisation de Discord ainsi qu'aux outils que nous mettrons en place, aussi nous mettrons à disposition des canaux didactiques complet afin de permettre aux membres du staff d'obtenir de l'aide à tous moments.
 
 ## 📵 Réduction du nombre de messages inutiles <a id="useless-messages"></a>
 
@@ -167,50 +164,37 @@ Enfin, dans l'optique d'optimiser l'utilisation de Discord nous formerons les me
 Au cours des différents échanges que nous avons eu avec les membres du staff Simplon HDF, nous avons compris que ces derniers était confrontés à un afflux de messages de relances notament lors d'échanges avec des apprenants suite à un manque de réponse.
 Etant nous même utilisateur régulier de Discord, nous constatons régulièrement ce phénomène de messages hors propos ou simplement inutiles, nous avons donc réfléchis et avons élaborer une solution à ce problème bien connu.
 
-Afin de réduire le nombre de messages inutiles au sein du serveur communautaire Discord, nous avons décidé de mettre en place une liste de règles, identifiant clairement la façons dont les canaux devront être utilisés.
-Chaque canal comportera un sujet clairement définis par son nom afin de garantir une lisibilité claire.
+Afin de réduire le nombre de messages inutiles au sein du serveur communautaire Discord, nous avons décidé de mettre en place une liste de règles, identifiant clairement la façon dont les canaux devront être utilisés.
+Chaque canal comportera un sujet clairement définis par son nom afin de garantir une meilleure lisibilité.
 
 Nous avons réfléchis à la mise en place de bots de modération afin d'identifier de potentiels messages inutiles et ainsi permettre la suppression automatiques de ces derniers, de cette façon, nous garderons des canaux de discussions propres et organisés selon leur sujet.
 
 Aussi, nous avons identifié par le biais de ces discussions que dans le cadre d'interaction entre les membres du staff et les apprenants, ces derniers envoient des messages de relances lorsqu'il n'obtiennent pas de suite rapide à leurs sollicitations, afin d'endiguer ce phénomène, nous mettrons en place un espace dédié aux demandes des apprenants.
 Cet espace dédié sera organisé en système de ticket, c'est à dire qu'un apprenant peut ouvrir un ticket en indiquant son problème.
-Alors un membre du staff peut consulter ce ticket et apporter des éléments de réponses à la requête de l'apprenant, l'utilité de passer par un système de ticket plutôt que par le système de message privés que met en place Discord, permettra d'encadrer les échanges, en ne permettant pas à l'apprenant d'envoyer plusieurs messages avant d'avoir reçu une réponse dans un certains délai par exemple.
+Alors un membre du staff peut consulter ce ticket et apporter des éléments de réponses à la requête de l'apprenant, passer par un système de ticket plutôt que par le système de message privés que met en place Discord, permettra d'encadrer les échanges, en ne permettant pas à l'apprenant d'envoyer plusieurs messages avant d'avoir reçu une réponse dans un certains délai par exemple.
+
 Grâce à ce système, nous endiguerons alors le nombre de messages inutiles en appliquant des restrictions lors des interactions entre les apprenants et les membres des équipes du staff Simplon HDF.
 
-## 📱 Garder le contact avec les anciens apprenants  <a id="keep-alumnis-conctact"></a>
+## 📱 Garder le contact avec les anciens apprenants <a id="keep-alumnis-conctact"></a>
 
 ![Conctact image](https://www.saint-quentin-en-yvelines.fr/sites/default/files/styles/banner/public/2022-10/Contact-illustration_bando.png?h=db9e9ca1&itok=gSanesyY)
 
-//contexte
+Dans le cadre de ce projet, nous avons étudiés la question du suivi des apprennants, pour ce faire nous avons intérrogé différents membres du staff et réalisé des recherches sur l'aspect du suivi des alumnis et avons constaté que les alumnis une fois leur formation révolue ne garde pas le contact avec Simplon, nous avons réfléchis aux différentes causes responsables de ce phénomène et avons identifiés des solutions suite à nos réfléxions.
 
-Afin de garder le contact avec les anciens apprenants, nous avons imaginés un rôle<br>
-attitré à ces derniers.<br>
+Le suivi des apprenants est un aspect compliqué à maintenir sur le long terme dès lors qu'il existe un nombre elevé d'outils de communication, en effet, lorsqu'une formation se termine, les apprenants n'ont plus aucune utilité à rester actif sur ce serveur spécifique, les membres du staff ne sont plus actifs sur le serveur de la promotion car elle n'est plus d'actualité, il est difficile de rester actif sur un serveur Discord dont la fonction principale est d'accueillir des membres dans un temps donné, d'autant plus, lorsque le nombre de serveur Discord est aussi élevé qu'actuellement.
 
-Grâce à toutes les propositions ci-dessus, nous disposons d'un esprit de communauté<br>
-plus solide, ce qui peut inciter les anciens apprenants à rester en contact avec<br>
-leurs anciens camarades, participer aux discussions, bénéficier des ressources, etc.<br>
+A ce problème, la solution de réunification de tous les acteurs est une solution viable.
+Dans la configuration actuelle, les membres ne font partie que d'un petit groupe d'apprenant au sein d'une promotion, alors que dans la configuration de réunification des acteurs au sein d'un unique serveur Discord, les membres font partie d'un grand groupe, une communauté, avec une multitude de membres avec lesquels discuter et partager.
 
-De cette façon et par tous les aspects qu'apporte une communauté, les anciens apprenants<br>
-pourrait être plus enclin à rester en contact avec Simplon.<br>
+Aussi nous avons réfléchis à la mise en place d'un rôle dédié aux alumnis au sein du serveur Discord, un rôle sobrement nommé "Alumni" afin de permettre une meilleure identification des alumnis au sein de la communauté.
 
-## 📂 Amélioration du sourcing via Discord <a id="improve-sourcing"></a>
+Les alumnis étant clairement identifiables, seront une source d'informations pour les apprenants actuellement en cours de formation.
+Les alumnis se sentirons alors membre de la communauté de mêmes que les nouveaux apprenants se sentiront accompagnés par les équipes Simplon HDF ainsi que par d'autre apprenants dont les intéractions seront source d'informations précieuses.
 
-![Sourcing image](https://i.imgur.com/d9xHEse.png)
+De ce rôle découle des spécificités, telles que la mise à disposition qu'un espace de discussion dédié à tous les alumnis, leur permettant d'échanger autour de sujet divers et variés ainsi qu'à leurs expériences concernant leur formation.
 
-//contexte
-//dans notre travail de conception..
-
-De la même façon que la création d'une communauté peut engendrer une fidélisation des anciens<br>
-apprenants, la communauté peut être une solution viable à l'amélioration du sourcing<br>
-
-Nous avons pensé à mettre en place des canaux dédiés aux postes d'annonces de recrutement<br>
-pour les formations que Simplon dispense, de cette façon, tous les membres du serveur pourront<br>
-accéder simplement à ces annonces et seront plus proches de l'accès à ces informations.<br>
-
-De plus, avec tous les biens-faits d'une communauté, nous augmentons le nombre de candidats potentiels<br>
-
-Ainsi, les anciens apprenants, pourront consulter les canaux dédiés et rechercher des formations<br>
-susceptibles de les intéresser.<br>
+L'une des diffcultéés de la mise en place de ce rôle est encore une fois l'elargisement du flux d'informations à traités et à organiser.
+Cependant, comme nous l'avons explicité avant, il est possible de mettre en place des outils tels que des bots afin de garder une organisation claire et limpide.
 
 ## 👩‍🏫 Apport d'un aspect de Mentoring <a id="get-mentoring"></a>
 
@@ -226,6 +210,23 @@ Cet espace serait maintenu en partie par des bots qui s'occuperaient de la mise 
 propre et structurée des mentors et des apprenants.<br>
 
 De cette façon, les apprenants seront mieux accompagnés lors d'un stage par exemple.<br>
+
+## 📂 Amélioration du sourcing via Discord <a id="improve-sourcing"></a>
+
+![Sourcing image](https://i.imgur.com/d9xHEse.png)
+
+Dans le cadre de ce projet, nous avons discutés avec différents membres des équipes Simplon HDF concernant le sourcing et avons compris qu'il existe des difficultés concernant cet aspect.
+Le sourcing est un aspect cruciale pour un organisme de formation tel que celui-ci, les financements et donc les formations dispensées par Simplon HDF dépendant du Sourcing, sont un sujet auquel nous avons porté une attention particulière, suite à ces discussions ainsi qu'à nos analyses nous avons réfléchis aux améliorations quant à cet aspect.
+
+Nous avons alors établis une liste de solutions de renforcement du Sourcing pour Simplon HDF, la première solution que nous avons élaboré consiste à mettre à disposition un espace dédié au recrutement de candidats pour les formations Simplon HDF au sein de ce serveur Discord.
+Cela apportera une amélioration de la visibilité des annonces de recrutement par le simple fait d'être accessible depuis Discord.
+
+De plus, notre stratégie d'amélioration de la communication interne à Simplon HDF reposant en partie sur l'apport d'un aspect communautaire, nous avons identifiés qu'une base solide de membres actifs est un atout dans l'amélioration du sourcing, en effet, une communauté active ayant accès à des annonces de recrutement depuis l'outil de communication le plus populaire auprès des principales cibles de Simplon HDF constitue un atout considérable.
+
+Aussi nous avons réfléchis à l'ouverture du serveur 
+
+
+la première mesure que nous mettons en place est cet aspect communautaire par le biais d'un unique serveur Discord, nous consolidons une base de membres actifs en développant l'aspect communautaire de ce serveur, 
 
 ## 🔚 Conclusion
 
@@ -267,17 +268,3 @@ d'annonce de recrutement.<br>
     de Discord au quotidien afin de communiquer avec l'apprenant.
     Elle utilise aussi le mail comme moyen de communication,
     dans une moindre proportion que la persona Staff.
-
-
-
-Lors de discutions avec différents membres des équipes Simplno HDF, nous avons réaliser des analyses concernants différentes problématiques, nous avons donc identifié une multiplicité des outils de communication tel qu'un nombre très élevé de serveur Discord, et avons donc établis une stratégie afin de réduire cette multiplicité.
-
-Nous avons réfléchis à des solutions afin de pallier aux différentes problématiques que nous avons identifié et avons réfléchis à la mise en place d'un unique serveur Discord ayant pour objectif de centraliser tout l'éco-système Simplon HDF en un seul et même point.
-
-Ce serveur Discord aura pour fonction de réunir tous les acteurs Simplon HDF, qu'il s'agisse des membres des différentes équipes d'administration ou d'apprenants/alumnis.
-
-Nous avons identifés une désorganisation des informations et avons imaginés cette solution car elle représente un atout, en effet, les informations seront centralisées sur un unique serveur Discord, dans des canaux dédiés aux membres des équipes Simplon HDF, ce qui réduira le temps de recherche des informations et améliorera de fait, la réalisation des tâches inhérentes au personnel.
-
-Lors de ces discutions, nous avons constatés que le personnel effectue un certains nombre de tâches répétitives, avec cette solution, nous avons identifié un amoindrissement des actions répétitives du personnel car il est possible de développer et déployer des bots sur le serveur Discord afin d'automatiser certaines tâches répétitives, ce qui aura pour effet d'augmenter la productivité des différents membres des équipes Simplon HDF et accélera les différents processus.
-A titre d'exemple, un coach demarrant une nouvelle formation créer un nouveau serveur Discord afin d'accueillir ses apprenants, avec cette solution, il est possible de rendre la tâche plus rapide et moins fastidieuse à effectuer.
-
