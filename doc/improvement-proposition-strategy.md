@@ -92,7 +92,7 @@ Notre solution représente un atout car les informations seront centralisées su
 
 Cependant, lors de nos réflexions quant à la mise en place de cette solution, nous avons identifés certaines diffcultés telles que la gestion du flux d'informations.
 
-En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nous avons constatés une complexification de la gestion des flux d'informations, en effet, nous allons gérer un grand flux d'intéractions et d'informations au sein de ce serveur, nous avons donc réfléchis à la mise en place de bots de modération pointus afin de contrôler ces flux et ne pas complexifier d'avantage le travail des membres des équipes Simplon.
+En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nous avons constatés une complexification de la gestion des flux d'informations, en effet, nous allons gérer un plus grand flux d'intéractions et d'informations au sein de ce serveur, nous avons donc réfléchis à la mise en place de bots de modération pointus afin de contrôler ces flux et ne pas complexifier d'avantage le travail des membres des équipes Simplon.
 
 ## 💭 Réduire le nombre d'actions répétitives du personnel <a id="repetitives-tasks"></a>
 
@@ -115,34 +115,35 @@ Il existe cependant une limite à cette solution, toutes les tâches ne peuvent 
 
 ![](https://www.ergo-site.com/wp-content/uploads/2021/04/ergonomie-poste-1400x700.jpg)
 
-Discord est un outil de communication encore très jeune, dont l'érgonomie laisse encore beaucoup à desirer, l'une de nos missions pour ce projet consiste à améliorer la prise en main de Discord par le biais d'outils tels que des bots. 
+Discord est un outil de communication encore très jeune, dont l'érgonomie laisse encore beaucoup à desirer, l'une de nos missions pour ce projet consiste à améliorer la prise en main de Discord par le biais d'outils tels que des bots.
 Aussi, nous avons observés une utilisation de Discord inadéquate de la part des membres des équipes Simplon HDF au cours d'échanges avec ces derniers et avons donc réfléchis à des solutions d'optimisation de l'utilisation de l'outil.
 
-Discord permet de créer différents type de canaux, tels que des salons textuels, des salons vocaux, des salons de conférence et enfin des forums.
+Discord permet de créer différents type de canaux, tels que des salons textuels, des salons vocaux, des salons de conférence, des forums.
 Les forums sont des canaux dans lesquels il est possible de poster des messages au même titre que les canaux textuels, cependant, ils apportent la possibilité de créer des fils de discussions spécifiques aussi appelé "Topics", de cette façon, cela permet une meilleure organisation des sujets de discussion.
 Les canaux de conférences sont quant à eux des canaux permettant aux utilisateurs de démarrer des conférences, de la même manière que le ferais un outil tel que Google Meet.
+Nous utiliserons donc tous ces canaux afin d'organiser au mieux l'architecture du serveur Discord, en utilisant chaque type de canal de la façon pour laquelle il a été conçu, de cette façon, l'organisation des différents canaux et rubriques sera limpide et adaptée aux utilisations pour lesquelles elle à été prévue.
 
 Pour améliorer l'ergonomie défaillante de Discord, nous déployerons une large gamme de bots ayant pour objectifs de simplifier les manipulations que seront amenés à effectuer les membres des équipes Simplon HDF dans le cadre de la maintenance du serveur par exemple.
-Ces bots permettront de maintenir le serveur Discord de la façon la plus simple possible. Pour les membres du staff cela se traduira par de simples interfaces permettant de déclencher des fonctionnalités relatives à la gestion du serveur Discord dans son ensemble.
+Ces bots permettront de maintenir le serveur Discord de la façon la plus simple possible. Pour les membres du staff cela se traduira par de simples interfaces contenant des éléments tels que des boutons, des champs de textes permettant de déclencher des fonctionnalités de façon simple.
 
-Enfin, dans l'optique d'optimiser l'utilisation de Discord nous formerons les membres des équipes Simplon HDF à l'utilisation de Discord ainsi qu'aux outils que nous mettrons en place, aussi nous mettrons à disposition des canaux didactiques complet afin de permettre aux membres du staff de consulter à tout moments des aides.
+Enfin, dans l'optique d'optimiser l'utilisation de Discord nous formerons les membres des équipes Simplon HDF à l'utilisation de Discord ainsi qu'aux outils que nous mettrons en place, aussi nous mettrons à disposition des canaux didactiques complet afin de permettre aux membres du staff d'obtenir de l'aide à tout moments.
 
 ## 📵 Réduction du nombre de messages inutiles <a id="useless-messages"></a>
 
 ![](https://www.monequerre.fr/wp-content/uploads/2017/11/r%C3%A9duction-dimp%C3%B4t.jpg)
 
-//contexte
+Au cours des différents échanges que nous avons eu avec les membres du staff Simplon HDF, nous avons compris que ces derniers était confrontés à un afflux de messages de relances notament lors d'échanges avec des apprenants suite à un manque de réponse.
+Etant nous même utilisateur régulier de Discord, nous constatons régulièrement ce phénomène de messages hors propos ou simplement inutiles, nous avons donc réfléchis et avons élaborer une solution à ce problème bien connu.
 
-Lors d'interaction au sein d'un serveur Discord, les utilisateurs peuvent avoir tendance<br>
-à poster des messages hors-sujet ou simplement de SPAM dû à un manque de réponse.<br>
+Afin de réduire le nombre de messages inutiles au sein du serveur communautaire Discord, nous avons décidé de mettre en place une liste de règles, identifiant clairement la façons dont les canaux devront être utilisés.
+Chaque canal comportera un sujet clairement définis par son nom afin de garantir une lisibilité claire.
 
-C'est pourquoi nous avons imaginé établir une liste de règle de conduite.<br>
-Ainsi qu'un système de gestion des canaux de discussions, aussi, nous avons imaginé<br>
-un système de ticket.<br>
+Nous avons réfléchis à la mise en place de bots de modération afin d'identifier de potentiels messages inutiles et ainsi permettre la suppression automatiques de ces derniers, de cette façon, nous garderons des canaux de discussions propres et organisés selon leur sujet.
 
-Lorsqu'un apprenant rencontre un problème, il peut créer un ticket afin de demander<br>
-de l'aide auprès des équipes concernées, ainsi grâce à ce système, l'apprenant peut<br>
-notifier son problème et nous pouvons réguler le flux de messages inutiles.<br> 
+Aussi, nous avons identifié par le biais de ces discussions que dans le cadre d'interaction entre les membres du staff et les apprenants, ces derniers envoient des messages de relances lorsqu'il n'obtiennent pas de suite rapide à leurs sollicitations, afin d'endiguer ce phénomène, nous mettrons en place un espace dédié aux demandes des apprenants.
+Cet espace dédié sera organisé en système de ticket, c'est à dire qu'un apprenant peut ouvrir un ticket en indiquant son problème.
+Alors un membre du staff peut consulter ce ticket et apporter des éléments de réponses à la requête de l'apprenant, l'utilité de passer par un système de ticket plutôt que par le système de message privés que met en place Discord, permettra d'encadrer les échanges, en ne permettant pas à l'apprenant d'envoyer plusieurs messages avant d'avoir reçu une réponse dans un certains délai par exemple.
+Grâce à ce système, nous endiguerons alors le nombre de messages inutiles en appliquant des restrictions lors des interactions entre les apprenants et les membres des équipes du staff Simplon HDF.
 
 ## 📱 Garder le contact avec les anciens apprenants  <a id="keep-alumnis-conctact"></a>
 
