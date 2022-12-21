@@ -19,7 +19,11 @@
     Ce présent document fait office de proposition de solutions à différentes
     problématiques identifiées au sein des fabriques Hauts-De-France.
 
-    + enjeux
+    Ce projet soulève différents enjeux concernant la communication de Simplon HDF, 
+    il mettra en lumière se sentiments de communauté de Simploniens souvent mis en avant 
+    avec difficultés. Il est aussi question d'organisation pour améliorer la vie des apprenants et
+    du staff Simplon. Un énorme gain de temps est aussi de mise, ce projet permettra au staff de ce 
+    recentrer sur les objectis principaux sans s'occuper du superflux.
 
 # 👥 Identification de l'équipe en charge du projet
 
