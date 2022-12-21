@@ -45,8 +45,6 @@ un dossier afin de reprendre chaque problématiques et de détailler les solutio
 
 Notre proposition s'articule autour de l'utilisation de l'outil de communication Discord.<br>
 
-
-
 ## 👁‍🗨 Identification des problèmes et de potentielles solutions
 
 //refaire en HTML
@@ -69,7 +67,7 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 Lors de discutions avec différents membres des équipes Simplon HDF concernant les problématiques organisationnelles, nous avons identifiés une problématique majeure : La multiplicité des outils, c'est à dire le nombre d'outils de communication que Simplon HDF utilise afin de communiquer, notamment les serveurs Discord.
 Dans l'optique de pallier à cette problématique, nous avons réfléchis à une solution permettant d'endiguer ce phénomène et avons opter pour la création d'un unique serveur Discord centralisant tout l'éco-système Simplon.
 
-La centralisation de l'éco-système Simplon HDF au sein d'un unique serveur Discord permettra à terme d'endiguer l'isolement des différentes promotions, en regroupant tous les apprenants/alumnis en un même endroit, les coachs et apprenants disposeront d'espaces dédiés à leur formation mais auront accès à des canaux généraux de discussion et d'échange, ce qui permettra de développer une communauté et un sentiment d'appartenance à Simplon.
+La centralisation de l'éco-système Simplon HDF au sein d'un unique serveur Discord permettra à terme d'endiguer l'isolement des différentes promotions, en regroupant tous les apprenants/alumnis en un même endroit, les coachs et apprenants disposeront d'espaces dédiés à leur formation mais auront auussi accès à des canaux généraux de discussion et d'échange, ce qui permettra de développer une communauté et un sentiment d'appartenance à Simplon.
 
 Afin de garantir la lisibilité et la navigation au sein de ce serveur Discord, nous avons réfléchis à la mise en place de bots permettant d'afficher ou non certains canaux.
 De cette façon, les membres des équipes Simplon HDF, pourront séléctionnés les canaux qu'ils jugent pertinents et ne seront pas submerger par un grand flux d'informations.
@@ -79,11 +77,13 @@ Nous avons aussi identifiés que certains membres des équipes Simplon HDF devan
 De plus, nous avons identifiés qu'il n'est pas toujours simple pour les utilisateurs de s'identifier lors d'interactions.
 A cette problématique, nous avons réfléchis à un système impoosant aux nouveaux arrivants de s'identifier par leur nom et leur prénom uniquement sur le serveur Discord afin d'y accéder, de ce fait, les utilisateurs seront identifiables par leur nom et prénom et donc pourront savoir avec qui ils interagissent, ce qui faciletera alors grandement les échanges entre les différents utilisateurs.
 
-De plus, nous avons identifés une désorganisation des informations découlant de la multiplicité des outils de communications pour les équipes Simplon HDF et avons imaginés cette solution car elle représente un atout, en effet, les informations seront centralisées sur un unique serveur Discord, dans des canaux dédiés aux membres des équipes Simplon HDF, ce qui réduira le temps de recherche des informations et améliorera de fait, la réalisation des tâches inhérentes au personnel.
+Cette solution apporte une équivalence quant à la qualité des supports de communications au sein de chaque promotion, en effet, Discord offre la possibilité de **booster** un serveur, permettant entre autre d'améliorer la qualité des échanges vocaux et vidéos des canaux.
+En recentralisant toutes les promotions au sein d'un unique serveur Discord, les promotions bénéficieront toutes des avantages qu'offre le Boost de serveur tel que l'amélioration de la qualité des canaux vocaux, en utilisant un unique serveur Discord, nous améliorons donc les conditions de toutes les promotions à moindre coût. 
 
-Cette solution apporte une équivalence quant à la qualité des supports de communications au sein de chaque promotion, en effet, en recentralisant toutes les promotions au sein d'un unique serveur Discord, les promotions bénéficieront toutes des avantages qu'offre le Boost de serveur tel que l'amélioration de la qualité des canaux vocaux, en utilisant un unique serveur Discord, nous améliorons donc les conditions de toutes les promotions à moindre coût. 
+De plus, nous avons identifés une désorganisation des informations découlant de la multiplicité des outils de communications pour les équipes Simplon HDF.
+Notre solution représente un atour car les informations seront centralisées sur un unique serveur Discord, dans des canaux dédiés aux membres des équipes Simplon HDF, ce qui réduira le temps de recherche des informations et améliorera de fait, la réalisation des tâches inhérentes au personnel.
 
-Cependant, lors de nos réflexions quant à la mise en place de cette solution, nous avons identifés certaines diffcultés telle que la gestion du flux d'informations.
+Cependant, lors de nos réflexions quant à la mise en place de cette solution, nous avons identifés certaines diffcultés telles que la gestion du flux d'informations.
 
 En centralisant tout l'éco-système Simplon HDF en un seul et même endroit, nous avons constatés une complexification de la gestion des flux d'informations, en effet, nous allons devoir gérer un grand flux d'intéractions et d'informations au sein de ce serveur, nous avons donc réfléchis à la mise en place de bots de modération afin de controler ces flux et ne pas complexifier d'avantage le travail des membres des équipes Simplon.<br>
 
