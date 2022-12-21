@@ -72,7 +72,7 @@ Notre proposition s'articule autour de l'utilisation de l'outil de communication
 
 ![tool multiplicity](https://d3mq5qvsho0pww.cloudfront.net/AqqyI62Sj2kg8UmdNTkwPz/security=policy:eyJleHBpcnkiOjQxMDI0NDEyMDAsImNhbGwiOlsicmVhZCIsInN0YXQiLCJjb252ZXJ0Il0sInBhdGgiOiIvKD8hcHJpdmF0ZSkifQ==,signature:9f1daba952f50b97bf51d34e5c4f3666a4410c18d5cbc064c40fb0fe9d099542/output=compress:true,quality:80/https://cdn.filestackcontent.com/QQnox8jToalMFJqSbCpk)
 
-Lors de discutions avec différents membres des équipes Simplon HDF concernant les problématiques organisationnelles, nous avons identifiée une problématique majeure : La multiplicité des outils, c'est à dire le nombre d'outils de communication que Simplon HDF utilise afin de communiquer, notamment les serveurs Discord.
+Lors de discutions avec différents membres des équipes Simplon HDF concernant les problématiques organisationnelles, nous avons identifié une problématique majeure : La multiplicité des outils, c'est à dire le nombre d'outils de communication que Simplon HDF utilise afin de communiquer, notamment les serveurs Discord.
 Dans l'optique de pallier à cette problématique, nous avons réfléchis à une solution permettant d'endiguer ce phénomène et avons optés pour la création d'un unique serveur Discord centralisant tout l'écosystème Simplon.
 
 La centralisation de l'écosystème Simplon HDF au sein d'un unique serveur Discord permettra à terme d'endiguer l'isolement des différentes promotions, en regroupant tous les apprenants/alumnis en un même endroit. Les coachs et apprenants disposeront d'espaces dédiés à leur formation mais auront aussi accès à des canaux généraux de discussion et d'échange, ce qui permettra de développer une communauté et un sentiment d'appartenance à Simplon.
@@ -85,8 +85,7 @@ Nous avons aussi identifié que certains membres des équipes Simplon HDF devant
 De plus, nous avons identifié qu'il n'est pas toujours simple pour les utilisateurs de s'identifier lors d'interactions.
 A cette problématique, nous avons réfléchis à un système imposant aux nouveaux arrivants de s'identifier par leurs noms et leurs prénoms uniquement sur le serveur Discord afin d'y accéder, de ce fait, les utilisateurs seront identifiables par leur noms et prénoms et donc pourront savoir avec qui ils interagissent, ce qui facilitera alors grandement les échanges entre les différents utilisateurs.
 
-Cette solution apporte une équivalence quant à la qualité des supports de communications au sein de chaque promotion, en effet, Discord offre la possibilité de **booster** un serveur, permettant entre autre d'améliorer la qualité des échanges vocaux et vidéos des canaux.
-En recentralisant toutes les promotions au sein d'un unique serveur Discord, les promotions bénéficieront toutes des avantages qu'offre le Boost de serveur tel que l'amélioration de la qualité des canaux vocaux, en utilisant un unique serveur Discord, nous améliorons donc les conditions de toutes les promotions à moindre coût. 
+Cette solution apporte une équivalence quant à la qualité des supports de communications au sein de chaque promotion, en effet, Discord offre la possibilité de **booster** un serveur, permettant entre autre d'améliorer la qualité des échanges vocaux et vidéos des canaux. En recentralisant toutes les promotions au sein d'un unique serveur Discord, les promotions bénéficieront toutes des avantages qu'offre le Boost de serveur tel que l'amélioration de la qualité des canaux vocaux, en utilisant un unique serveur Discord, nous améliorons donc les conditions de toutes les promotions à moindre coût.
 
 De plus, nous avons identifé une désorganisation des informations découlant de la multiplicité des outils de communications pour les équipes Simplon HDF.
 Notre solution représente un atout car les informations seront centralisées sur un unique serveur Discord, dans des canaux dédiés aux membres des équipes Simplon HDF, ce qui réduira le temps de recherche des informations et améliorera de fait, la réalisation des tâches inhérentes au personnel.
@@ -99,14 +98,18 @@ En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nou
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
 
-//Dans une première approche..
+Au cours de nos échanges avec les membres des équipes Simplon HDF, nous avons constatés que le personnel effectue un certains nombre de tâches répétitives, ce qui nuit méchaniquement à la productivité des équipes.
 
-Pour réduire le nombre d'actions répétitives du personnel, nous proposons de déployer<br>
-divers bots Discord afin d'automatiser les tâches qui peuvent l'être.<br>
+Dans l'optique de réduire le nombre d'actions répétitives effectuées par le personnel, nous avons réfléchis à la mise en place de bots permettant de prendre en charge ces actions.
 
-En déployant des bots d'automatisation de tâches sur un serveur Discord, nous améliorerons<br>
-l'efficacité des différentes équipes Simplon en les déchargeants d'une charge fastidieuse<br>
-de travail.<br>
+En utilisant les bots comme solution à la répétitions de tâches, nous avons identifiés un amoindrissement des actions répétitives du personnel car il est possible de développer et déployer des bots sur le serveur Discord afin d'automatiser certaines tâches répétitives, ce qui aura pour effet d'augmenter la productivité des différents membres des équipes Simplon HDF et accélera les différents processus.
+
+A titre d'exemple, un coach demarrant une nouvelle formation créer un nouveau serveur Discord afin d'accueillir ses apprenants, avec cette solution, il est possible de rendre la tâche plus rapide et moins fastidieuse à effectuer, cette action peut être automatisée par le biais d'un bot qui prendra en charge la création d'un espace dédié à la promotion du coach et incorporera cet espace dédié en suivant les principes établis visant à garder un espace communautaire clair et organisé.
+De cette façon, le coach ne prends plus à sa charge la création de l'espace dédié, un bot s'occupe de créer et configurer cet espace en appliquant les principes cités plus haut.
+
+Ce cas ne représente qu'une des déclinaisons possibles de la mise en application de bots d'automatisations de tâches, il existe une multitude de tâches automatisables afin d'améliorer l'expérience des différentes entités Simplon HDF.
+
+Il existe cependant une limite à cette solution, toutes les tâches ne peuvent pas être optimisées, pour différentes raisons, cependant, cette solution apporte un gain de temps considérable.
 
 ## 💻 Optimisation de l'utilisation de Discord <a id="improve-discord-ergonomics"></a>
 
