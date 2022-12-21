@@ -121,7 +121,7 @@ Notre solution représente un atout car les informations seront centralisées su
 
 Cependant, lors de nos réflexions quant à la mise en place de cette solution, nous avons identifés certaines diffcultés telles que la gestion du flux d'informations.
 
-En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nous avons constatés une complexification de la gestion des flux d'informations, en effet, nous allons gérer un plus grand flux d'intéractions et d'informations au sein de ce serveur, nous avons donc réfléchis à la mise en place de bots de modération pointus afin de contrôler ces flux et ne pas complexifier d'avantage le travail des membres des équipes Simplon.
+En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nous avons constatés une complexification de la gestion des flux d'informations, en effet, nous allons recevoir un plus grand flux d'intéractions et d'informations au sein de ce serveur, nous avons donc réfléchis à la mise en place de bots de modération pointus afin de contrôler ces flux et ne pas complexifier d'avantage le travail des membres des équipes Simplon.
 
 ## 💭 Réduire le nombre d'actions répétitives du personnel <a id="repetitives-tasks"></a>
 
@@ -131,14 +131,14 @@ Au cours de nos échanges avec les membres des équipes Simplon HDF, nous avons 
 
 Dans l'optique de réduire le nombre d'actions répétitives effectuées par le personnel, nous avons réfléchis à la mise en place de bots permettant de prendre en charge ces actions.
 
-En utilisant les bots comme solution à la répétitions de tâches, nous avons identifiés un amoindrissement du nombre d'actions répétitives du personnel car il est possible de développer et déployer des bots sur le serveur Discord afin d'automatiser certaines tâches répétitives, ce qui aura pour effet d'augmenter la productivité des différents membres des équipes Simplon HDF et accélera les différents processus.
+En utilisant les bots comme solution à la répétitions de tâches, nous avons identifiés réduction du nombre d'actions répétitives du personnel car il est possible de développer et déployer des bots sur le serveur Discord afin d'automatiser certaines tâches répétitives, ce qui aura pour effet d'augmenter la productivité des différents membres des équipes Simplon HDF et accélera les différents processus.
 
 A titre d'exemple, un coach demarrant une nouvelle formation créer un nouveau serveur Discord afin d'accueillir ses apprenants, avec cette solution, il est possible de rendre la tâche plus rapide et moins fastidieuse à effectuer, cette action peut être automatisée par le biais d'un bot qui prendra en charge la création d'un espace dédié à la promotion du coach et incorporera cet espace dédié en suivant les principes établis visant à garder un espace communautaire clair et organisé.
 De cette façon, le coach ne prends plus à sa charge la création de l'espace dédié, un bot s'occupe de créer et configurer cet espace en appliquant les principes de clareté et de lisibilité.
 
 Ce cas ne représente qu'une des déclinaisons possibles de la mise en application de bots d'automatisations de tâches, il existe une multitude de tâches automatisables afin d'améliorer l'expérience des différentes entités Simplon HDF.
 
-Il existe cependant une limite à cette solution, toutes les tâches ne peuvent pas être optimisées, pour différentes raisons, cependant, cette solution apporte un gain de temps considérable et peut ameliorer drastiquement la réalisation des tâches des membre du staff Simplon HDF.
+Il existe cependant une limite à cette solution, toutes les tâches ne peuvent pas être optimisées, pour des raisons de criticité par exemple, cependant, cette solution apporte un gain de temps considérable et ameliorera drastiquement la réalisation des tâches des membre du staff Simplon HDF.
 
 ## 💻 Optimisation de l'utilisation de Discord <a id="improve-discord-ergonomics"></a>
 
@@ -193,7 +193,7 @@ Les alumnis se sentirons alors membre de la communauté de mêmes que les nouvea
 
 De ce rôle découle des spécificités, telles que la mise à disposition qu'un espace de discussion dédié à tous les alumnis, leur permettant d'échanger autour de sujet divers et variés ainsi qu'à leurs expériences concernant leur formation.
 
-L'une des diffcultéés de la mise en place de ce rôle est encore une fois l'elargisement du flux d'informations à traités et à organiser.
+L'une des diffcultés de la mise en place de ce rôle est encore une fois l'elargisement du flux d'informations à traités et à organiser.
 Cependant, comme nous l'avons explicité avant, il est possible de mettre en place des outils tels que des bots afin de garder une organisation claire et limpide.
 
 ## 👩‍🏫 Apport d'un aspect de Mentoring <a id="get-mentoring"></a>
@@ -219,35 +219,21 @@ L'utilisation d'un bot effectuant ces tâches permettra alors de réduire grande
 ![Sourcing image](https://i.imgur.com/d9xHEse.png)
 
 Dans le cadre de ce projet, nous avons discutés avec différents membres des équipes Simplon HDF concernant le sourcing et avons compris qu'il existe des difficultés concernant cet aspect.
-Le sourcing est un aspect cruciale pour un organisme de formation tel que celui-ci, les financements et donc les formations dispensées par Simplon HDF dépendant du Sourcing, sont un sujet auquel nous avons porté une attention particulière, suite à ces discussions ainsi qu'à nos analyses nous avons réfléchis aux améliorations quant à cet aspect.
+Le sourcing est un aspect cruciale pour un organisme de formation tel que celui-ci, les financements et donc les formations dispensées par Simplon HDF dépendant du Sourcing, il s'agit d'un sujet de discussion récurrent au sein même des équipes Simplon, c'est pourquoi nous avons porté une attention particulière à ce sujet, suite à ces discussions ainsi qu'à nos analyses nous avons réfléchis aux améliorations techniques apportables quant à cet aspect.
 
-Nous avons alors établis une liste de solutions de renforcement du Sourcing pour Simplon HDF, la première solution que nous avons élaboré consiste à mettre à disposition un espace dédié au recrutement de candidats pour les formations Simplon HDF au sein de ce serveur Discord.
+Nous avons alors établis une liste de solutions de renforcement du Sourcing pour Simplon HDF, la première solution que nous avons élaboré consiste à mettre à disposition un espace dédié au recrutement de candidats pour les formations Simplon HDF au sein du serveur Communautaire.
 Cela apportera une amélioration de la visibilité des annonces de recrutement par le simple fait d'être accessible depuis Discord.
 
-De plus, notre stratégie d'amélioration de la communication interne à Simplon HDF reposant en partie sur l'apport d'un aspect communautaire, nous avons identifiés qu'une base solide de membres actifs est un atout dans l'amélioration du sourcing, en effet, une communauté active ayant accès à des annonces de recrutement depuis l'outil de communication le plus populaire auprès des principales cibles de Simplon HDF constitue un atout considérable.
+De plus, notre stratégie d'amélioration de la communication interne à Simplon HDF reposant en partie sur l'apport d'une atmosphère communautaire, nous avons identifiés qu'une base solide de membres actifs est un atout dans l'amélioration du sourcing, en effet, une communauté active ayant accès à des annonces de recrutement depuis l'outil de communication le plus populaire auprès des principales cibles de Simplon HDF constitue un atout considérable.
 
-Aussi nous avons réfléchis à l'ouverture du serveur 
+Aussi nous avons réfléchis à la possibilité d'ouvrir le serveur Discord aux utilisateurs externes à l'écosystème Simplon, en appliquant des restrictions spécifiques à ces utilisateurs, comme la mise en place d'un espace dédié à ces utilisateurs en particulier, dans lequel ils pourront discuter avec les Simplonnien(ne)s, cependant, nous appliquerons des restrictions à ces utilisateurs afin de ne pas permettre de dérive.
 
+Nous avons alors réfléchis aux différentes restrictions liées à ces utilisateurs, nous avons choisi de restreindre l'accès de ces utilisateurs aux canaux dédiés à la discussion avec les Simplonnien(ne)s ainsi qu'au canaux dédiés aux postes des annonces de recrutement Simplon HDF.
 
-la première mesure que nous mettons en place est cet aspect communautaire par le biais d'un unique serveur Discord, nous consolidons une base de membres actifs en développant l'aspect communautaire de ce serveur, 
+De ce fait, de nouveaux utilisateurs pourraient échangés avec les Simplonnien(ne)s et ainsi rejoindre une formation au sein de l'organisme, ainsi que de consulter les différentes annonces de recrutement en ligne de façon rapide et sur le même outil, en l'occurence Discord.
+Nous permettrions alors l'accessibilité rapide aux recrutements ainsi qu'une mise en relation des apprennants et alumnis avec de nouveaux utilisateurs, cela pourrait servir de solution de communication dans une certaine mesure.
 
-## 🔚 Conclusion
-
-Toutes ces propositions ont pour but dans un premier temps d'améliorer l'organisation<br>
-et la réalisation des tâches des différentes équipes Simplon en centralisant tous ces<br>
-aspects sur un seul et même serveur, afin de réduire le nombre d'outils de communication<br>
-et donc de permettre une récupération de l'information plus efficace.<br>
-
-De plus, il semble essentiel d'instaurer un esprit de communauté pour que les apprenants<br> 
-puissent garder un contact même après la fin de leur formation.<br>
-
-Nous pouvons développer un esprit communautaire en dédiant des canaux textuels globaux<br>
-au partage de ressources, à la discussion, ou tout autre thème afin de créer des interactions<br>
-entre tous les apprenants, les anciens apprenants et les membres des équipes Simplon.<br>
-
-En développant un esprit communautaire, nous pouvons pallier au manque de candidats lors<br>
-de lancement de nouvelles formations Simplon, par le biais de canaux dédiés aux postes<br>
-d'annonce de recrutement.<br>
+Cependant, ces difféérentes améliorations peuvent entrainer des difficultés, tel qu'un accroissement conséquent du flux des interaction à gérer, encore une fois, il est possible d'endiguer ces phénomènes par le biais de bots de modérations pointus, permettant d'optimiser la gestion de ces flux.
 
 # 👤 Identification des personas
 
