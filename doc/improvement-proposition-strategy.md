@@ -33,20 +33,20 @@
 
 L'équipe en charge de ce projet est constituée de 4 membres :
 
-- **GAMACHE Benjamin** qui a le rôle de **Product Owner** dont la fonction est entre autre de prendre en charge les intéractions<br>
+- **GAMACHE Benjamin** qui a le rôle de **Product Owner** dont la fonction est entre autre de prendre en charge les intéractions
 entre l'équipe en charge du projet et le client.
 
-- **BOUREZ Bastien** qui a le rôle de **Scrum Master** dont la fonction est de diriger les membres de l'équipe en charge du projet<br> 
+- **BOUREZ Bastien** qui a le rôle de **Scrum Master** dont la fonction est de diriger les membres de l'équipe en charge du projet
 et d'assigner des tâches à chacun.
 
-- **PHILIPPE Nelson** qui a le rôle de **Développeur** dont la fonction est de développer les différentes solutions élaborées par tous<br>
-les membres de l'équipe en charge du projet et validées par le client.<br>
+- **PHILIPPE Nelson** qui a le rôle de **Développeur** dont la fonction est de développer les différentes solutions élaborées par tous
+les membres de l'équipe en charge du projet et validées par le client.
 
-- **LEROY Cédric** qui a lui aussi le rôle de **développeur**.<br>
+- **LEROY Cédric** qui a lui aussi le rôle de **développeur**.
 
 Nous travaillons donc en Méthode Agile (SCRUM) qui est une méthodologie utilisée au sein des entreprises dans la majorité des cas.<br>
 Note : Le **Product Owner** ainsi que le **Scrum Master** ont aussi pour rôle de développer, cependant, certaines responsabilités
-sont inhérentes à ces rôles spécifiques.<br>
+sont inhérentes à ces rôles spécifiques.
 
 # 📃 Proposition de stratégie d'amélioration de la communication interne à Simplon HDF
 
