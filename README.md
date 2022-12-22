@@ -1,4 +1,6 @@
-# Sommaire
+![Simplon logo](https://www.actuia.com/wp-content/uploads/2019/07/%C3%A9cole-simplon.png)
+
+# 📑 Sommaire
 
 - <a href="#introduction">Introduction</a>
 - <a href="#architecture">Architecture du projet</a>
@@ -6,7 +8,7 @@
   - <a href="#project-presentation">Présentation du projet</a>
   - <a href="#project-technical-documentation">Présentation des choix techniques</a>
 
-# Introduction <a id="introduction"></a>
+# 📄 Introduction <a id="introduction"></a>
 
 Dans le cadre de la formation CDA dispensé par Simplon, mon équipe doit réaliser un projet Fil-Rouge.<br>
 
@@ -25,13 +27,13 @@ et d'assigner des tâches à chacun.
 - **PHILIPPE Nelson** qui a le rôle de **Développeur** dont la fonction est de développer les différentes solutions élaborées par tous<br>
 les membres de l'équipe en charge du projet et validées par le client.<br>
 
-- **LEROY Cédric** qui a lui aussi le rôle de **développeur**.<br>
+- **LEROY Cédric** qui a lui aussi le rôle de **Développeur**.<br>
 
 Nous travaillons donc en Méthode Agile qui est une méthodologie utilisée au sein des entreprises dans la majorité des cas.<br>
 Note : Le **Product Owner** ainsi que le **Scrum Master** ont aussi pour rôle de développer, cependant, certaines responsabilités
 sont inhérentes à ces rôles spécifiques.<br>
 
-# Architecture du projet <a id="architecture"></a>
+# 🗂 Architecture du projet <a id="architecture"></a>
 
 Ce Repository est découpé selon certaines bonnes pratiques, nous allons les expliquer : 
 
@@ -60,12 +62,12 @@ de cette dernière.<br>
 - Le dossier **test** correspond aux ressources relatives aux tests au cours du développement,<br>
 c'est à dire les test unitaires, les tests d'intégrations par exemple.<br>
 
-# Documentation relative au projet <a id="project-doc"></a>
+# 🗒 Documentation relative au projet <a id="project-doc"></a>
 
 Dans le cadre de ce projet, nous avons dû rédiger des documents afin de présenter à notre client<br>
 (Direction Simplon) des pistes d'amélioration au sein de l'organisme.
 
-## Présentation du projet <a id="project-presentation"></a>
+## 🎤 Présentation du projet <a id="project-presentation"></a>
 
 Dans un premier temps nous avons rédigés un document de présentation du contexte dans lequel ce<br>
 projet à vu le jour, puis nous avons introduit notre client afin d'ajouter d'avantage de contexte<br>
@@ -74,7 +76,7 @@ stratégies de résolutions de ces dernières.<br>
 
 Ce document peut être consulté en cliquant <a href="doc/improvement-proposition-strategy.md">ici</a>
 
-## Présentation technique du projet <a id="project-technical-documentation"></a>
+## 🎤 Présentation technique du projet <a id="project-technical-documentation"></a>
 
 Dans un second temps, nous avons rédigés un document de présentation des choix techniques que<br>
 nous avons réalisés, nous avons donc dû réaliser des études quant au différentes technologies<br>
