@@ -31,10 +31,22 @@
 
 # 👥 Identification de l'équipe en charge du projet
 
-Pour la réalisation de ce projet, notre équipe est composée d'un<br>
+L'équipe en charge de ce projet est constituée de 4 membres :
 
-    - Scrum Master : Bourez Bastien
-    - Product Owner :  Gamache Benjamin
+- **GAMACHE Benjamin** qui a le rôle de **Product Owner** dont la fonction est entre autre de prendre en charge les intéractions
+entre l'équipe en charge du projet et le client.
+
+- **BOUREZ Bastien** qui a le rôle de **Scrum Master** dont la fonction est de diriger les membres de l'équipe en charge du projet
+et d'assigner des tâches à chacun.
+
+- **PHILIPPE Nelson** qui a le rôle de **Développeur** dont la fonction est de développer les différentes solutions élaborées par tous
+les membres de l'équipe en charge du projet et validées par le client.
+
+- **LEROY Cédric** qui a lui aussi le rôle de **développeur**.
+
+Nous travaillons donc en Méthode Agile (SCRUM) qui est une méthodologie utilisée au sein des entreprises dans la majorité des cas.<br>
+Note : Le **Product Owner** ainsi que le **Scrum Master** ont aussi pour rôle de développer, cependant, certaines responsabilités
+sont inhérentes à ces rôles spécifiques.
 
 # 📃 Proposition de stratégie d'amélioration de la communication interne à Simplon HDF
 
@@ -42,8 +54,6 @@ Notre équipe travaille sur une proposition de stratégie d'amélioration de l'o
 de Simplon. Nous aborderons certaines problématiques que nous avons identifiées afin de<br>
 proposer des solutions adaptées, nous dresserons une liste de problématiques et y répondront<br> 
 point par point.<br>
-
-+ enjeux
 
 # 📝 Problèmatiques et Propositions de solutions
 
