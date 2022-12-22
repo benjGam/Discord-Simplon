@@ -1,4 +1,4 @@
-![Simplon logo](https://www.actuia.com/wp-content/uploads/2019/07/%C3%A9cole-simplon.png)
+![Simplon logo](assets/imgs/simplon-logo.png)
 
 # Contexte
 
@@ -105,7 +105,7 @@ Notre proposition de stratégie s'articule autour de l'outil de communication Di
 
 ## 🔕 Endiguer la multiplicité des outils <a id="tools-multiplicity"></a>
 
-![tool multiplicity](https://d3mq5qvsho0pww.cloudfront.net/AqqyI62Sj2kg8UmdNTkwPz/security=policy:eyJleHBpcnkiOjQxMDI0NDEyMDAsImNhbGwiOlsicmVhZCIsInN0YXQiLCJjb252ZXJ0Il0sInBhdGgiOiIvKD8hcHJpdmF0ZSkifQ==,signature:9f1daba952f50b97bf51d34e5c4f3666a4410c18d5cbc064c40fb0fe9d099542/output=compress:true,quality:80/https://cdn.filestackcontent.com/QQnox8jToalMFJqSbCpk)
+![tool multiplicity](assets/imgs/multiplicity-tools-image.png)
 
 Lors de discutions avec différents membres des équipes Simplon HDF concernant les problématiques organisationnelles, nous avons identifié une problématique majeure : La multiplicité des outils, c'est-à-dire le nombre d'outils de communication que Simplon HDF utilise afin de communiquer, notamment les serveurs Discord.
 Dans l'optique de pallier cette problématique, nous avons réfléchi à une solution permettant d'endiguer ce phénomène et avons opté pour la création d'un unique serveur Discord centralisant tout l'écosystème Simplon.
@@ -131,7 +131,7 @@ En centralisant tout l'écosystème Simplon HDF en un seul et même endroit, nou
 
 ## 💭 Réduire le nombre d'actions répétitives du personnel <a id="repetitives-tasks"></a>
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
+![](assets/imgs/repetitives-tasks.png)
 
 Au cours de nos échanges avec les membres des équipes Simplon HDF, nous avons constaté que le personnel effectue un certain nombre de tâches répétitives, ce qui mécaniquement nuit à la productivité des équipes.
 
@@ -163,7 +163,7 @@ Enfin, dans l'optique d'optimiser l'utilisation de Discord nous formerons les me
 
 ## 📵 Réduction du nombre de messages inutiles <a id="useless-messages"></a>
 
-![](https://static.vecteezy.com/system/resources/previews/010/171/236/original/businessmen-get-advertising-phishing-spreading-malware-irrelevant-unsolicited-spam-message-spam-unsolicited-messages-malware-spreading-concept-illustration-vector.jpg)
+![](assets/imgs/useless-messages.png)
 
 Au cours des différents échanges que nous avons eus avec les membres des équipes Simplon HDF, nous avons compris que ces derniers était confrontés à un afflux de messages de relances notamment lors d'échanges avec des apprenants suite à un manque de réponse.
 Etant nous-même utilisateurs réguliers de Discord, nous constatons régulièrement ce phénomène de messages hors-propos ou simplement inutiles, nous avons donc réfléchi et avons élaboré une solution à ce problème bien connu.
@@ -181,7 +181,7 @@ Grâce à ce système, nous endiguerons alors le nombre de messages inutiles en 
 
 ## 📱 Garder le contact avec les anciens apprenants <a id="keep-alumnis-conctact"></a>
 
-![Conctact image](https://www.saint-quentin-en-yvelines.fr/sites/default/files/styles/banner/public/2022-10/Contact-illustration_bando.png?h=db9e9ca1&itok=gSanesyY)
+![Conctact image](assets/imgs/keep-contact.png)
 
 Dans le cadre de ce projet, nous avons étudié la question du suivi des apprenants après leurs formations. Pour ce faire nous avons interrogé différents membres du staff et réalisé des recherches sur les possibilités de suivi des alumnis et avons constaté que les alumnis, une fois leur formation révolue, ne gardent pas le contact avec Simplon. Nous avons réfléchi aux différentes causes responsables de ce phénomène et avons identifié des solutions suite à nos réflexions.
 
@@ -202,7 +202,7 @@ Cependant, comme nous l'avons explicité auparavant, il est possible de mettre e
 
 ## 👩‍🏫 Apport d'un aspect de Mentoring <a id="get-mentoring"></a>
 
-![mentoring image](https://www.sequoia.com/wp-content/uploads/2020/12/Benefits-of-Mentorship.png)
+![mentoring image](assets/imgs/mentoring.png)
 
 Lors de nos phases de recherche, nous avons réfléchi à l'apport d'un aspect de Mentoring à cette stratégie et des bienfaits que cela pourrait engendrer ainsi que des inconvénients liés. Nous avons alors discuté de cet aspect avec différents membres du staff Simplon HDF et avons constatés qu'il s'agissait d'une amélioration intéressante dans le cadre de ce projet.
 
@@ -221,7 +221,7 @@ L'utilisation d'un bot effectuant ces tâches permettra alors de réduire grande
 
 ## 📂 Amélioration du sourcing via Discord <a id="improve-sourcing"></a>
 
-![Sourcing image](https://images.prismic.io/coresignal-website/1078e0e9-b7bf-47c0-af94-958f1dfe6b2b_05.%20Data%20Sourcing%20-%20Benefits_%20Source%20Types,%20Providers,%20Challenges,%20and%20More.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=75&w=785&h=561)
+![Sourcing image](assets/imgs/sourcing-improvement.png)
 
 Dans le cadre de ce projet, nous avons discuté avec différents membres des équipes Simplon HDF concernant le sourcing et avons compris qu'il existe des difficultés concernant cet aspect.
 Le sourcing est un domaine crucial pour un organisme de formation tel que celui-ci. Les financements et donc les formations dispensées par Simplon HDF dépendent du Sourcing, il s'agit d'ailleurs d'un sujet de discussion récurrent au sein des équipes Simplon, c'est pourquoi nous avons porté une attention particulière à ce sujet. Suite à ces discussions ainsi qu'à nos analyses nous avons réfléchi aux améliorations techniques que nous pourrions apporter quant à cet aspect.
@@ -241,6 +241,8 @@ Nous permettrions alors l'accessibilité rapide aux recrutements ainsi qu'une mi
 Cependant, ces différentes améliorations peuvent entrainer des difficultés, tel qu'un accroissement conséquent du flux des interactions à gérer, encore une fois, il est possible d'endiguer ces phénomènes par le biais de bots de modérations pointus, permettant d'optimiser la gestion de ces flux.
 
 # 👤 Identification des personas
+
+![](assets/imgs/targets.png)
 
 <br>
 
