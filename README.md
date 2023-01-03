@@ -8,6 +8,62 @@
   - <a href="#project-presentation">Présentation du projet</a>
   - <a href="#project-technical-documentation">Présentation des choix techniques</a>
 
+## Checklist Projet
+
+- [X] **Choix de la méthodologie de travail**
+- [X] **Créer un repo Github**
+- [X] **Créer la structure du repo (Best practice)**
+    - Dossier
+        - [X] .config
+        - [X] dep
+        - [X] doc
+        - [X] res
+        - [X] samples
+        - [X] tools
+        - [X] build
+        - [X] test
+        - [X] src
+    - Fichier
+        - [ ] LICENCE.md
+        - [X] README.md
+        - [ ] .gitattributes
+        - [X] .gitignore
+        - [ ] .gitmodules
+        - [ ] .dockerignore
+
+- [ ] **Mise en place du Readme**
+- [ ] **Cadrage de la demande client**
+  - [X] Contexte / Enjeux / Problèmatique
+  - [X] Questions entretiens
+  - [ ] Persona
+  - [ ] Présentation (PowerPoint)
+  - [X] Mail de suivie / Proposition stratégique
+- [ ] **Benchmark (Analyse de la concurence)**
+- [ ] **Spécification fonctionnelle**
+  - [ ] Règle de gestion
+  - [ ] UML
+    - [ ] Diagramme d'activité
+    - [ ] Use case
+    - [ ] Diagramme de séquence
+    - [ ] Diagramme de classe
+  - [ ] Merise
+    - [ ] MCD
+    - [ ] MLD
+    - [ ] MPD
+  - [ ] RBAC
+- [ ] **Epic**
+  - [ ] User Story
+  - [ ] Product backlog (Tâches)
+- [ ] **Jira**
+- [ ] **Rituels agiles**
+  - [ ] Sprint planning meeting
+  - [ ] Stand up meeting
+  - [ ] Sprint retrospective
+  - [ ] Sprint Review
+
+- [ ] **Démarrer les sprints**
+
+
 # 📄 Introduction <a id="introduction"></a>
 
 Dans le cadre de la formation CDA dispensé par Simplon, mon équipe doit réaliser un projet Fil-Rouge.<br>
