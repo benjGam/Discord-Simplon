@@ -18,6 +18,8 @@
         - [X] dep
         - [X] doc
         - [X] res
+        - [ ] samples
+        - [ ] tools
         - [X] build
         - [X] test
         - [X] src
