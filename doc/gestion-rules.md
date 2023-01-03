@@ -2,27 +2,39 @@
 
 ![gestion rules image](https://www.financewhile.com/wp-content/uploads/2021/01/Business-Rules.png)
 
-## 🤝 Un serveur Discord
+## OnBoarding : 
 
-    1. Un serveur Discord est un outil de discussion synchrone.
-    2. Il permet de développer une communauté.
-    3. Il permet d'appliquer une stratégie de RBAC nativement.
-    4. Il permet de créer des canaux de discussions textuels.
-    5. Il permet de créer des forums de discussions textuels.
-    6. Il permet de créer des canaux de discussions vocaux.
-    7. Il permet d'organiser ces différents canaux en catégorie.
+### Configuration
 
-## 🖼️ Widget de serveur
-    1. Il défini dans quel salon mène n'importe quelle invitation crée sur le discord.
-    2. Permets l'intégreration de widget prédéfinit sur une application, un site web.
+- Le bot doit disposer un systeme de configuration.
+  - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout des staffs .
+    - L'embed doit disposer d'une liste box permettant de selectionner le role afin de generer un lien d'invitation.
+  - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout de formation.
+    - L'embed doit disposer d'une liste box permettant la selection du type de formation .
+      - Un nouvel embed doit etre envoye et doit disposer d'un bouton permettant de creer une nouvel formation.
+      - Le bot doit envoyer un message demandant la date de commencement de formation.
+  - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout d'apprenant a une formation.
+    - L'embed doit disposer d'une liste box permettant de generer un lien d'invitation pour un nouvel apprenant, a une formation specifique.
+  - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout de nouveaux utilisateur deja present sur le serveur discord, a une formation.
+    - L'embed doit disposer d'une liste box permettant de selectionner une formation specifique.
+      - Lors de la selection de la formation, un nouvel embed doit etre envoyer, il doit disposer d'un bouton permettant d'afficher un formulaire d'ajout d'utilisateur.
+  - Le bot doit avoir une commande de generation d'embed pour l'ajout ou de modification de template de categorie de formation.
+    - Une categorie de formation est un ensemble de canaux dedie a une formation.
+    - Le bot doit a la creation d'une formation, generer une embed de configuration dans un channel propre a ca categorie.
+  - Le lien d'invitation genere par le bot ne doit fonctionner que pour une personne.
+  - Le lien d'invitation doit etre temporaire.
+- Le bot ne doit pas pouvoir creer deux fois la meme embed.
+- Le bot doit pouvoir detecter si une embed a ete supprimer pour permettre la recreation d'une nouvelle.
+- L'administrateur peut supprimer une embed.
 
-## 🎓 Un rôle
-    1. Un rôle peut être attribué à n'importe quel membre.
-    2. Il dispose d'une liste de permsissions activables ou désactivables.
-    3. Il peut-être styliser de manière différente selon son utilisation.
-    4. Peut-être un rôle lié ( exemple: La personne aura le grade twitch si sont comptes twitch et lier à discord).
-    5. Peut posséder une icône de rôle.
-    6. Peut-être afficher séparément d'autres rôles.
+---
+
+- Lors de l'ajout d'un utitlisateur a une formation, le bot doit envoyer une demande de verification dans un canal dedie a ca formation.
+- Le bot doit imposer une identification lors de l'arrive d'un nouvel apprenant ou nouveau membre du staff.
+  - Lors de l'arrive d'un nouvel apprenant, le bot doit envoyer un message de demande de verification dans un canal dedie a ca formation.
+  - Lors de l'arrive d'un nouveau staff, le bot doit envoyer un message de demande de verification dans un canal dedie au staff.
+    - Une fois la verification de l'identite validee, le role doit etre attribue par le bot a l'utilisateur du lien.
+
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
