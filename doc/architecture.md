@@ -4,9 +4,6 @@ Dans ce fichier, nous expliquerons les différents choix concernant l'architectu
 
 ## Mono-repository vs. multi-repository
 
-1 repo pour tous les bots
-1 repo
-
 ### Mono-repository 
 
 L'architecture de type mono-repository, littérallement "un seul dépôt". Ce type d'architecture est le plus utilisé car le plus intuitif lors de l'apprentissage et du développement d'applications. 
@@ -19,5 +16,18 @@ En plus d'être intuitive, cette architecture facilite grandement certains proce
 
 ### Multi-repository
 
+A contrario de l'architecture en monorepo, l'architecture multiréférencée (ou architecture en multi-repository) est une architecture qui consiste en la séparation des fichiers sources et dépendances de l'application. 
+
+Cette architecture possède également des avantages:
+* Une séparation de différents codes aux fonctionnalités très différentes.
+* Séparer plusieurs fonctionnalités permet également aux équipes de pouvoir travailler de façon indépendante sur ces parties sans interférer entre elles. Le versionning peut également être facilité en différenciant plusieurs historiques git.
+* Séparer les architecture peut devoir forcer les équipes à réflechir l'application en terme de micro-services. 
+* Une entreprise peut plus facilement contrôler l'accès au code source d'une application en limitant les accès. Ce point permet également de soulever les avantages en terme de sécurité interne.
+
+### Choix 
+
+Notre application est basée sur différents bots et d'un pannel administrateur nécessitant l'utilisation d'une application web. 
+
+Dans ce cadre, nous optons pour
 
 Lorsque (au minimum) deux repository sont construits, il est plus difficile de gérer les dépendances logicielles car celles-ci doivent être installées et configurées de multiples fois. 
