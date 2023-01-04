@@ -47,7 +47,7 @@
   
 - Le bot doit générer à la création de la formation, un embed permettant de notifié le formateur de l'absence d'émargement
   - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
-    - Pour envoyer le message privé, il faut que 3 apprenants signal le problème
+    - Pour envoyer le message privé, il faut que 3 apprenants signal le problème.
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
