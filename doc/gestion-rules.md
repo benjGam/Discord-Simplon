@@ -49,6 +49,9 @@
   - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
     - Pour envoyer le message privé, il faut que 3 apprenants signal le problème.
 
+
+
+
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
     2. Il dispose d'une configurabilité par le biais de permissions.
