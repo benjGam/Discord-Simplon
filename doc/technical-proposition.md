@@ -63,7 +63,7 @@ Voici quelques exemples de situations où une **API REST** ne serait pas consid�
 Nous avons également choisi d'utiliser un **Modèle Stateless** car celui-ci présente plusieurs avantages pour notre cas d'utilisation. <br>
 
 - **La Scalabilité** : un modèle stateless permet de traiter les requêtes de manière indépendante, ce qui peut améliorer la scalabilité de l'application. En effet, le système n'a pas à conserver l'état de la session entre les requêtes, ce qui peut réduire la charge sur les ressources serveur.
-- **La Facilité de développement et de maintenance **: un modèle stateless rend l'application plus facile à développer et à maintenir, car le système n'a pas à gérer l'état de la session entre les requêtes. Cela peut réduire la complexité de l'application et faciliter l'ajout de nouvelles fonctionnalités.
+- La Facilité de développement et de maintenance **: un modèle stateless rend l'application plus facile à développer et à maintenir, car le système n'a pas à gérer l'état de la session entre les requêtes. Cela peut réduire la complexité de l'application et faciliter l'ajout de nouvelles fonctionnalités.
 - **Interopérabilité** : un modèle stateless rend l'application plus facile à intégrer à d'autres systèmes et à utiliser avec différents clients, car il ne nécessite pas de maintenir l'état de la session entre les requêtes. Cela peut être particulièrement utile dans le cas d'applications distribuées ou utilisant différents protocoles de communication.
 - **La Sécurité** : un modèle stateless peut améliorer la sécurité de l'application en réduisant le risque de fuites d'informations sensibles liées à l'état de la session. En effet, comme le système n'a pas à conserver l'état de la session, il n'y a pas de données sensibles à protéger.
 
@@ -207,3 +207,13 @@ et nous offrir une gestion sécurisée et efficace des interactions avec les bas
 
 Sa grande communauté de développeurs et sa documentation détaillée en font également,<br>
  un choix de qualité pour le développement de notre application.<br>
+
+## 👷‍♀️ Proposition de l'architecture d'application.
+
+Nous proposons de ne pas utiliser une architecture micro-services pour notre application car elle présente plusieurs inconvénient, notament en ce qui est de la deadline :
+
+- **Complexité accrue** : une architecture microservices peut être plus complexe à mettre en place et à maintenir qu'une architecture monolithe, car elle implique la mise en place de plusieurs services indépendants qui doivent être coordonnés.
+- **Développement et déploiement plus longs** : le développement et le déploiement d'une application basée sur une architecture microservices peuvent être plus longs, car ils impliquent la mise en place et le déploiement de plusieurs services indépendants.
+- **Intégration et tests plus complexes** : dans une architecture microservices, il peut être plus complexe de mettre en place des tests et de s'assurer que l'ensemble des services fonctionnent correctement ensemble.
+
+En résumé, nous ne pouvons à l'heure actuelle opter pour une architecture micro-services par manque de temps mais également car cela require des compétences qu'aucun membre de Nore équipe dispose pour effectuer cela dans les temps.
