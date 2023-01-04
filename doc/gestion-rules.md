@@ -41,6 +41,13 @@
 - Un pole est composé de 1 à n membres
 - Un pole est représenté par un rôle au sein de l'organisation de Simplon-HDF
 
+# Un ticket
+
+- Un ticket est constitué d'un numéro d'identification
+- Un ticket est composé d'un créateur représenté par un utilisateur affilié à Simplon-HDF
+- Un ticket est composé d'un pôle destinataire
+- Un ticket est composé d'un thread de discussion asynchrone
+
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
     2. Il dispose d'une configurabilité par le biais de permissions.
