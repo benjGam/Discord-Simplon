@@ -97,9 +97,13 @@
 
 ----
 
-- Le bot doit disposer d'une interface (un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
-  - Ce canal est composé :
-  - D'un bouton permettant de créer un nouveau ticket
-  - D'un champ de texte permettant de renseigner le nom du ticket
-  - D'une listbox permettant de selectionner le pôle de destination du ticket
-  - D'un bouton permettant de confirmer l'ouverture du ticket
+- Le bot doit disposer d'un embed (dans un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
+  - Cet embed doit disposé d'un bouton permettant de commencer la création d'un nouveau ticket
+    - Une demande de nom de ticket doit être envoyé à la création
+    - Une embed doit être envoyé disposant d'une liste box permettant de selectionner le pôle visé.
+    - Le bot doit creer un thread dedié pour le ticket dans une catégorie adapté
+      - Cette catégorie doit être visible uniquement par le pôle visée
+      - Le bot doit générer dans le thread du ticket un embed disposant d'un bouton
+      - Cet embed doit disposer d'un bouton permettant de fermer le ticket
+        - Le ticket doit etre archivé une fois fermé
+
