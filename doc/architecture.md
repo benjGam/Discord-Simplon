@@ -26,8 +26,20 @@ Cette architecture possède également des avantages:
 
 ### Choix 
 
-Notre application est basée sur différents bots et d'un pannel administrateur nécessitant l'utilisation d'une application web. 
+Notre application est basée sur différents bots ainsi que sur un pannel administrateur nécessitant l'utilisation d'une application web. 
 
-Dans ce cadre, nous optons pour
+Dans ce cadre, il est difficile de choisir une architecture comme référentiel plutôt qu'une autre. 
 
-Lorsque (au minimum) deux repository sont construits, il est plus difficile de gérer les dépendances logicielles car celles-ci doivent être installées et configurées de multiples fois. 
+Nous pourrions qualifier notre choix de mixte entre l'architecture monoréférentielle et multiréférentielle: 
+
+Nous optons pour la création d'un repository dédié à nos bots Discord. 
+Un autre repository contiendra notre application web servant de pannel administrateur pour nos bots Discord. 
+Pour finir, un dernier repository comportera l'API permettant de faire dialoguer notre pannel administrateur avec nos bots. 
+
+Ce choix d'architecture nous permet de balancer les avantages et les inconvénients de chacune des approches de façon à mieux servir notre application. 
+
+En effet, nous espérons augmenter la productivité de l'équipe en limitant les conséquences des erreurs de gestion Git tout en permettant aux membres d'obtenir une vision à la fois globale et compartimentée de l'application finale.
+
+Nous simplifions également de la sorte les gestions des dépendances. Les bots ayant des dépendances communes, il est important de les regrouper. De même, nous facilitons la communication des fichiers de configuration de ceux-ci. La séparation des bots dans (au minimum) deux repository rendrait plus difficile de gérer les dépendances logicielles car celles-ci devraient être installées et configurées de multiples fois.
+
+Pour finir, ce choix d'architecture permet de favoriser la perenité du projet en offrant une plus grande facilité de maintenance et de déploiement.
