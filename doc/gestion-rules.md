@@ -109,6 +109,8 @@
 
 # Feedback bot
 
+
+
 # Configuration 
 
 - Le bot doit mettre à disposition une commande permettant son activation
