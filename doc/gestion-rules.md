@@ -156,3 +156,7 @@
 - Le bot doit mettre en place une commande permettant d'accèder à une liste de ressources jugées pertinentes par la communauté
 
 ## Configuration
+
+- Le bot doit mettre à disposition une commande permettant son activation
+- Le bot doit mettre à disposition une commande permettant sa désactivation
+- Le bot doit mettre à disposition une commande permettant de lié un canal spécifique à un tag
