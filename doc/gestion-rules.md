@@ -88,7 +88,14 @@
       4a. ce sont des orateurs classiques.
       4b. Peuvent ajouter, retirer et mettre en sourdine d'orateurs.
     5. Toute personne ayant la permission de voir le salon de la conférence pourra y accéder en tant que spectateur.
-  
+  ----
+
+- Le bot doit disposer d'une interface (un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
+  - Ce canal est composé :
+  - D'un bouton permettant de créer un nouveau ticket
+  - D'un champ de texte permettant de renseigner le nom du ticket
+  - D'une listbox permettant de selectionner le pôle de destination du ticket
+  - D'un bouton permettant de confirmer l'ouverture du ticket
 ## 🗂 Une catégorie Discord
     1. Elle peut contenir 0 à plusieurs canaux de discussion.
     2. Elle peut modifier les permissions des rôles du serveur, sur les canaux qui la compose.
