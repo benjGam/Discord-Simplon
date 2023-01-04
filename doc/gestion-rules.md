@@ -24,7 +24,7 @@
   - Le lien d'invitation genere par le bot ne doit fonctionner que pour une personne.
   - Le lien d'invitation doit etre temporaire.
 - Le bot ne doit pas pouvoir creer deux fois la meme embed.
-- Le bot doit pouvoir detecter si une embed a ete supprimer pour permettre la recreation d'une nouvelle.
+- Le bot doit pouvoir detecter si une embed a ete supprimer pour permexttre la recreation d'une nouvelle.
 - L'administrateur peut supprimer une embed.
 
 ---
@@ -35,6 +35,41 @@
   - Lors de l'arrive d'un nouveau staff, le bot doit envoyer un message de demande de verification dans un canal dedie au staff.
     - Une fois la verification de l'identite validee, le role doit etre attribue par le bot a l'utilisateur du lien.
 
+
+# pôle
+
+- Un pole est composé de 1 à n membres
+- Un pole est représenté par un rôle au sein de l'organisation de Simplon-HDF
+- Un pôle doit être affilié à un rôle du serveur
+
+# Un ticket
+
+- Un ticket est constitué d'un numéro d'identification
+- Un ticket est composé par un nom
+- Un ticket est composé d'un créateur représenté par un utilisateur affilié à Simplon-HDF
+- Un ticket est composé d'un pôle destinataire
+- Un ticket est composé d'un thread de discussion asynchrone
+- Un ticket peut être fermé par son créateur et par le pôle destinataire
+- Un ticket peut être marqué comme résolu par un membre du pôle destinataire
+- Un ticket peut être archivé par un membre du pôle destinataire
+- Un ticket peut être sauvegardé de façon externe
+
+# Bot Ticketing
+
+## Configuration
+
+- Le bot doit mettre à disposition une commande permettant de modifier la catégorie dans laquelle les tickets seront situés
+- Le bot doit mettre à disposition une commande permettant d'ajouter un pîle auquel s'addresser
+- Le bot doit mettre à disposition une commande permettant de supprimer un pôle auquel s'addresser
+  
+----
+
+- Le bot doit disposer d'une interface (un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
+  - Ce canal est composé :
+  - D'un bouton permettant de créer un nouveau ticket
+  - D'un champ de texte permettant de renseigner le nom du ticket
+  - D'une listbox permettant de selectionner le pôle de destination du ticket
+  - D'un bouton permettant de confirmer l'ouverture du ticket
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
