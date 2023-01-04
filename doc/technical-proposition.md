@@ -24,16 +24,50 @@ Ce document vise à présenter de manière claire et concise les choix technolog
 
 ![API proposition image](https://i.imgur.com/OdKnUjw.png)
 
-Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.<br>
+    Lors de nos réfléxions, la question de l'architecture API ou Monolithique s'est posée.
+    Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire
+    qu'une architecture monolithique, ce qui permet par exemple à d'autres développeurs
+    d'utiliser notre application afin d'ajouter des fonctionnalités et d'être capable de créer
+    de nouveaux outils à partir de notre de application.
 
-Nous proposons d'utiliser une API car l'architecture d'une API est bien plus modulaire<br>
-qu'une architecture monolithique, ce qui permet par exemple à d'autres développeurs<br>
-d'utiliser notre application afin d'ajouter des fonctionnalités et d'être capable de créer<br>
-de nouveaux outils à partir de notre de application.<br>
+    Cela permettra d'apporter une évolutivité du projet dans son ensemble en permettant l'agrégation
+    de nouveaux outils sans besoin de retravailler l'architecture de l'application préalablement
+    en plus de permettre l'utilisation de l'API en tant que source d'informations.
 
-Cela permettra d'apporter une évolutivité du projet dans son ensemble en permettant l'agrégation<br>
-de nouveaux outils sans besoin de retravailler l'architecture de l'application préalablement<br>
-en plus de permettre l'utilisation de l'API en tant que source d'informations.<br>
+Nous avons choisi d'utiliser une architecture **RESTful** pour notre **API** car elle présente plusieurs avantages pour notre cas d'utilisation. <br>
+
+- **l'interopérabilité** est un point clé pour notre API, qui doit être utilisable par un large éventail de clients et de technologies. L'utilisation de l'architecture RESTful nous permet de nous assurer que notre API sera compatible avec tout client qui parle HTTP.
+
+- **l'évolutivité** est un autre aspect important pour notre API. Avec une architecture RESTful, nous pouvons facilement mettre à jour et changer les ressources sans impacter les clients existants. Cela nous permet de mieux gérer l'évolution de notre API au fil du temps.
+
+- **La performance** est également un facteur important pour notre API, qui doit être capable de gérer un volume élevé de demandes. L'architecture RESTful nous permet de mieux gérer la charge et d'utiliser efficacement les ressources du serveur, ce qui améliore les performances de notre API.
+
+- **la séparation des préoccupations** pour finir est un autre avantage de l'architecture RESTful. En donnant à chaque ressource une URL unique, nous pouvons mieux séparer les différentes parties de notre API et les maintenir de manière plus simple.
+
+En résumé, l'architecture RESTful nous permet de créer une API interopérable, évolutive, performante et facile à maintenir, ce qui correspond parfaitement à nos besoins.
+
+    Une API peut être considérée comme RESTful si elle respecte les principes de l'architecture REST. 
+    Si une API ne respecte pas ces principes, elle ne peut pas être considérée comme RESTful, 
+    même si elle utilise l'hypertext transfer protocol (HTTP) pour envoyer et recevoir des données.
+
+Voici quelques exemples de situations où une **API REST** ne serait pas considérée comme **RESTful** :
+
+- Si elle ne respecte pas le principe de l'uniformité de l'interface : dans l'architecture REST, toutes les ressources doivent être - identifiées de la même manière et le client doit être en mesure d'interagir avec elles de la même manière, quelle que soit leur emplacement ou leur type. Si une API ne respecte pas ce principe, elle ne peut pas être considérée comme RESTful.
+
+- Si elle ne respecte pas le principe de l'étatless : dans l'architecture REST, chaque demande doit être indépendante et ne doit pas dépendre de l'état précédent de la conversation. Si une API nécessite que l'état soit conservé entre les demandes, elle ne peut pas être considérée comme RESTful.
+
+- Si elle ne respecte pas le principe de la cache : dans l'architecture REST, les ressources doivent être clairement identifiées comme étant cacheables ou non. Si une API ne respecte pas ce principe, elle ne peut pas être considérée comme RESTful.
+
+- Si elle ne respecte pas le principe de la séparation des préoccupations : dans l'architecture REST, chaque ressource doit avoir sa propre URL et ne doit pas dépendre des autres ressources. Si une API ne respecte pas ce principe, elle ne peut pas être considérée comme RESTful.
+
+Nous avons également choisi d'utiliser un **Modèle Stateless** car celui-ci présente plusieurs avantages pour notre cas d'utilisation. <br>
+
+- **La Scalabilité** : un modèle stateless permet de traiter les requêtes de manière indépendante, ce qui peut améliorer la scalabilité de l'application. En effet, le système n'a pas à conserver l'état de la session entre les requêtes, ce qui peut réduire la charge sur les ressources serveur.
+- **La Facilité de développement et de maintenance **: un modèle stateless rend l'application plus facile à développer et à maintenir, car le système n'a pas à gérer l'état de la session entre les requêtes. Cela peut réduire la complexité de l'application et faciliter l'ajout de nouvelles fonctionnalités.
+- **Interopérabilité** : un modèle stateless rend l'application plus facile à intégrer à d'autres systèmes et à utiliser avec différents clients, car il ne nécessite pas de maintenir l'état de la session entre les requêtes. Cela peut être particulièrement utile dans le cas d'applications distribuées ou utilisant différents protocoles de communication.
+- **La Sécurité** : un modèle stateless peut améliorer la sécurité de l'application en réduisant le risque de fuites d'informations sensibles liées à l'état de la session. En effet, comme le système n'a pas à conserver l'état de la session, il n'y a pas de données sensibles à protéger.
+
+C'est pourquoi, notre proposition d'utilisation d'API s'est portée sur **l'API RESTful** avec un modèle **Stateless** plutôt qu'une **API REST** ou qu'un modèle **Stateful**.<br>
 
 ## ⚛️ Proposition de langage
 
