@@ -229,4 +229,8 @@ La couche logiciel publique sera développé en TS via l'API Discord pour permet
 
 La couche de données sera développé en utilisant PostgreSQL et TypeORM pour gérer l'acces et la manipulation des données de l'application, qui seront stockées dans une base de données relationnelle.
 
+<<<<<<< HEAD
 En utilisant cette architecture N-tier, nous espérons rendre de l'application plus facile à maintenir et à évoluer, tout en séparant clairement les responsabilités de chaque couche. Cela nous permettra également de développer et mettre à jour chaque couche de manière indépendante, ce qui accélère le processus de développement.
+=======
+En utilisant cette architecture N-tier, nous espérons rendre l'application plus facile à maintenir et à évoluer, tout en séparant clairement les responsabilités de chaque couche. Cela nous permettra également de développer et mettre à jour chaque couche de manière indépendante, ce qui accélère le processus de développement.
+>>>>>>> dac4874 (docs(common) : fix ntiers choice)
