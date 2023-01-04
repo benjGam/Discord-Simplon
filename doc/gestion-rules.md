@@ -24,7 +24,7 @@
   - Le lien d'invitation genere par le bot ne doit fonctionner que pour une personne.
   - Le lien d'invitation doit etre temporaire.
 - Le bot ne doit pas pouvoir creer deux fois la meme embed.
-- Le bot doit pouvoir detecter si une embed a ete supprimer pour permettre la recreation d'une nouvelle.
+- Le bot doit pouvoir detecter si une embed a ete supprimer pour permexttre la recreation d'une nouvelle.
 - L'administrateur peut supprimer une embed.
 
 ---
@@ -35,6 +35,11 @@
   - Lors de l'arrive d'un nouveau staff, le bot doit envoyer un message de demande de verification dans un canal dedie au staff.
     - Une fois la verification de l'identite validee, le role doit etre attribue par le bot a l'utilisateur du lien.
 
+
+# pôle
+
+- Un pole est composé de 1 à n membres
+- Un pole est représenté par un rôle au sein de l'organisation de Simplon-HDF
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
