@@ -4,8 +4,6 @@
 
 ## OnBoarding : 
 
-### Configuration
-
 - Le bot doit disposer un systeme de configuration.
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout des staffs .
     - L'embed doit disposer d'une liste box permettant de selectionner le role afin de generer un lien d'invitation.
@@ -31,8 +29,6 @@
 - Le bot doit pouvoir detecter si un embed à été supprimé pour permettre la recreation d'une nouvelle.
 - L'administrateur peut supprimer un embed.
 
----
-
 - Lors de l'ajout d'un utitlisateur a une formation, le bot doit envoyer une demande de verification (dans un canal) dedié à ça formation.
 - Le bot doit imposer une identification lors de l'arrive d'un nouvel apprenant ou nouveau membre du staff.
   - Lors de l'arrive d'un nouvel apprenant, le bot doit envoyer un message de demande de verification (dans un canal) dedié à ça formation.
@@ -41,6 +37,17 @@
 
 - Le bot doit mettre en place un embed (dans un canal) permettant de selectionner les formations visibles pour le staff
 
+
+## Gestion des signatures
+
+- Le bot doit générer à la création de la formation, un embed doit être généré (dans un canal specifique) pour notifié les non signatures au apprenants
+  - L'embed doit posseder une liste de box des apprenants de la formation
+    - Lors de la selection d'un apprenant un message privé doit être envoyé par le bot pour signaler le problème.
+  - La liste box doit être utilisé uniquement par le staff
+  
+- Le bot doit générer à la création de la formation, un embed permettant de notifié le formateur de l'absence d'émargement
+  - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
+    - Pour envoyer le message privé, il faut que 3 apprenants signal le problème
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
