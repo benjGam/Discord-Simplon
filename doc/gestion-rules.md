@@ -107,3 +107,11 @@
       - Cet embed doit disposer d'un bouton permettant de fermer le ticket
         - Le ticket doit etre archivé une fois fermé
 
+# Feedback bot
+
+# Configuration 
+
+- Le bot doit mettre à disposition une commande permettant son activation
+- Le bot doit mettre à disposition une commande permettant sa désactivation
+- Le bot doit mettre à disposition une commande permettant d'activer les feedbacks selon les formations
+  - Cette embed doit être composée d'une listbox permettant de selectionner la formation sur laquelle activer ou désactiver les feedbacks
