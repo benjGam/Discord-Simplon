@@ -9,12 +9,16 @@
 - Le bot doit disposer un systeme de configuration.
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout des staffs .
     - L'embed doit disposer d'une liste box permettant de selectionner le role afin de generer un lien d'invitation.
+  - Le bot doit avoir une commande de generation d'embed (dans un canal) pour la creation d'un nouveau type de formation.
+    - L'embed doit disposer d'un bouton permettant d'envoyer une demande de nom de nouveau type.
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout de formation.
-    - L'embed doit disposer d'une liste box permettant la selection du type de formation .
+    - L'embed doit disposer d'une liste box permettant la selection du type de formation.
+      - Un demande doit être envoyer pour demander de completer le nom de la formation.
       - Un nouvel embed doit etre envoye et doit disposer d'un bouton permettant de creer une nouvel formation.
-      - Le bot doit envoyer un message demandant la date de commencement de formation.
+      - Le bot doit envoyer un message demandant la date de commencement et de fin de formation.
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout d'apprenant a une formation.
     - L'embed doit disposer d'une liste box permettant de generer un lien d'invitation pour un nouvel apprenant, a une formation specifique.
+      - Le lien d'invitation doit etre effectif pour une seul personne.
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout de nouveaux utilisateur deja present sur le serveur discord, a une formation.
     - L'embed doit disposer d'une liste box permettant de selectionner une formation specifique.
       - Lors de la selection de la formation, un nouvel embed doit etre envoyer, il doit disposer d'un bouton permettant d'afficher un formulaire d'ajout d'utilisateur.
@@ -35,6 +39,8 @@
   - Lors de l'arrive d'un nouveau staff, le bot doit envoyer un message de demande de verification dans un canal dedie au staff.
     - Une fois la verification de l'identite validee, le role doit etre attribue par le bot a l'utilisateur du lien.
 
+Le bot doit mettre en place une interface, un canal, permettant de selectionner les formations visibles
+  Les caps ont des
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
