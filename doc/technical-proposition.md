@@ -217,3 +217,43 @@ Nous proposons de ne pas utiliser une architecture micro-services pour notre app
 - **Intégration et tests plus complexes** : dans une architecture microservices, il peut être plus complexe de mettre en place des tests et de s'assurer que l'ensemble des services fonctionnent correctement ensemble.
 
 En résumé, nous ne pouvons à l'heure actuelle opter pour une architecture micro-services par manque de temps mais également car cela require des compétences qu'aucun membre de Nore équipe dispose pour effectuer cela dans les temps.
+
+## Choix de la couche N-tier
+
+La couche N-tier (ou N-tier architecture) est une approche de design d'applications qui consiste à séparer l'application en plusieurs couches de responsabilité logiques. Chaque couche est responsable d'une tâche spécifique et peut être développée et mise à jour indépendamment des autres couches.
+
+La couche d'administration sera développée en utilisant le Framework Angular pour gérer l'interface utilisateur du panel.
+
+La couche logiciel de l'administration sera développée en utilisant le Framework NestJS pour gérer les interactions entre l'interface utilisateur et les données de l'application.
+
+La couche logiciel publique sera développé en TS via l'API Discord pour permettre de gérer les interactions sur le logiciel Discord.
+
+La couche de données sera développé en utilisant PostgreSQL et TypeORM pour gérer l'acces et la manipulation des données de l'application, qui seront stockées dans une base de données relationnelle.
+
+En utilisant cette architecture N-tier, nous espérons rendre l'application plus facile à maintenir et à évoluer, tout en séparant clairement les responsabilités de chaque couche. Cela nous permettra également de développer et mettre à jour chaque couche de manière indépendante, ce qui accélère le processus de développement.
+<<<<<<< HEAD
+=======
+## 👷‍♀️ Proposition de l'architecture d'application.
+
+Nous proposons de ne pas utiliser une architecture micro-services pour notre application car elle présente plusieurs inconvénient, notament en ce qui est de la deadline :
+
+- **Complexité accrue** : une architecture microservices peut être plus complexe à mettre en place et à maintenir qu'une architecture monolithe, car elle implique la mise en place de plusieurs services indépendants qui doivent être coordonnés.
+- **Développement et déploiement plus longs** : le développement et le déploiement d'une application basée sur une architecture microservices peuvent être plus longs, car ils impliquent la mise en place et le déploiement de plusieurs services indépendants.
+- **Intégration et tests plus complexes** : dans une architecture microservices, il peut être plus complexe de mettre en place des tests et de s'assurer que l'ensemble des services fonctionnent correctement ensemble.
+
+En résumé, nous ne pouvons à l'heure actuelle opter pour une architecture micro-services par manque de temps mais également car cela require des compétences qu'aucun membre de Nore équipe dispose pour effectuer cela dans les temps.
+
+## Choix de la couche N-tier
+
+La couche N-tier (ou N-tier architecture) est une approche de design d'applications qui consiste à séparer l'application en plusieurs couches de responsabilité logiques. Chaque couche est responsable d'une tâche spécifique et peut être développée et mise à jour indépendamment des autres couches.
+
+La couche d'administration sera développée en utilisant le Framework Angular pour gérer l'interface utilisateur du panel.
+
+La couche logiciel de l'administration sera développée en utilisant le Framework NestJS pour gérer les interactions entre l'interface utilisateur et les données de l'application.
+
+La couche logiciel publique sera développé via en TS via l'API discord pour permettre de gérer les interactions sur le logiciel Discord.
+
+La couche de données sera développé en utilisant PostgreSQL et TypeORM pour gérer l'acces et la manipulation des données de l'application, qui seront stockées dans une base de données relationnelle.
+
+En utilisant cette architecture N-tier, nous espérons rendre de l'application plus facile à maintenir et à évoluer, tout en séparant clairement les responsabilités de chaque couche. Cela nous permettra également de développer et mettre à jour chaque couche de manière indépendante, ce qui accélère le processus de développement.
+>>>>>>> 9d97350 (docs(common) : add explication for ntiers choice)

@@ -108,12 +108,23 @@
 - Le sondage doit pouvoir être signalé via une commande par tous les utilisateurs
 - A partir d'un certain nombre de signalements, le sondage doit être supprimé automatiquement
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+- L'utilisateur qui créée le sondage peux le fermer le fermer ou le supprimer
+- Une image representant les resultats doit etre envoyé à la fin du sondage.
+=======
+>>>>>>> 3533873 (docs(common): correct typos errors)
 - Une image représentant les résultats doit être envoyée à la fin du sondage.
 
 ## Configuration
 
 - Le bot doit disposer d'une commande permettant de définir une durée de sondage par défaut
 - Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour créer des sondages
+<<<<<<< HEAD
+=======
+>>>>>>> f1b179a (docs(common): correct typos errors)
+>>>>>>> 3533873 (docs(common): correct typos errors)
 
 # Feedback bot
 

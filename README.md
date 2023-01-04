@@ -31,14 +31,14 @@
         - [ ] .gitmodules
         - [ ] .dockerignore
 
-- [ ] **Mise en place du Readme**
+- [x] **Mise en place du Readme**
 - [ ] **Cadrage de la demande client**
   - [X] Contexte / Enjeux / Problèmatique
   - [X] Questions entretiens
   - [ ] Persona
-  - [ ] Présentation (PowerPoint)
+  - [x] Présentation (PowerPoint)
   - [X] Mail de suivie / Proposition stratégique
-- [ ] **Benchmark (Analyse de la concurence)**
+- [ ] 4**Benchmark (Analyse de la concurence)**
 - [ ] **Spécification fonctionnelle**
   - [ ] Règle de gestion
   - [ ] UML
@@ -54,12 +54,12 @@
 - [ ] **Epic**
   - [ ] User Story
   - [ ] Product backlog (Tâches)
-- [ ] **Jira**
+- [x] **Jira**
 - [ ] **Rituels agiles**
-  - [ ] Sprint planning meeting
-  - [ ] Stand up meeting
-  - [ ] Sprint retrospective
-  - [ ] Sprint Review
+  - [ ] Sprint planning meeting (Avant)
+  - [ ] Stand up meeting (Tout les matins)
+  - [ ] Sprint retrospective (Fin de sprint)
+  - [ ] Sprint Review (Fin de sprint)
 
 - [ ] **Démarrer les sprints**
 
