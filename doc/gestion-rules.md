@@ -130,4 +130,5 @@
 - Le sondage doit pouvoir etre signalé via une application commande par tout les utilisateur
 - A partir d'un certain nombre de signalement le sondage doit etre supprimé automatiquement
 
+- L'utilisateur qui créée le sondage peux le fermer le fermer ou le supprimer
 - Une image representant les resultats doit etre envoyé à la fin du sondage.
