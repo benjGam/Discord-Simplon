@@ -91,9 +91,7 @@
 
 ## Configuration
 
-- Le bot doit mettre à disposition une commande permettant de modifier la catégorie dans laquelle les tickets seront situés
-- Le bot doit mettre à disposition une commande permettant d'ajouter un pîle auquel s'addresser
-- Le bot doit mettre à disposition une commande permettant de supprimer un pôle auquel s'addresser
+- Le bot doit disposer d'une commande permettant de generer un embed (dans un canal) pour creer des tickets
 
 ----
 
@@ -107,3 +105,29 @@
       - Cet embed doit disposer d'un bouton permettant de fermer le ticket
         - Le ticket doit etre archivé une fois fermé
 
+# Sondage
+
+- Un sondage est un embed
+- Un sondage contient plus ou moin de bouton permettant de voter
+- Il contient un message
+- Il peut contenir des images
+- Un sondage peut etre signaler
+
+# Bot sondage
+
+## Configuration
+
+- Le bot doit disposer d'une commande permettant de definir une durée de sondage par defaut
+- Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour creer des sondages
+
+---
+
+- Le bot doit disposer d'un embed (dans un canal) permettant à un utilisateur de commencer la création d'un sondage.
+- L'embed doit disposer d'un bouton permettant de commencer une configuration de sondage
+- La configuration de sondage permet d'ajouter du texte, des images et des potentielles champs de votes et durée, et le canal dans lequel l'envoyer
+
+- Le sondage doit etre supprimé apres le temps determiné pendant la configuration
+- Le sondage doit pouvoir etre signalé via une application commande par tout les utilisateur
+- A partir d'un certain nombre de signalement le sondage doit etre supprimé automatiquement
+
+- Une image representant les resultats doit etre envoyé à la fin du sondage.
