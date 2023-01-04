@@ -56,10 +56,10 @@
   - [ ] Product backlog (Tâches)
 - [ ] **Jira**
 - [ ] **Rituels agiles**
-  - [ ] Sprint planning meeting
-  - [ ] Stand up meeting
-  - [ ] Sprint retrospective
-  - [ ] Sprint Review
+  - [ ] Sprint planning meeting (Avant)
+  - [ ] Stand up meeting (Tout les matins)
+  - [ ] Sprint retrospective (Fin de sprint)
+  - [ ] Sprint Review (Fin de sprint)
 
 - [ ] **Démarrer les sprints**
 
