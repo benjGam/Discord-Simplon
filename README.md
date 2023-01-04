@@ -38,7 +38,7 @@
   - [ ] Persona
   - [x] Présentation (PowerPoint)
   - [X] Mail de suivie / Proposition stratégique
-- [ ] 4**Benchmark (Analyse de la concurence)**
+- [ ] **Benchmark (Analyse de la concurence)**
 - [ ] **Spécification fonctionnelle**
   - [ ] Règle de gestion
   - [ ] UML
