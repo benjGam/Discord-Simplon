@@ -49,14 +49,21 @@
   - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
     - Pour envoyer le message privé, il faut que 3 apprenants signal le problème.
 
+- Le bot doit disposer d'une interface (un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
+  - Ce canal est composé :
+  - D'un bouton permettant de créer un nouveau ticket
+  - D'un champ de texte permettant de renseigner le nom du ticket
+  - D'une listbox permettant de selectionner le pôle de destination du ticket
+  - D'un bouton permettant de confirmer l'ouverture du ticket
 
 
+## Gestion des signatures
 
-## 🗣️ Un canal de discussion
-    1. Un canal de discussion peut être textuel ou vocal.
-    2. Il dispose d'une configurabilité par le biais de permissions.
-    3. Un canal de discussion vocal peut avoir une limite d'utilisateurs simultané.
-    4. Possibilité d'intégrer des web Hooks. dans les salons textuels, forum, salon announcement.
+- Le bot doit générer à la création de la formation, un embed doit être généré (dans un canal specifique) pour notifié les non signatures au apprenants
+  - L'embed doit posseder une liste de box des apprenants de la formation
+    - Lors de la selection d'un apprenant un message privé doit être envoyé par le bot pour signaler le problème.
+  - La liste box doit être utilisé uniquement par le staff
+
 
 ## 💬 Un forum de discussions est uniquement textuel
     1. Il posait un guide des postes.
