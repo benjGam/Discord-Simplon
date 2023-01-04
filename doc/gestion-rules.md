@@ -148,3 +148,15 @@
 - Le bot doit mettre à disposition une commande permettant sa désactivation
 - Le bot doit mettre à disposition une commande permettant d'activer les feedbacks selon les formations
   - Cette embed doit être composée d'une listbox permettant de selectionner la formation sur laquelle activer ou désactiver les feedbacks
+# SimplonHub Bot
+
+- Le bot doit analyser les ressources partagées dans les canaux dédiés
+- Le bot doit permettre aux utilisateurs de voter pour encenser une ressource
+- Le bot doit permettre aux utilisateurs de voter pour condamner une ressource
+- Le bot doit mettre en place une commande permettant d'accèder à une liste de ressources jugées pertinentes par la communauté
+
+## Configuration
+
+- Le bot doit mettre à disposition une commande permettant son activation
+- Le bot doit mettre à disposition une commande permettant sa désactivation
+- Le bot doit mettre à disposition une commande permettant de lié un canal spécifique à un tag
