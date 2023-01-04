@@ -40,6 +40,7 @@
 
 - Un pole est composé de 1 à n membres
 - Un pole est représenté par un rôle au sein de l'organisation de Simplon-HDF
+- Un pôle doit être affilié à un rôle du serveur
 
 # Un ticket
 
@@ -53,7 +54,9 @@
 
 ## Configuration
 
-- Le bot doit mettre à disposition une commande permetant de modifier la catégorie dans laquelle les tickets seront situés
+- Le bot doit mettre à disposition une commande permettant de modifier la catégorie dans laquelle les tickets seront situés
+- Le bot doit mettre à disposition une commande permettant d'ajouter un pîle auquel s'addresser
+- Le bot doit mettre à disposition une commande permettant de supprimer un pôle auquel s'addresser
   
 ----
 
