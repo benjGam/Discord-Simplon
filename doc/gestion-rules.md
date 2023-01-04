@@ -109,7 +109,13 @@
 
 # Feedback bot
 
-
+- Le bot doit mettre à disposition un canal dédié aux membres du staff afin de consulter les feedbakcs des apprenants
+- Ce canal est affilié à la catégorie de la formation
+- Les apprenants peuvnet envoyer un message au bot afin de faire leur feedback
+- Le bot doit considérer les messages uniquement des apprenants
+- Le bot doit considérer uniquement 1 message par apprenant
+- Le bot doit considérer uniquement les messages des apprenants une semaine avant la fin de leur formation 
+- Le bot doit envoyer le message dans le canal dédié afin de préserver l'anonymité des feedbacks des apprenants
 
 # Configuration 
 
