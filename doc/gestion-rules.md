@@ -124,9 +124,8 @@
 
 - Le bot doit disposer d'un embed (dans un canal) permettant à un utilisateur de commencer la création d'un sondage.
 - L'embed doit disposer d'un bouton permettant de commencer une configuration de sondage
-- La configuration de sondage permet d'ajouter du texte, des images et des potentielles champs de votes et durée
+- La configuration de sondage permet d'ajouter du texte, des images et des potentielles champs de votes et durée, et le canal dans lequel l'envoyer
 
-- Lors de la creation du sondage un thread doit être creer lié au sondage
 - Le sondage doit etre supprimé apres le temps determiné pendant la configuration
 - Le sondage doit pouvoir etre signalé via une application commande par tout les utilisateur
 - A partir d'un certain nombre de signalement le sondage doit etre supprimé automatiquement
