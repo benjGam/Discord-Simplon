@@ -4,8 +4,6 @@
 
 ## OnBoarding : 
 
-### Configuration
-
 - Le bot doit disposer un systeme de configuration.
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout des staffs .
     - L'embed doit disposer d'une liste box permettant de selectionner le role afin de generer un lien d'invitation.
@@ -22,60 +20,34 @@
   - Le bot doit avoir une commande de generation d'embed (dans un canal) pour l'ajout de nouveaux utilisateur deja present sur le serveur discord, a une formation.
     - L'embed doit disposer d'une liste box permettant de selectionner une formation specifique.
       - Lors de la selection de la formation, un nouvel embed doit etre envoyer, il doit disposer d'un bouton permettant d'afficher un formulaire d'ajout d'utilisateur.
-  - Le bot doit avoir une commande de generation d'embed pour l'ajout ou de modification de template de categorie de formation.
+  - Le bot doit avoir une commande de generation d'embed pour l'ajout ou la modification de template de categorie de formation.
     - Une categorie de formation est un ensemble de canaux dedie a une formation.
-    - Le bot doit a la creation d'une formation, generer une embed de configuration dans un channel propre a ca categorie.
-  - Le lien d'invitation genere par le bot ne doit fonctionner que pour une personne.
+    - Le bot doit à la creation d'une formation, générer un embed de configuration dans un channel propre à ça catégorie.
+  - Le lien d'invitation générer par le bot ne doit fonctionner que pour une personne.
   - Le lien d'invitation doit etre temporaire.
-- Le bot ne doit pas pouvoir creer deux fois la meme embed.
-- Le bot doit pouvoir detecter si une embed a ete supprimer pour permexttre la recreation d'une nouvelle.
-- L'administrateur peut supprimer une embed.
+- Le bot ne doit pas pouvoir creer deux fois la même embed de configuration.
+- Le bot doit pouvoir detecter si un embed à été supprimé pour permettre la recreation d'une nouvelle.
+- L'administrateur peut supprimer un embed.
 
----
-
-- Lors de l'ajout d'un utitlisateur a une formation, le bot doit envoyer une demande de verification dans un canal dedie a ca formation.
+- Lors de l'ajout d'un utitlisateur a une formation, le bot doit envoyer une demande de verification (dans un canal) dedié à ça formation.
 - Le bot doit imposer une identification lors de l'arrive d'un nouvel apprenant ou nouveau membre du staff.
-  - Lors de l'arrive d'un nouvel apprenant, le bot doit envoyer un message de demande de verification dans un canal dedie a ca formation.
-  - Lors de l'arrive d'un nouveau staff, le bot doit envoyer un message de demande de verification dans un canal dedie au staff.
-    - Une fois la verification de l'identite validee, le role doit etre attribue par le bot a l'utilisateur du lien.
+  - Lors de l'arrive d'un nouvel apprenant, le bot doit envoyer un message de demande de verification (dans un canal) dedié à ça formation.
+  - Lors de l'arrive d'un nouveau staff, le bot doit envoyer un message de demande de verification (dans un canal) dedié au staff.
+    - Une fois la verification de l'identité validée, le role doit etre attribué par le bot à l'utilisateur du lien.
 
-Le bot doit mettre en place une interface, un canal, permettant de selectionner les formations visibles
-  Les caps ont des
+- Le bot doit mettre en place un embed (dans un canal) permettant de selectionner les formations visibles pour le staff
 
-# pôle
 
-- Un pole est composé de 1 à n membres
-- Un pole est représenté par un rôle au sein de l'organisation de Simplon-HDF
-- Un pôle doit être affilié à un rôle du serveur
+## Gestion des signatures
 
-# Un ticket
-
-- Un ticket est constitué d'un numéro d'identification
-- Un ticket est composé par un nom
-- Un ticket est composé d'un créateur représenté par un utilisateur affilié à Simplon-HDF
-- Un ticket est composé d'un pôle destinataire
-- Un ticket est composé d'un thread de discussion asynchrone
-- Un ticket peut être fermé par son créateur et par le pôle destinataire
-- Un ticket peut être marqué comme résolu par un membre du pôle destinataire
-- Un ticket peut être archivé par un membre du pôle destinataire
-- Un ticket peut être sauvegardé de façon externe
-
-# Bot Ticketing
-
-## Configuration
-
-- Le bot doit mettre à disposition une commande permettant de modifier la catégorie dans laquelle les tickets seront situés
-- Le bot doit mettre à disposition une commande permettant d'ajouter un pîle auquel s'addresser
-- Le bot doit mettre à disposition une commande permettant de supprimer un pôle auquel s'addresser
+- Le bot doit générer à la création de la formation, un embed doit être généré (dans un canal specifique) pour notifié les non signatures au apprenants
+  - L'embed doit posseder une liste de box des apprenants de la formation
+    - Lors de la selection d'un apprenant un message privé doit être envoyé par le bot pour signaler le problème.
+  - La liste box doit être utilisé uniquement par le staff
   
-----
-
-- Le bot doit disposer d'une interface (un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
-  - Ce canal est composé :
-  - D'un bouton permettant de créer un nouveau ticket
-  - D'un champ de texte permettant de renseigner le nom du ticket
-  - D'une listbox permettant de selectionner le pôle de destination du ticket
-  - D'un bouton permettant de confirmer l'ouverture du ticket
+- Le bot doit générer à la création de la formation, un embed permettant de notifié le formateur de l'absence d'émargement
+  - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
+    - Pour envoyer le message privé, il faut que 3 apprenants signal le problème.
 
 ## 🗣️ Un canal de discussion
     1. Un canal de discussion peut être textuel ou vocal.
