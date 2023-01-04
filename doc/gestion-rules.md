@@ -49,6 +49,10 @@
 - Un ticket est composé d'un créateur représenté par un utilisateur affilié à Simplon-HDF
 - Un ticket est composé d'un pôle destinataire
 - Un ticket est composé d'un thread de discussion asynchrone
+- Un ticket peut être fermé par son créateur et par le pôle destinataire
+- Un ticket peut être marqué comme résolu par un membre du pôle destinataire
+- Un ticket peut être archivé par un membre du pôle destinataire
+- Un ticket peut être sauvegardé de façon externe
 
 # Bot Ticketing
 
