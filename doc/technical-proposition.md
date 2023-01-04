@@ -225,7 +225,7 @@ La couche d'administration sera développée en utilisant le Framework Angular p
 
 La couche logiciel de l'administration sera développée en utilisant le Framework NestJS pour gérer les interactions entre l'interface utilisateur et les données de l'application.
 
-La couche logiciel publique sera développé via en TS via l'API discord pour permettre de gérer les interactions sur le logiciel Discord.
+La couche logiciel publique sera développé en TS via l'API Discord pour permettre de gérer les interactions sur le logiciel Discord.
 
 La couche de données sera développé en utilisant PostgreSQL et TypeORM pour gérer l'acces et la manipulation des données de l'application, qui seront stockées dans une base de données relationnelle.
 
