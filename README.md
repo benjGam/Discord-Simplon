@@ -35,12 +35,12 @@
 - [ ] **Cadrage de la demande client**
   - [X] Contexte / Enjeux / Problèmatique
   - [X] Questions entretiens
-  - [ ] Persona
+  - [X] Persona
   - [x] Présentation (PowerPoint)
   - [X] Mail de suivie / Proposition stratégique
 - [ ] 4**Benchmark (Analyse de la concurence)**
 - [ ] **Spécification fonctionnelle**
-  - [ ] Règle de gestion
+  - [X] Règle de gestion
   - [ ] UML
     - [ ] Diagramme d'activité
     - [ ] Use case
@@ -52,7 +52,7 @@
     - [ ] MPD
   - [ ] RBAC
 - [ ] **Epic**
-  - [ ] User Story
+  - [X] User Story
   - [ ] Product backlog (Tâches)
 - [x] **Jira**
 - [ ] **Rituels agiles**
