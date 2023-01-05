@@ -108,23 +108,14 @@
 - Le sondage doit pouvoir être signalé via une commande par tous les utilisateurs
 - A partir d'un certain nombre de signalements, le sondage doit être supprimé automatiquement
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 - L'utilisateur qui créée le sondage peux le fermer le fermer ou le supprimer
 - Une image representant les resultats doit etre envoyé à la fin du sondage.
-=======
->>>>>>> 3533873 (docs(common): correct typos errors)
-- Une image représentant les résultats doit être envoyée à la fin du sondage.
+
 
 ## Configuration
 
 - Le bot doit disposer d'une commande permettant de définir une durée de sondage par défaut
 - Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour créer des sondages
-<<<<<<< HEAD
-=======
->>>>>>> f1b179a (docs(common): correct typos errors)
->>>>>>> 3533873 (docs(common): correct typos errors)
 
 # Feedback bot
 
@@ -145,12 +136,15 @@
 
 # SimplonHub Bot
 
-- Le bot doit analyser les ressources partagées dans les canaux dédiés
-- Le bot doit permettre aux utilisateurs de voter pour encourager une ressource
-- Le bot doit permettre aux utilisateurs de voter pour condamner une ressource
+- Le bot doit permettre aux utilisateurs de voter pour encourager une ressource.
+- Le bot doit permettre aux utilisateurs de voter pour condamner une ressource.
+- Le bot doit analyser les ressources partagées dans les canaux ou categorie dédiés pour detecter si elle est deja presente ou si elle a deja ete condamne.
+- La mise en condamnation doit renomer le nom du poste en rajoutant une annotation comdamne a la fin et fermer le poste.
+- L'utilisateur peux effectuer un message commande (action specifique a discord) pour report le message.
 
 ## Configuration
 
 - Le bot doit mettre à disposition une commande permettant son activation
 - Le bot doit mettre à disposition une commande permettant sa désactivation
 - Le bot doit mettre à disposition une commande permettant de lier un canal spécifique à un tag
+- Le bot doit mettre a disposition une commande permettant de lier une categorie specifique a un tag  
