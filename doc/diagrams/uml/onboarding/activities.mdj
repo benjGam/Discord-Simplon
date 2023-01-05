@@ -401,7 +401,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -32,
+											"left": -128,
 											"top": -32,
 											"height": 13
 										},
@@ -412,11 +412,11 @@
 												"$ref": "AAAAAAGFgfTx365kiLM="
 											},
 											"font": "Arial;13;1",
-											"left": 997,
+											"left": 949,
 											"top": 383,
-											"width": 184.20263671875,
+											"width": 239.0908203125,
 											"height": 13,
-											"text": "DIsplay training creation form"
+											"text": "Start displaying training creation form"
 										},
 										{
 											"_type": "LabelView",
@@ -426,7 +426,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -32,
+											"left": -128,
 											"top": -32,
 											"width": 86.6708984375,
 											"height": 13,
@@ -440,16 +440,16 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -32,
+											"left": -128,
 											"top": -32,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 992,
+									"left": 944,
 									"top": 376,
-									"width": 194.20263671875,
+									"width": 249.0908203125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFgfTx365l6Js="
@@ -467,9 +467,9 @@
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 992,
+							"left": 944,
 							"top": 376,
-							"width": 194.20263671875,
+							"width": 249.0908203125,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAGFgfTx365kiLM="
@@ -496,7 +496,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 764,
+									"left": 740,
 									"top": 375,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -517,7 +517,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 764,
+									"left": 740,
 									"top": 360,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -538,7 +538,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 764,
+									"left": 740,
 									"top": 405,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -556,7 +556,7 @@
 							"tail": {
 								"$ref": "AAAAAAGFgfOiWK42j50="
 							},
-							"points": "537:396;992:396",
+							"points": "537:396;944:396",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFgfWkA65+G6s="
@@ -1306,7 +1306,7 @@
 											"top": 599,
 											"width": 120.63720703125,
 											"height": 13,
-											"text": "Create new training"
+											"text": "Create new course"
 										},
 										{
 											"_type": "LabelView",
@@ -1504,7 +1504,7 @@
 											"top": 575,
 											"width": 149.54443359375,
 											"height": 13,
-											"text": "Create training category"
+											"text": "Create course category"
 										},
 										{
 											"_type": "LabelView",
@@ -2135,7 +2135,7 @@
 											"top": 703,
 											"width": 215.26806640625,
 											"height": 13,
-											"text": "Create new role with training name"
+											"text": "Create new role with course name"
 										},
 										{
 											"_type": "LabelView",
@@ -2531,7 +2531,7 @@
 											"top": 847,
 											"width": 271.578125,
 											"height": 13,
-											"text": "Check training global configuration existing"
+											"text": "Check course global configuration existing"
 										},
 										{
 											"_type": "LabelView",
@@ -3736,7 +3736,7 @@
 											"top": 1167,
 											"width": 260.736328125,
 											"height": 13,
-											"text": "Update category to  feat withconfiguration"
+											"text": "Update category to feat with configuration"
 										},
 										{
 											"_type": "LabelView",
@@ -4026,7 +4026,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGFgfHXKq3pwA8="
 					},
-					"name": "DIsplay training creation form"
+					"name": "Start displaying training creation form"
 				},
 				{
 					"_type": "UMLAction",
@@ -4735,7 +4735,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFgfJN7K4YpX8="
 							},
-							"name": "Create new training"
+							"name": "Create new course"
 						},
 						{
 							"_type": "UMLForkNode",
@@ -4767,7 +4767,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFgfJN7K4YpX8="
 							},
-							"name": "Create new role with training name"
+							"name": "Create new role with course name"
 						},
 						{
 							"_type": "UMLActivityFinalNode",
@@ -4799,7 +4799,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFgfJN7K4YpX8="
 							},
-							"name": "Check training global configuration existing"
+							"name": "Check course global configuration existing"
 						},
 						{
 							"_type": "UMLDecisionNode",
@@ -4865,7 +4865,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFgfKubq4jS+Q="
 							},
-							"name": "Create training category"
+							"name": "Create course category"
 						},
 						{
 							"_type": "UMLAction",
@@ -4881,7 +4881,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFgfKubq4jS+Q="
 							},
-							"name": "Update category to  feat withconfiguration"
+							"name": "Update category to feat with configuration"
 						}
 					]
 				},
@@ -4892,6 +4892,40 @@
 						"$ref": "AAAAAAGFgfHXKq3pwA8="
 					},
 					"name": "Administrator"
+				},
+				{
+					"_type": "UMLActivityPartition",
+					"_id": "AAAAAAGFgxXbkL0Kco0=",
+					"_parent": {
+						"$ref": "AAAAAAGFgfHXKq3pwA8="
+					},
+					"name": "Administrator",
+					"nodes": [
+						{
+							"_type": "UMLInitialNode",
+							"_id": "AAAAAAGFgxaWiL0lUug=",
+							"_parent": {
+								"$ref": "AAAAAAGFgxXbkL0Kco0="
+							},
+							"name": "InitialNode2"
+						},
+						{
+							"_type": "UMLAction",
+							"_id": "AAAAAAGFgxaulr0spg4=",
+							"_parent": {
+								"$ref": "AAAAAAGFgxXbkL0Kco0="
+							},
+							"name": "Add ccourse onfiguration"
+						}
+					]
+				},
+				{
+					"_type": "UMLActivityPartition",
+					"_id": "AAAAAAGFgxYpJb0XzVQ=",
+					"_parent": {
+						"$ref": "AAAAAAGFgfHXKq3pwA8="
+					},
+					"name": "Bot"
 				}
 			]
 		}
