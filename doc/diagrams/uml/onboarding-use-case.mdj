@@ -22135,9 +22135,9 @@
 											"font": "Arial;13;1",
 											"left": 253,
 											"top": 1365,
-											"width": 43.3544921875,
+											"width": 47.68994140625,
 											"height": 13,
-											"text": "Trainer"
+											"text": "Learner"
 										},
 										{
 											"_type": "LabelView",
@@ -22170,7 +22170,7 @@
 									"font": "Arial;13;0",
 									"left": 248,
 									"top": 1358,
-									"width": 53.3544921875,
+									"width": 57.68994140625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFgYUXdetrKVY="
@@ -22196,8 +22196,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -48,
-									"top": 112,
+									"left": -32,
+									"top": -48,
 									"width": 10,
 									"height": 10
 								},
@@ -22212,8 +22212,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -48,
-									"top": 112,
+									"left": -32,
+									"top": -48,
 									"width": 10,
 									"height": 10
 								},
@@ -22228,8 +22228,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -48,
-									"top": 112,
+									"left": -32,
+									"top": -48,
 									"width": 10,
 									"height": 10
 								},
@@ -22244,8 +22244,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -48,
-									"top": 112,
+									"left": -32,
+									"top": -48,
 									"width": 10,
 									"height": 10
 								}
@@ -22254,7 +22254,7 @@
 							"containerChangeable": true,
 							"left": 248,
 							"top": 1304,
-							"width": 53.3544921875,
+							"width": 57.68994140625,
 							"height": 80,
 							"nameCompartment": {
 								"$ref": "AAAAAAGFgYUXdetq/vM="
@@ -24361,7 +24361,7 @@
 											"top": 1229,
 											"width": 47.68994140625,
 											"height": 13,
-											"text": "Learner"
+											"text": "Trainer"
 										},
 										{
 											"_type": "LabelView",
@@ -24418,7 +24418,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -16,
+									"left": 16,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -24433,7 +24434,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -16,
+									"left": 16,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -24448,7 +24450,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -16,
+									"left": 16,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -24463,7 +24466,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -16,
+									"left": 16,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								}
@@ -25361,7 +25365,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 260,
+									"left": 261,
 									"top": 1268,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -25382,7 +25386,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 245,
+									"left": 246,
 									"top": 1268,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -25403,7 +25407,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 289,
+									"left": 290,
 									"top": 1269,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -25422,7 +25426,7 @@
 								"$ref": "AAAAAAGFgYUXdetpSbA="
 							},
 							"lineStyle": 1,
-							"points": "275:1303;275:1248",
+							"points": "276:1303;276:1248",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFgaSnJaiOFJs="
@@ -26713,7 +26717,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGFgUM6JvSjWTM="
 					},
-					"name": "Trainer",
+					"name": "Learner",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -26856,7 +26860,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGFgUM6JvSjWTM="
 					},
-					"name": "Learner",
+					"name": "Trainer",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
