@@ -48,12 +48,11 @@
   - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
     - Pour envoyer le message privé, il faut que 3 apprenants signalent le problème.
 
-- Le bot doit disposer d'une interface (un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket.
-  - Ce canal est composé de :
-  - Un bouton permettant de créer un nouveau ticket.
-  - Un champ de texte permettant de renseigner le nom du ticket.
-  - Une liste déroulante permettant de sélectionner le pôle de destination du ticket.
-  - Un bouton permettant de confirmer l'ouverture du ticket.
+- Le formateur peux envoyer le code d'emargement dans un channel dedie a la formation
+  - Une fois le code envoyer le bouton de rappel au formateur est desactive
+
+- Le formateur peux desactiver le rappel d'emargement avec un bouton (dans un canal specifique)
+- Le rappel se reactive tout les jours a 8h et 12h.
 
 # Pôle
 
