@@ -37,7 +37,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 312,
-									"top": 284,
+									"top": 292,
 									"width": 289,
 									"height": 13,
 									"text": "CAP",
@@ -46,7 +46,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 312,
-							"top": 280,
+							"top": 288,
 							"width": 289,
 							"height": 1145,
 							"nameLabel": {
@@ -1451,20 +1451,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGFgf669K+K/3U="
 							}
-						},
-						{
-							"_type": "UMLControlNodeView",
-							"_id": "AAAAAAGFggiP37ESW1M=",
-							"_parent": {
-								"$ref": "AAAAAAGFgfHXKq3qcps="
-							},
-							"model": {
-								"$ref": "AAAAAAGFggiP3rEQJ6c="
-							},
-							"font": "Arial;13;0",
-							"containerChangeable": true,
-							"width": 26,
-							"height": 26
 						},
 						{
 							"_type": "UMLControlNodeView",
