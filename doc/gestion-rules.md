@@ -15,7 +15,7 @@
       - Une demande doit être envoyée pour demander de compléter le nom de la formation.
       - Un nouvel embed doit être envoyé et doit disposer d'un bouton permettant de créer une nouvelle formation.
       - Le bot doit envoyer un message demandant la date de début et de fin de la formation.
-  - Le bot doit avoir une commande de génération d'embed (dans un canal) pour l'ajout d'apprenant à une formation.
+  - Le bot doit avoir une commande de génération d'embed (dans un canal) pour l'ajout d'apprenants à une formation.
     - L'embed doit disposer d'une liste déroulante permettant de générer un lien d'invitation pour un nouvel apprenant, à une formation spécifique.
       - Le lien d'invitation doit être valide pour une seule personne.
   - Le bot doit avoir une commande de génération d'embed (dans un canal) pour l'ajout de nouveaux utilisateurs déjà présents sur le serveur Discord, à une formation.
@@ -39,111 +39,110 @@
 
 # Gestion des signatures
 
-- Le bot doit générer à la création de la formation, un embed qui sera généré (dans un canal spécifique) pour notifier les non-signatures aux apprenants.
+- Le bot doit générer à la création de la formation, un canal spécifique dans lequel se trouve un embed pour notifier les non-signatures aux apprenants.
   - L'embed doit posséder une liste de cases à cocher pour les apprenants de la formation.
     - Lors de la sélection d'un apprenant, un message privé doit être envoyé par le bot pour signaler le problème.
-  - La liste de cases à cocher doit être utilisée uniquement par le staff.
+  - La liste de cases à cocher doit être utilisée uniquement par le formateur.
 
-- Le bot doit générer à la création de la formation, un embed permettant de notifier le formateur de l'absence d'émargement.
+- Le bot doit générer à la création de la formation, un embed permettant pour les apprenants de notifier le formateur de l'absence d'émargement.
   - L'embed doit disposer d'un bouton permettant d'envoyer un message privé au formateur.
     - Pour envoyer le message privé, il faut que 3 apprenants signalent le problème.
 
-- Le formateur peux envoyer le code d'emargement dans un channel dedie a la formation
-  - Une fois le code envoyer le bouton de rappel au formateur est desactive
-
-- Le formateur peux desactiver le rappel d'emargement avec un bouton (dans un canal specifique)
-- Le rappel se reactive tout les jours a 8h et 12h.
+- Le formateur peut envoyer le code d'émargement dans un channel dedié à la formation.
+  - Lorsque le formateur le décide, il peut désactiver la fonction de rappel des signatures pour les aprenants de la formation. 
+  
+- Le rappel se réactive tous les jours à 8h et 12h.
 
 # Pôle
 
-- Un pole est composé de 1 à n membres
-- Un pole est représenté par un rôle au sein de l'organisation de Simplon-HDF
-- Un pôle doit être affilié à un rôle du serveur
-- Le bot doit mettre en place un embed (dans un canal) permettant de selectionner les formations visibles pour le staff
+- Un pôle est composé de 1 à n membres.
+- Un pôle est représenté par un rôle au sein de l'organisation de Simplon-HDF.
+- Un pôle doit être affilié à un rôle du serveur.
+- Le bot doit mettre en place un embed (dans un canal) permettant de selectionner les formations visibles pour le staff.
 
 # Un ticket
 
-- Un ticket est constitué d'un numéro d'identification
-- Un ticket est composé d'un nom
-- Un ticket est composé d'un créateur représenté par un utilisateur affilié à Simplon-HDF
-- Un ticket est composé d'un pôle destinataire
-- Un ticket est composé d'un fil de discussion asynchrone
-- Un ticket peut être fermé par son créateur et par le pôle destinataire
-- Un ticket peut être marqué comme résolu par un membre du pôle destinataire
-- Un ticket peut être archivé par un membre du pôle destinataire
-- Un ticket peut être sauvegardé de façon externe
+- Un ticket est constitué d'un numéro d'identification.
+- Un ticket est composé d'un nom.
+- Un ticket est composé d'un créateur représenté par un utilisateur affilié à Simplon-HDF.
+- Un ticket est composé d'un pôle destinataire.
+- Un ticket est composé d'un fil de discussion asynchrone.
+- Un ticket peut être fermé par son créateur et par le pôle destinataire.
+- Un ticket peut être marqué comme résolu par un membre du pôle destinataire.
+- Un ticket peut être archivé par un membre du pôle destinataire.
+- Un ticket peut être sauvegardé de façon externe.
 
 # Bot Ticketing
 
-- Le bot doit disposer d'un embed (dans un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket 
-  - Cet embed doit disposer d'un bouton permettant de commencer la création d'un nouveau ticket
-    - Une demande de nom de ticket doit être envoyée à la création
+- Le bot doit disposer d'un embed (dans un canal) permettant à un utilisateur affilié à Simplon de créer un nouveau ticket. 
+  - Cet embed doit disposer d'un bouton permettant de commencer la création d'un nouveau ticket.
+    - Une demande de nom de ticket doit être envoyée à la création.
     - Une embed doit être envoyée disposant d'une liste déroulante permettant de sélectionner le pôle visé.
-    - Le bot doit créer un fil de discussion dédié pour le ticket dans une catégorie adaptée
-      - Cette catégorie doit être visible uniquement par le pôle visé
-      - Le bot doit générer dans le fil de discussion du ticket un embed disposant d'un bouton
-      - Cet embed doit disposer d'un bouton permettant de fermer le ticket
-        - Le ticket doit être archivé une fois fermé
+    - Le bot doit créer un fil de discussion dédié pour le ticket dans une catégorie adaptée.
+      - Cette catégorie doit être visible uniquement par le pôle visé.
+      - Le bot doit générer dans le fil de discussion du ticket un embed disposant d'un bouton.
+      - Cet embed doit disposer d'un bouton permettant de fermer le ticket.
+        - Le ticket doit être archivé une fois fermé.
 
 ## Configuration
 
-- Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour créer des tickets
+- Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour créer des tickets.
 
 # Un sondage
 
-- Un sondage est un embed
-- Un sondage contient plus ou moins de boutons permettant de voter
-- Il contient un message
-- Il peut contenir des images
-- Un sondage peut être signalé
+- Un sondage est un embed.
+- Un sondage contient plus ou moins de boutons permettant de voter.
+- Il contient un message.
+- Il peut contenir des images.
+- Un sondage peut être signalé.
 
 # Bot sondage
 
 - Le bot doit disposer d'un embed (dans un canal) permettant à un utilisateur de commencer la création d'un sondage.
-- L'embed doit disposer d'un bouton permettant de commencer une configuration de sondage
-- La configuration de sondage permet d'ajouter du texte, des images et des champs de votes potentiels et la durée, et le canal dans lequel l'envoyer
+- L'embed doit disposer d'un bouton permettant de commencer une configuration de sondage.
+- La configuration de sondage permet d'ajouter du texte, des images et des champs de votes potentiels et la durée, et le canal dans lequel l'envoyer.
 
-- Le sondage doit être supprimé après le temps déterminé pendant la configuration
-- Le sondage doit pouvoir être signalé via une commande par tous les utilisateurs
-- A partir d'un certain nombre de signalements, le sondage doit être supprimé automatiquement
+- Le sondage doit être supprimé après le temps déterminé pendant la configuration.
+- Le sondage doit pouvoir être signalé via une commande par tous les utilisateurs.
+- A partir d'un certain nombre de signalements, le sondage doit être supprimé automatiquement.
 
-- L'utilisateur qui créée le sondage peux le fermer le fermer ou le supprimer
+- L'utilisateur qui créée le sondage peut le fermer le fermer ou le supprimer.
 - Une image representant les resultats doit etre envoyé à la fin du sondage.
 
 
 ## Configuration
 
-- Le bot doit disposer d'une commande permettant de définir une durée de sondage par défaut
-- Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour créer des sondages
+- Le bot doit disposer d'une commande permettant de définir une durée de sondage par défaut.
+- Le bot doit disposer d'une commande permettant de générer un embed (dans un canal) pour créer des sondages.
 
 # Feedback bot
 
-- Le bot doit mettre à disposition un canal dédié aux membres du staff afin de consulter les feedbacks des apprenants
-- Ce canal est affilié à la catégorie de la formation
-- Les apprenants peuvent envoyer un message au bot afin de faire leur feedback
-- Le bot doit considérer les messages uniquement des apprenants
-- Le bot doit considérer uniquement 1 message par apprenant
-- Le bot doit considérer uniquement les messages des apprenants une semaine avant la fin de leur formation 
-- Le bot doit envoyer le message dans le canal dédié afin de préserver l'anonymat des feedbacks des apprenants
+- Le bot doit mettre à disposition un canal dédié aux membres du staff afin de consulter les feedbacks des apprenants.
+- Ce canal est affilié à la catégorie de la formation.
+- Les apprenants peuvent envoyer un message au bot afin de faire leur feedback.
+- Le bot doit considérer les messages uniquement des apprenants.
+- Le bot doit considérer uniquement 1 message par apprenant.
+- Le bot doit considérer uniquement les messages des apprenants une semaine avant la fin de leur formation. 
+- Le bot doit envoyer le message dans le canal dédié afin de préserver l'anonymat des feedbacks des apprenants.
 
 ## Configuration 
 
-- Le bot doit mettre à disposition une commande permettant son activation
-- Le bot doit mettre à disposition une commande permettant sa désactivation
-- Le bot doit mettre à disposition une commande permettant d'activer les feedbacks selon les formations
-- Cet embed doit être composé d'une liste déroulante permettant de sélectionner la formation sur laquelle activer ou désactiver les feedbacks
+- Le bot doit mettre à disposition une commande permettant son activation.
+- Le bot doit mettre à disposition une commande permettant sa désactivation.
+- Le bot doit mettre à disposition une commande permettant d'activer les feedbacks selon les formations.
+- Cet embed doit être composé d'une liste déroulante permettant de sélectionner la formation sur laquelle activer ou désactiver les feedbacks.
 
 # SimplonHub Bot
 
 - Le bot doit permettre aux utilisateurs de voter pour encourager une ressource.
 - Le bot doit permettre aux utilisateurs de voter pour condamner une ressource.
-- Le bot doit analyser les ressources partagées dans les canaux ou categorie dédiés pour detecter si elle est deja presente ou si elle a deja ete condamne.
-- La mise en condamnation doit renomer le nom du poste en rajoutant une annotation comdamne a la fin et fermer le poste.
-- L'utilisateur peux effectuer un message commande (action specifique a discord) pour report le message.
+- Le bot doit analyser les ressources partagées dans les canaux ou catégories dédiées pour détecter si elle est déjà présente ou si elle a déjà été condamnée.
+- La mise en condamnation doit renomer le nom du poste en rajoutant une annotation "condamné" à la fin et fermer le poste.
+- L'utilisateur peut effectuer un message commande (action specifique a discord) pour report le message.
 
 ## Configuration
 
-- Le bot doit mettre à disposition une commande permettant son activation
-- Le bot doit mettre à disposition une commande permettant sa désactivation
-- Le bot doit mettre à disposition une commande permettant de lier un canal spécifique à un tag
-- Le bot doit mettre a disposition une commande permettant de lier une categorie specifique a un tag  
+- Le bot doit mettre à disposition une commande permettant son activation.
+- Le bot doit mettre à disposition une commande permettant sa désactivation.
+- Le bot doit mettre à disposition une commande permettant de lier un canal spécifique à un tag.
+- Le bot doit mettre à disposition une commande permettant de lier une categorie spécifique à un tag . 
