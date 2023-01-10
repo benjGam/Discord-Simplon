@@ -31,8 +31,9 @@
 
 #### Matin :
 
-- Finir merise.
+- Finir merise et UML.
 - RBAC.
+- PgSQL.
 
 #### Apres-midi :
 
