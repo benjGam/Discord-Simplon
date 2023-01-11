@@ -7,7 +7,7 @@ Dans ce document, nous expliquerons les différents diagrammes que vous pourrez 
 
 Premièrement, notre diagramme des use cases a ét&é construit à partir des règles de gestion de notre application. Les besoins utilisateurs y sont répertoriés ainsi que leurs interactions avec le système. 
 
-![Use Case Diagram](use_case.png)
+![Use Case Diagram](use-case.png)
 
 
 ## Le diagramme d'activité
@@ -17,19 +17,19 @@ Construit à partir du diagramme des use cases, le diagramme d'activité illustr
 
 ### Le formateur prévient l'apprenant de son oubli de signature
 
-![ActivityDiagram](activity_diagram1.png)
+![ActivityDiagram](activity-diagram1.png)
 
 Le formateur entre dans un cannal spécifique afin de sélectionner les apprenants d'une formation pour les prévenir qu'ils n'ont pas signé. En fin d'action, une confirmation est envoyée.
 
 ### L'apprenant demande le code au formatteur
 
-![ActivityDiagram](activity_diagram2.png)
+![ActivityDiagram](activity-diagram2.png)
 
 L'apprenant envoie un rappel à son formateur. Au bout de trois rappels (de trois apprenants différents), le bot envoie un message de rappel au formateur. 
 
 ### Le formateur désactive la fonction de demande
 
-![ActivityDiagram](activity_diagram3.png)
+![ActivityDiagram](activity-diagram3.png)
 
 Lorsque le code a été fournis aux apprenants, le formateur demande au bot à ce que la fonction de rappel soit désactivée pour la demi-journée. 
 
@@ -40,19 +40,19 @@ De même que pour les diagrammes d'activités, nous avons choisi de découper l'
 
 ### Le formatteur prévient l'apprenant de son oubli de signature
 
-![Sequence Diagram](SequenceDiagram2.png)
+![Sequence Diagram](Sequence-diagram2.png)
 
 Le formatteur entre dans le channel. Le bot lui affiche une liste des apprenants. Le formateur sélectionne les apprenants auxquels envoyer des rappels. Un message de rappel leur est envoyé. Un message de confirmatuion est envoyé au formateur. 
 
 ### Le formateur désactive la fonction de rappel
 
-![Sequence Diagram](sequence_diagram3.png)
+![Sequence Diagram](sequence-diagram3.png)
 
 Le formateur clique sur un bouton afin de désactiver la fonction de rappel pour ses apprenants
 
 ### L'apprenant demande à son formateur le code
 
-![sequence Diagram](SequenceDiagram1.png)
+![sequence Diagram](Sequence-diagram1.png)
 
 L'apprenant clique sur le bouton de rappel. Le bot reçoit la demande et check si l'apprenant a déjà cliqué sur le bouton. 
 
@@ -60,4 +60,4 @@ L'apprenant clique sur le bouton de rappel. Le bot reçoit la demande et check s
 
 Construit selon les précédents diagrammes, le diagramme de classe a pour but de représenter notre application finale selon les lois de l'orienté objet. 
 
-![class diagram](class_diagram.png)
+![class diagram](class-diagram.png)
