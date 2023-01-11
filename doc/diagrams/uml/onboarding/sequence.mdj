@@ -14667,6 +14667,21 @@
 									"top": 1056,
 									"width": 15,
 									"height": 15
+								},
+								{
+									"_type": "UMLEndpointView",
+									"_id": "AAAAAAGFoYmleRunFjI=",
+									"_parent": {
+										"$ref": "AAAAAAGFg0xDwDN423s="
+									},
+									"model": {
+										"$ref": "AAAAAAGFoYmleRul/pA="
+									},
+									"font": "Arial;13;0",
+									"left": 1168,
+									"top": 1240,
+									"width": 15,
+									"height": 15
 								}
 							]
 						}
@@ -16442,6 +16457,14 @@
 								"$ref": "AAAAAAGFg0xDwDN3wDw="
 							},
 							"name": "Endpoint7"
+						},
+						{
+							"_type": "UMLEndpoint",
+							"_id": "AAAAAAGFoYmleRul/pA=",
+							"_parent": {
+								"$ref": "AAAAAAGFg0xDwDN3wDw="
+							},
+							"name": "Endpoint8"
 						}
 					],
 					"fragments": [
@@ -26119,6 +26142,21 @@
 									"activation": {
 										"$ref": "AAAAAAGFoF2noC3P9aM="
 									}
+								},
+								{
+									"_type": "UMLEndpointView",
+									"_id": "AAAAAAGFoYgJ8RucqWw=",
+									"_parent": {
+										"$ref": "AAAAAAGFoAisWSKODuA="
+									},
+									"model": {
+										"$ref": "AAAAAAGFoYgJ8Ruagws="
+									},
+									"font": "Arial;13;0",
+									"left": 624,
+									"top": 3168,
+									"width": 15,
+									"height": 15
 								}
 							]
 						}
@@ -27292,6 +27330,14 @@
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
 							"name": "Endpoint4"
+						},
+						{
+							"_type": "UMLEndpoint",
+							"_id": "AAAAAAGFoYgJ8Ruagws=",
+							"_parent": {
+								"$ref": "AAAAAAGFoAisWSKNZ4w="
+							},
+							"name": "Endpoint5"
 						}
 					],
 					"fragments": [
@@ -39721,6 +39767,21 @@
 									"activation": {
 										"$ref": "AAAAAAGFoSuXeDt+sjY="
 									}
+								},
+								{
+									"_type": "UMLEndpointView",
+									"_id": "AAAAAAGFoYhI2Bui9Vs=",
+									"_parent": {
+										"$ref": "AAAAAAGFoQQn+TiJVGk="
+									},
+									"model": {
+										"$ref": "AAAAAAGFoYhI2BugBhY="
+									},
+									"font": "Arial;13;0",
+									"left": 1176,
+									"top": 768,
+									"width": 15,
+									"height": 15
 								}
 							]
 						}
@@ -39961,6 +40022,14 @@
 								"$ref": "AAAAAAGFoRoZfDluqgI="
 							},
 							"isMultiInstance": false
+						},
+						{
+							"_type": "UMLEndpoint",
+							"_id": "AAAAAAGFoYhI2BugBhY=",
+							"_parent": {
+								"$ref": "AAAAAAGFoQQn+TiI/44="
+							},
+							"name": "Endpoint1"
 						}
 					],
 					"fragments": [
