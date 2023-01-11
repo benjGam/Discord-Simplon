@@ -35,6 +35,32 @@
 - RBAC.
 - PgSQL.
 
+##### Travail Réaliser :
+
+- Bastien: 
+    - Bot ticketing :
+        - Fait la config du diagramme de sequence
+        - Fait la config du diagramme d'activite
+        - Vérifier et update le diagramme de sequence
+        - Vérification et modification du mail de suivis.
+Benjamin:
+    - Bot OnBoarding :
+        - Refait le diagramme de séquence.
+
+Nelson:
+    - Bot SimplonHub
+        - Diagramme de config pour le activité.
+        - Diagramme de classe.
+Cédric:
+    - Bot FeedBack: 
+        - Ajout des fichiers.
+        - Fichier explicatif.
+        - Diagramme de classe.
+
+    - Bot Signature:
+        - Ajout des fichiers.
+        - Fichier explicatif.
+
 #### Apres-midi :
 
 - Mettre en place docker.
