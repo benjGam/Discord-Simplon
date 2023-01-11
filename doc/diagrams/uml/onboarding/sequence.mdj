@@ -40783,6 +40783,85 @@
 					"name": "Role3"
 				}
 			]
+		},
+		{
+			"_type": "UMLCollaboration",
+			"_id": "AAAAAAGFoH0AUC40x60=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Collaboration3",
+			"ownedElements": [
+				{
+					"_type": "UMLInteraction",
+					"_id": "AAAAAAGFoH0AUC41jso=",
+					"_parent": {
+						"$ref": "AAAAAAGFoH0AUC40x60="
+					},
+					"name": "Interaction1",
+					"ownedElements": [
+						{
+							"_type": "UMLSequenceDiagram",
+							"_id": "AAAAAAGFoH0AUC42PlQ=",
+							"_parent": {
+								"$ref": "AAAAAAGFoH0AUC41jso="
+							},
+							"name": "Creating learner role",
+							"ownedViews": [
+								{
+									"_type": "UMLFrameView",
+									"_id": "AAAAAAGFoH0AVC43QDQ=",
+									"_parent": {
+										"$ref": "AAAAAAGFoH0AUC42PlQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGFoH0AUC42PlQ="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGFoH0AVC44EaE=",
+											"_parent": {
+												"$ref": "AAAAAAGFoH0AVC43QDQ="
+											},
+											"font": "Arial;13;0",
+											"left": 280.72998046875,
+											"top": 133,
+											"width": 119.50439453125,
+											"height": 13,
+											"text": "Creating learner role"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGFoH0AVC45znc=",
+											"_parent": {
+												"$ref": "AAAAAAGFoH0AVC43QDQ="
+											},
+											"font": "Arial;13;1",
+											"left": 261,
+											"top": 133,
+											"width": 14.72998046875,
+											"height": 13,
+											"text": "sd"
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 256,
+									"top": 128,
+									"width": 692,
+									"height": 592,
+									"nameLabel": {
+										"$ref": "AAAAAAGFoH0AVC44EaE="
+									},
+									"frameTypeLabel": {
+										"$ref": "AAAAAAGFoH0AVC45znc="
+									}
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
