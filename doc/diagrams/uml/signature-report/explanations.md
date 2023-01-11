@@ -7,7 +7,7 @@ Dans ce document, nous expliquerons les différents diagrammes que vous pourrez 
 
 Premièrement, notre diagramme des use cases a ét&é construit à partir des règles de gestion de notre application. Les besoins utilisateurs y sont répertoriés ainsi que leurs interactions avec le système. 
 
-![Use Case Diagram](UseCaseDiagram.png)
+![Use Case Diagram](use_case.png)
 
 
 ## Le diagramme d'activité
@@ -17,19 +17,19 @@ Construit à partir du diagramme des use cases, le diagramme d'activité illustr
 
 ### Le formateur prévient l'apprenant de son oubli de signature
 
-![ActivityDiagram](ActivityDiagram1.png)
+![ActivityDiagram](activity_diagram1.png)
 
-Le formateur entre dans un cannal spécifique afin de prévenir les apprenants d'une formation qu'ils n'ont pas signé. En fin d'action, une confirmation est envoyée.
+Le formateur entre dans un cannal spécifique afin de sélectionner les apprenants d'une formation pour les prévenir qu'ils n'ont pas signé. En fin d'action, une confirmation est envoyée.
 
 ### L'apprenant demande le code au formatteur
 
-![ActivityDiagram](ActivityDiagram2.png)
+![ActivityDiagram](activity_diagram2.png)
 
 L'apprenant envoie un rappel à son formateur. Au bout de trois rappels (de trois apprenants différents), le bot envoie un message de rappel au formateur. 
 
 ### Le formateur désactive la fonction de demande
 
-![ActivityDiagram](ActivityDiagram3.png)
+![ActivityDiagram](activity_diagram3.png)
 
 Lorsque le code a été fournis aux apprenants, le formateur demande au bot à ce que la fonction de rappel soit désactivée pour la demi-journée. 
 
@@ -38,17 +38,26 @@ Lorsque le code a été fournis aux apprenants, le formateur demande au bot à c
 Construit à partir de nos diagrammes d'activités, le diagramme de séquence représente la temporalité des actions des différents acteurs de l'application. 
 De même que pour les diagrammes d'activités, nous avons choisi de découper l'action en différentes séquences. 
 
-### Le formatteur préveient l'apprenant de son oubli de signature
+### Le formatteur prévient l'apprenant de son oubli de signature
 
 ![Sequence Diagram](SequenceDiagram2.png)
 
 Le formatteur entre dans le channel. Le bot lui affiche une liste des apprenants. Le formateur sélectionne les apprenants auxquels envoyer des rappels. Un message de rappel leur est envoyé. Un message de confirmatuion est envoyé au formateur. 
 
+### Le formateur désactive la fonction de rappel
+
+![Sequence Diagram](sequence_diagram3.png)
+
+Le formateur clique sur un bouton afin de désactiver la fonction de rappel pour ses apprenants
+
+### L'apprenant demande à son formateur le code
+
 ![sequence Diagram](SequenceDiagram1.png)
 
 L'apprenant clique sur le bouton de rappel. Le bot reçoit la demande et check si l'apprenant a déjà cliqué sur le bouton. 
 
-Condition 1 : L'apprenant a déjà utilisé cette fonction dasn la demi-journée, un message d'erreur lui est envoyé. 
-Condition 2 : L'apprennant n'a pas utilisé la fonction, se demande est transmise au bot. Le bot vérifie si le total de rappel est 3. 
-Condition 2.1 : Le nombre de vote n'est pas suffisant, 1 rappel est ajouté au nombre total de rappel. 
-Condition 2.2 : Le nombre de vote est suffisant, un message de rappel est envoyé au formatteur. 
+## Le diagramme de classe
+
+Construit selon les précédents diagrammes, le diagramme de classe a pour but de représenter notre application finale selon les lois de l'orienté objet. 
+
+![class diagram](class_diagram.png)
