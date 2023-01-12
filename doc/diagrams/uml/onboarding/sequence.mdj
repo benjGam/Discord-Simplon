@@ -32522,92 +32522,93 @@
 								},
 								{
 									"_type": "UMLSeqMessageView",
-									"_id": "AAAAAAGFoMK/MDQ2uWo=",
+									"_id": "AAAAAAGFpSuOD+kZxk0=",
 									"_parent": {
 										"$ref": "AAAAAAGFoH0AUC42PlQ="
 									},
 									"model": {
-										"$ref": "AAAAAAGFoMK/MDQ1ruE="
+										"$ref": "AAAAAAGFpSuOD+kYxbg="
 									},
 									"subViews": [
 										{
 											"_type": "EdgeLabelView",
-											"_id": "AAAAAAGFoMK/MDQ3ymA=",
+											"_id": "AAAAAAGFpSuOD+kap4o=",
 											"_parent": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoMK/MDQ1ruE="
+												"$ref": "AAAAAAGFpSuOD+kYxbg="
 											},
 											"font": "Arial;13;0",
-											"left": 1040,
-											"top": 1390,
-											"width": 225,
+											"left": 1032,
+											"top": 1380,
+											"width": 207.3779296875,
 											"height": 13,
-											"alpha": 2.223643329074605,
-											"distance": 21.400934559032695,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
 											"hostEdge": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"edgePosition": 1,
 											"text": "35 : Ask for update role permissions"
 										},
 										{
 											"_type": "EdgeLabelView",
-											"_id": "AAAAAAGFoMK/MDQ4a/Y=",
+											"_id": "AAAAAAGFpSuOD+kbjpU=",
 											"_parent": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoMK/MDQ1ruE="
+												"$ref": "AAAAAAGFpSuOD+kYxbg="
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1138,
-											"top": 1399,
+											"left": 1135,
+											"top": 1395,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
 											"hostEdge": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"edgePosition": 1
 										},
 										{
 											"_type": "EdgeLabelView",
-											"_id": "AAAAAAGFoMK/MDQ57zU=",
+											"_id": "AAAAAAGFpSuOD+kcZto=",
 											"_parent": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoMK/MDQ1ruE="
+												"$ref": "AAAAAAGFpSuOD+kYxbg="
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1139,
-											"top": 1364,
+											"left": 1136,
+											"top": 1360,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
 											"hostEdge": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"edgePosition": 1
 										},
 										{
 											"_type": "UMLActivationView",
-											"_id": "AAAAAAGFoMK/MDQ6dqw=",
+											"_id": "AAAAAAGFpSuOD+kdExI=",
 											"_parent": {
-												"$ref": "AAAAAAGFoMK/MDQ2uWo="
+												"$ref": "AAAAAAGFpSuOD+kZxk0="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoMK/MDQ1ruE="
+												"$ref": "AAAAAAGFpSuOD+kYxbg="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
-											"left": 957,
-											"top": 1380,
+											"left": 964,
+											"top": 1376,
 											"width": 14,
-											"height": 37
+											"height": 25
 										}
 									],
 									"font": "Arial;13;0",
@@ -32617,18 +32618,18 @@
 									"tail": {
 										"$ref": "AAAAAAGFoIGdYC6beRs="
 									},
-									"points": "1309:1380;970:1380",
+									"points": "1309:1376;964:1376",
 									"nameLabel": {
-										"$ref": "AAAAAAGFoMK/MDQ3ymA="
+										"$ref": "AAAAAAGFpSuOD+kap4o="
 									},
 									"stereotypeLabel": {
-										"$ref": "AAAAAAGFoMK/MDQ4a/Y="
+										"$ref": "AAAAAAGFpSuOD+kbjpU="
 									},
 									"propertyLabel": {
-										"$ref": "AAAAAAGFoMK/MDQ57zU="
+										"$ref": "AAAAAAGFpSuOD+kcZto="
 									},
 									"activation": {
-										"$ref": "AAAAAAGFoMK/MDQ6dqw="
+										"$ref": "AAAAAAGFpSuOD+kdExI="
 									}
 								},
 								{
@@ -32652,7 +32653,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 974,
-											"top": 1456,
+											"top": 1448,
 											"width": 384.44580078125,
 											"height": 13,
 											"alpha": 1.410337055620355,
@@ -32675,7 +32676,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 1018,
-											"top": 1427,
+											"top": 1419,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
@@ -32696,7 +32697,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 984,
-											"top": 1428,
+											"top": 1420,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
@@ -32716,9 +32717,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 957,
-											"top": 1444,
+											"top": 1436,
 											"width": 14,
-											"height": 29
+											"height": 37
 										}
 									],
 									"font": "Arial;13;0",
@@ -32728,7 +32729,7 @@
 									"tail": {
 										"$ref": "AAAAAAGFoIDgqS55HjM="
 									},
-									"points": "964:1424;994:1424;994:1444;970:1444",
+									"points": "964:1416;994:1416;994:1436;970:1436",
 									"nameLabel": {
 										"$ref": "AAAAAAGFoMOnDjRXzzs="
 									},
@@ -33370,7 +33371,7 @@
 						},
 						{
 							"_type": "UMLMessage",
-							"_id": "AAAAAAGFoMK/MDQ1ruE=",
+							"_id": "AAAAAAGFpSuOD+kYxbg=",
 							"_parent": {
 								"$ref": "AAAAAAGFoH0AUC41jso="
 							},
@@ -33381,7 +33382,7 @@
 							"target": {
 								"$ref": "AAAAAAGFoIDgqS5yT3I="
 							},
-							"messageSort": "asynchCall"
+							"messageSort": "reply"
 						},
 						{
 							"_type": "UMLMessage",
