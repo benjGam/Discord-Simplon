@@ -38,20 +38,31 @@
 ##### Travail Réaliser :
 
 - Bastien: 
+    - Se renseigner sur SQL et PG.
+    - Écriture mail de suivi.
     - Bot ticketing :
         - Fait la config du diagramme de sequence
         - Fait la config du diagramme d'activite
         - Vérifier et update le diagramme de sequence
         - Vérification et modification du mail de suivis.
-Benjamin:
+        - Refait le diagramme d'activité.
+        - Refait le diagramme de séquece.
+- Benjamin:
+    - Se renseigner sur SQL et PG + Exo.
+    - Modification mail de suivis.
     - Bot OnBoarding :
         - Refait le diagramme de séquence.
+        - Diagramme de class.
 
-Nelson:
+- Nelson:
+    - Se renseigner sur SQL et PG + Exo.
     - Bot SimplonHub
         - Diagramme de config pour le activité.
         - Diagramme de classe.
-Cédric:
+        - Merise.
+- Cédric:
+    - Se renseigner sur SQL et PG + Exo.
+    - Modification mail de suivis.
     - Bot FeedBack: 
         - Ajout des fichiers.
         - Fichier explicatif.
