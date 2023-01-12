@@ -23,7 +23,6 @@
 | course_id                | INTEGER(11)   | This is id for one course                                           |
 | course_name              | VARACHAR(255) | This is name of course                                              |
 | course_role_id           | INTEGER(11)   | This is course role id linked                                       |
-| course_category_template | INTEGER(11)   | This is id of template category for course                          |
 | promo_id                 | INTEGER(11)   | This is id for promotion                                            |
 | promo_name               | VARACHAR(50)  | This is name for promotion                                          |
 | promo_category_id        | INTEGER(11)   | This is id for category of promo                                    |
@@ -34,3 +33,4 @@
 | ticket_state             | BOOLEAN       | This is state of ticket if is open or archived                      |
 | feedback_id              | INTEGER(11)   | This is id for feedback message                                     |
 | feedback_message_id      | INTEGER(11)   | This is id of message for feedback                                  |
+| template_id              | INTEGER(11)   | This is id for template of course                                   |
