@@ -87,10 +87,15 @@
 
 #### Matin :
 
-- RBAC (Bastien).
-- PgSQL (Bastien). 
 - Diagramme de classe (Bastien).
 - MCD.
+
+- Bastien :
+    - Finir le diagramme de class du bot ticketing.
+    - RBAC (Bastien).
+    - Se renseigner sur PgSQL + exo (Bastien). 
+- Benjamin : 
+    - Rework les diagrames suites aux changements qu'il a apporter hier.
 
 
 #### Apres-midi :
