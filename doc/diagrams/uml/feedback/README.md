@@ -35,4 +35,19 @@ Le diagramme de séquence représente les différentes activités d'une applicat
 
 La lecture de ce diagramme suffit à son compréhension en raison de son niveau de détail.
 
-# Diagramme de classes <a id='classes-diagram'>
+# Diagramme de classes <a id='classes-diagram'></a>
+
+Le diagramme de classe représente les différentes classes d'une application, ce diagramme doit être utilisé lors de la phase de développement afin de permettre aux développeurs de savoir la façon dont doit être développer l'application.<br>
+
+<img src='class-diagram.png'/>
+
+## Explication du diagramme
+
+- La classe **Guild** représente ici le serveur Discord sur lequel le **Bot** se trouve.
+- Une classe **User** (représentant un utilisateur) agrège la classe **Guild**.
+- Une classe **Staff** généralise (hérite) de la classe **User**.
+- Une classe **Learner** généralise (hérite) de la classe **User**.
+- La classe **Learner** est associée à une autre classe nommée **Feedback**.
+- Cette classe **Feedback** est associée à une autre classe nommée **FeedbackChannel**.
+- La classe **FeedbackChannel** généralise (hérite) de la classe **Channel**.
+- Cette classe **Channel** compose la classe **Guild**.
