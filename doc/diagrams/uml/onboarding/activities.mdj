@@ -23892,7 +23892,7 @@
 											"top": 911,
 											"width": 199.39892578125,
 											"height": 13,
-											"text": "Attribute associated course role"
+											"text": "Attribute associated class role"
 										},
 										{
 											"_type": "LabelView",
@@ -25160,7 +25160,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFp2I6La6+q94="
 							},
-							"name": "Attribute associated course role"
+							"name": "Attribute associated class role"
 						},
 						{
 							"_type": "UMLAction",
