@@ -19,7 +19,13 @@ le bot doit mettre à disposition de l'**Apprenant** un **encart** dédié à l'
 
 # Diagramme d'activités <a id='activities-diagram'></a>
 
+Le diagramme d'activités représente les différentes activités d'une application de façon générale et peu détaillée, il est conçu à partir du <a href='#usecase-diagram'>**diagramme de cas d'utilisation**</a>
 
+<img src='activity-diagram.png'/>
+
+## Explication du diagramme
+
+Ce présent diagramme indique qu'un **Apprenant** rejoint un canal dédié à l'envoi d'un **feedback** concernant la formation qu'il a suivi, l'apprenant reçoit alors un encart permettant de laisser son **feedback**, le **bot** l'enregistre alors et demande à **Discord** d'afficher un message notifiant à l'**Apprenant** que son feedback à bien été enregistré.
 
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
