@@ -8,7 +8,13 @@
 
 # Contexte <a id='context'></a>
 
+Le **Bot d'Onboarding** doit permettre de gérer de façon globale l'import d'un éco-système de Centre de Formation au sein d'un seul et unique serveur **Discord**, 
+dans cette optique, le **Bot** doit permettre d'accueillir de nouveaux membres internes ou externes au Centre de Formation.
 
+Il doit permettre de définir qu'un utilisateur est un **Apprenant** ou un **Membre des différentes équipes** du Centre de Formation de la façon la plus simple possible, pour permettre l'accueil des différentes promotions, le **Bot** doit mettre à disposition un espace dédié à une promotion.
+
+Aussi, le **Bot** doit permettre la création de nouvelles formations ainsi que la création de nouvelles promotions de façon la plus simple possible,
+il doit aussi permettre aux membres concernés de consulter ces différents espaces si nécessaire tout en conservant une navigation fluide au sein du serveur **Discord**
 
 # Diagramme de cas d'utilisation <a id='usecase-diagram'></a>
 
