@@ -17379,9 +17379,9 @@
 												"$ref": "AAAAAAGFoAisWSKPJ+Y="
 											},
 											"font": "Arial;13;0",
-											"left": 416.72998046875,
+											"left": 414.55908203125,
 											"top": 109,
-											"width": 86.25537109375,
+											"width": 77.1845703125,
 											"height": 13,
 											"text": "Class Creation"
 										},
@@ -17394,7 +17394,7 @@
 											"font": "Arial;13;1",
 											"left": 397,
 											"top": 109,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -21320,9 +21320,9 @@
 												"$ref": "AAAAAAGFoCuBNyd1+Zc="
 											},
 											"font": "Arial;13;0",
-											"left": 424.72998046875,
+											"left": 423.99365234375,
 											"top": 1469,
-											"width": 109.41162109375,
+											"width": 97.74462890625,
 											"height": 13,
 											"text": "Checking end date"
 										},
@@ -21335,7 +21335,7 @@
 											"font": "Arial;13;1",
 											"left": 405,
 											"top": 1469,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -21368,7 +21368,7 @@
 															"font": "Arial;13;0",
 															"left": 420,
 															"top": 1502,
-															"width": 170.548828125,
+															"width": 153.40380859375,
 															"height": 13,
 															"text": "[End date is before start date]"
 														}
@@ -22327,9 +22327,9 @@
 												"$ref": "AAAAAAGFoDM8uSi6peY="
 											},
 											"font": "Arial;13;0",
-											"left": 424.72998046875,
+											"left": 423.99365234375,
 											"top": 1853,
-											"width": 197.54248046875,
+											"width": 181.1337890625,
 											"height": 13,
 											"text": "Checking course name availability"
 										},
@@ -22342,7 +22342,7 @@
 											"font": "Arial;13;1",
 											"left": 405,
 											"top": 1853,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -22375,7 +22375,7 @@
 															"font": "Arial;13;0",
 															"left": 420,
 															"top": 1886,
-															"width": 193.62890625,
+															"width": 175.81103515625,
 															"height": 13,
 															"text": "[A course with same name exists]"
 														}
@@ -23560,9 +23560,9 @@
 												"$ref": "AAAAAAGFoEGgUCoSEZ0="
 											},
 											"font": "Arial;13;0",
-											"left": 424.72998046875,
+											"left": 423.99365234375,
 											"top": 2349,
-											"width": 123.09716796875,
+											"width": 110.763671875,
 											"height": 13,
 											"text": "Check if user.s exists"
 										},
@@ -23575,7 +23575,7 @@
 											"font": "Arial;13;1",
 											"left": 405,
 											"top": 2349,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -23608,7 +23608,7 @@
 															"font": "Arial;13;0",
 															"left": 420,
 															"top": 2382,
-															"width": 123.87451171875,
+															"width": 110.30322265625,
 															"height": 13,
 															"text": "[user.s doesn't exists]"
 														}
@@ -23641,7 +23641,7 @@
 															"font": "Arial;13;0",
 															"left": 420,
 															"top": 2464,
-															"width": 78.7490234375,
+															"width": 70.77001953125,
 															"height": 13,
 															"text": "[user.s exists]"
 														}
@@ -23932,9 +23932,9 @@
 												"$ref": "AAAAAAGFoEtfYCsj2SU="
 											},
 											"font": "Arial;13;0",
-											"left": 432.72998046875,
+											"left": 431.99365234375,
 											"top": 2501,
-											"width": 107.9326171875,
+											"width": 95.23095703125,
 											"height": 13,
 											"text": "Check user.s roles"
 										},
@@ -23947,7 +23947,7 @@
 											"font": "Arial;13;1",
 											"left": 413,
 											"top": 2501,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -23980,7 +23980,7 @@
 															"font": "Arial;13;0",
 															"left": 428,
 															"top": 2534,
-															"width": 141.6162109375,
+															"width": 127.435546875,
 															"height": 13,
 															"text": "[user.s are/isnt trainer.s ]"
 														}
@@ -29293,7 +29293,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 429.07177734375,
+											"left": 427.61181640625,
 											"top": 2973,
 											"width": 1,
 											"height": 13
@@ -29307,7 +29307,7 @@
 											"font": "Arial;13;1",
 											"left": 405,
 											"top": 2973,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -29393,9 +29393,9 @@
 												"$ref": "AAAAAAGFqkX+TMUkftA="
 											},
 											"font": "Arial;13;0",
-											"left": 432.72998046875,
+											"left": 431.99365234375,
 											"top": 3053,
-											"width": 128.89892578125,
+											"width": 114.35009765625,
 											"height": 13,
 											"text": "CAP manage learners"
 										},
@@ -29408,7 +29408,7 @@
 											"font": "Arial;13;1",
 											"left": 413,
 											"top": 3053,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -29441,7 +29441,7 @@
 															"font": "Arial;13;0",
 															"left": 428,
 															"top": 3086,
-															"width": 163.31884765625,
+															"width": 153.81640625,
 															"height": 13,
 															"text": "[CAP click on adding button]"
 														}
@@ -29474,7 +29474,7 @@
 															"font": "Arial;13;0",
 															"left": 428,
 															"top": 3720,
-															"width": 177.7470703125,
+															"width": 168.25732421875,
 															"height": 13,
 															"text": "[CAP click on removing button]"
 														}
@@ -29529,7 +29529,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 440.72998046875,
+											"left": 439.99365234375,
 											"top": 3173,
 											"width": 1,
 											"height": 13
@@ -29543,7 +29543,7 @@
 											"font": "Arial;13;1",
 											"left": 421,
 											"top": 3173,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -29576,7 +29576,7 @@
 															"font": "Arial;13;0",
 															"left": 436,
 															"top": 3206,
-															"width": 162.5634765625,
+															"width": 147.65283203125,
 															"height": 13,
 															"text": "[user is already in this class]"
 														}
@@ -29609,7 +29609,7 @@
 															"font": "Arial;13;0",
 															"left": 436,
 															"top": 3288,
-															"width": 137.998046875,
+															"width": 126.013671875,
 															"height": 13,
 															"text": "[user is not in this class]"
 														}
@@ -29664,7 +29664,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 448.72998046875,
+											"left": 447.99365234375,
 											"top": 3373,
 											"width": 1,
 											"height": 13
@@ -29678,7 +29678,7 @@
 											"font": "Arial;13;1",
 											"left": 429,
 											"top": 3373,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -29711,7 +29711,7 @@
 															"font": "Arial;13;0",
 															"left": 444,
 															"top": 3406,
-															"width": 122.83349609375,
+															"width": 112.24560546875,
 															"height": 13,
 															"text": "[Learner is on server]"
 														}
@@ -29766,7 +29766,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 456.72998046875,
+											"left": 455.99365234375,
 											"top": 3437,
 											"width": 1,
 											"height": 13
@@ -29780,7 +29780,7 @@
 											"font": "Arial;13;1",
 											"left": 437,
 											"top": 3437,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -29813,7 +29813,7 @@
 															"font": "Arial;13;0",
 															"left": 452,
 															"top": 3470,
-															"width": 177.02978515625,
+															"width": 158.79931640625,
 															"height": 13,
 															"text": "[learner has already class role]"
 														}
@@ -29883,7 +29883,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 440.72998046875,
+											"left": 439.99365234375,
 											"top": 3861,
 											"width": 1,
 											"height": 13
@@ -29897,7 +29897,7 @@
 											"font": "Arial;13;1",
 											"left": 421,
 											"top": 3861,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -29930,7 +29930,7 @@
 															"font": "Arial;13;0",
 															"left": 436,
 															"top": 3894,
-															"width": 144.8154296875,
+															"width": 133.02783203125,
 															"height": 13,
 															"text": "[learner isn't in this class]"
 														}
@@ -29963,7 +29963,7 @@
 															"font": "Arial;13;0",
 															"left": 436,
 															"top": 3960,
-															"width": 131.49169921875,
+															"width": 120.57373046875,
 															"height": 13,
 															"text": "[learner is in this class]"
 														}
@@ -30683,9 +30683,9 @@
 												"$ref": "AAAAAAGFqoH9/8mFgdA="
 											},
 											"font": "Arial;13;0",
-											"left": 699.578125,
+											"left": 698.11181640625,
 											"top": 4821,
-											"width": 257.51513671875,
+											"width": 226.2275390625,
 											"height": 13,
 											"text": "For each class learners connected on server"
 										},
@@ -30698,7 +30698,7 @@
 											"font": "Arial;13;1",
 											"left": 669,
 											"top": 4821,
-											"width": 25.578125,
+											"width": 24.11181640625,
 											"height": 13,
 											"text": "loop"
 										},
@@ -31564,9 +31564,9 @@
 												"$ref": "AAAAAAGFqonKJcqAc6o="
 											},
 											"font": "Arial;13;0",
-											"left": 699.578125,
+											"left": 698.11181640625,
 											"top": 4909,
-											"width": 272.69873046875,
+											"width": 241.0302734375,
 											"height": 13,
 											"text": "For each class learner not connected on server"
 										},
@@ -31579,7 +31579,7 @@
 											"font": "Arial;13;1",
 											"left": 669,
 											"top": 4909,
-											"width": 25.578125,
+											"width": 24.11181640625,
 											"height": 13,
 											"text": "loop"
 										},
@@ -32115,9 +32115,9 @@
 												"$ref": "AAAAAAGFqo9Fy8s5a+8="
 											},
 											"font": "Arial;13;0",
-											"left": 696.72998046875,
+											"left": 695.99365234375,
 											"top": 4981,
-											"width": 124.5380859375,
+											"width": 117.27001953125,
 											"height": 13,
 											"text": "SMTP Error Handling"
 										},
@@ -32130,7 +32130,7 @@
 											"font": "Arial;13;1",
 											"left": 677,
 											"top": 4981,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -32163,7 +32163,7 @@
 															"font": "Arial;13;0",
 															"left": 692,
 															"top": 5014,
-															"width": 133.25,
+															"width": 123.296875,
 															"height": 13,
 															"text": "[SMTP can't send mail]"
 														}
@@ -32196,7 +32196,7 @@
 															"font": "Arial;13;0",
 															"left": 692,
 															"top": 5088,
-															"width": 127.15625,
+															"width": 117.3427734375,
 															"height": 13,
 															"text": "[SMTP can send mail]"
 														}
@@ -35184,7 +35184,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGFoAisWSKMVU8="
 					},
-					"name": "Role6"
+					"name": "Role6",
+					"type": ""
 				}
 			]
 		},
@@ -41106,9 +41107,9 @@
 												"$ref": "AAAAAAGFoMYeETSV1NE="
 											},
 											"font": "Arial;13;0",
-											"left": 278.55908203125,
+											"left": 280.72998046875,
 											"top": 165,
-											"width": 84.02734375,
+											"width": 92.025390625,
 											"height": 13,
 											"text": "User join server"
 										},
@@ -41121,7 +41122,7 @@
 											"font": "Arial;13;1",
 											"left": 261,
 											"top": 165,
-											"width": 12.55908203125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -41130,7 +41131,7 @@
 									"left": 256,
 									"top": 160,
 									"width": 1833,
-									"height": 1249,
+									"height": 1201,
 									"nameLabel": {
 										"$ref": "AAAAAAGFoMYeETSWyVQ="
 									},
@@ -41239,14 +41240,14 @@
 											"left": 548,
 											"top": 80,
 											"width": 1,
-											"height": 1329
+											"height": 1281
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 512,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 1369,
+									"height": 1321,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoMbr6DSt3Pc="
 									},
@@ -41352,14 +41353,14 @@
 											"left": 908,
 											"top": 80,
 											"width": 1,
-											"height": 1329
+											"height": 1281
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 872,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 1369,
+									"height": 1321,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoMcPsjTPTTE="
 									},
@@ -41468,14 +41469,14 @@
 											"left": 1244,
 											"top": 80,
 											"width": 1,
-											"height": 1329
+											"height": 1281
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1208,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 1369,
+									"height": 1321,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoMctRTTv+6o="
 									},
@@ -41584,14 +41585,14 @@
 											"left": 1588,
 											"top": 80,
 											"width": 1,
-											"height": 1329
+											"height": 1281
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1552,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 1369,
+									"height": 1321,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoMc9qDUPNLc="
 									},
@@ -41700,14 +41701,14 @@
 											"left": 1943,
 											"top": 80,
 											"width": 1,
-											"height": 1329
+											"height": 1281
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1904,
 									"top": 40,
 									"width": 77.80810546875,
-									"height": 1369,
+									"height": 1321,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoMdnwzUw9MI="
 									},
@@ -42287,9 +42288,9 @@
 												"$ref": "AAAAAAGFoOEDeDXZyYM="
 											},
 											"font": "Arial;13;0",
-											"left": 303.99365234375,
+											"left": 288.72998046875,
 											"top": 397,
-											"width": 188.37646484375,
+											"width": 200.41796875,
 											"height": 13,
 											"text": "Check if invitation link is registered"
 										},
@@ -42300,9 +42301,9 @@
 												"$ref": "AAAAAAGFoOEDeDXZyYM="
 											},
 											"font": "Arial;13;1",
-											"left": 285,
+											"left": 269,
 											"top": 397,
-											"width": 13.99365234375,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "alt"
 										},
@@ -42333,17 +42334,17 @@
 																"$ref": "AAAAAAGFoOEDhDXooMQ="
 															},
 															"font": "Arial;13;0",
-															"left": 300,
+															"left": 284,
 															"top": 430,
-															"width": 159.2119140625,
+															"width": 167.63525390625,
 															"height": 13,
 															"text": "[Invitation link isnt registered]"
 														}
 													],
 													"font": "Arial;13;0",
-													"left": 280,
+													"left": 264,
 													"top": 415,
-													"width": 1745,
+													"width": 1817,
 													"height": 43,
 													"guardLabel": {
 														"$ref": "AAAAAAGFoOEDhDXpAEU="
@@ -42351,16 +42352,16 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 280,
+											"left": 264,
 											"top": 415,
-											"width": 1745,
+											"width": 1817,
 											"height": 43
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 280,
+									"left": 264,
 									"top": 392,
-									"width": 1745,
+									"width": 1817,
 									"height": 169,
 									"nameLabel": {
 										"$ref": "AAAAAAGFoOEDeDXaiLs="
@@ -43060,9 +43061,9 @@
 												"$ref": "AAAAAAGFoOyH3zbZNjo="
 											},
 											"font": "Arial;13;0",
-											"left": 311.99365234375,
+											"left": 288.72998046875,
 											"top": 669,
-											"width": 89.07373046875,
+											"width": 99.26806640625,
 											"height": 13,
 											"text": "Check role name"
 										},
@@ -43073,9 +43074,9 @@
 												"$ref": "AAAAAAGFoOyH3zbZNjo="
 											},
 											"font": "Arial;13;1",
-											"left": 293,
+											"left": 269,
 											"top": 669,
-											"width": 13.99365234375,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "alt"
 										},
@@ -43106,35 +43107,35 @@
 																"$ref": "AAAAAAGFoOyH7jboTro="
 															},
 															"font": "Arial;13;0",
-															"left": 308,
+															"left": 284,
 															"top": 702,
-															"width": 127.07373046875,
+															"width": 137.28076171875,
 															"height": 13,
 															"text": "[if role name isnt Guest]"
 														}
 													],
 													"font": "Arial;13;0",
-													"left": 288,
+													"left": 264,
 													"top": 687,
-													"width": 1737,
-													"height": 642,
+													"width": 1817,
+													"height": 586,
 													"guardLabel": {
 														"$ref": "AAAAAAGFoOyIMzbpPpQ="
 													}
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 288,
+											"left": 264,
 											"top": 687,
-											"width": 1737,
-											"height": 642
+											"width": 1817,
+											"height": 586
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 288,
+									"left": 264,
 									"top": 664,
-									"width": 1737,
-									"height": 689,
+									"width": 1817,
+									"height": 609,
 									"nameLabel": {
 										"$ref": "AAAAAAGFoOyH3zba3dw="
 									},
@@ -43940,7 +43941,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 523.61181640625,
+											"left": 525.07177734375,
 											"top": 1013,
 											"width": 1,
 											"height": 13
@@ -43954,7 +43955,7 @@
 											"font": "Arial;13;1",
 											"left": 501,
 											"top": 1013,
-											"width": 17.61181640625,
+											"width": 19.07177734375,
 											"height": 13,
 											"text": "opt"
 										},
@@ -44144,8 +44145,8 @@
 										"$ref": "AAAAAAGFoPr1wjgfkAY="
 									},
 									"font": "Arial;13;0",
-									"left": 544,
-									"top": 1368,
+									"left": 904,
+									"top": 1336,
 									"width": 15,
 									"height": 15
 								},
@@ -44236,7 +44237,7 @@
 											"left": 901,
 											"top": 1096,
 											"width": 14,
-											"height": 145
+											"height": 225
 										}
 									],
 									"font": "Arial;13;0",
@@ -44347,7 +44348,7 @@
 											"left": 1237,
 											"top": 1104,
 											"width": 14,
-											"height": 65
+											"height": 201
 										}
 									],
 									"font": "Arial;13;0",
@@ -44680,7 +44681,7 @@
 											"left": 541,
 											"top": 1218,
 											"width": 14,
-											"height": 29
+											"height": 39
 										}
 									],
 									"font": "Arial;13;0",
@@ -44706,113 +44707,113 @@
 								},
 								{
 									"_type": "UMLSeqMessageView",
-									"_id": "AAAAAAGFoP26yDhhi7A=",
+									"_id": "AAAAAAGFrFgCCtShUrk=",
 									"_parent": {
 										"$ref": "AAAAAAGFoMYeETSUaaE="
 									},
 									"model": {
-										"$ref": "AAAAAAGFoP26yDhg4/w="
+										"$ref": "AAAAAAGFrFgCCtSg8ck="
 									},
 									"subViews": [
 										{
 											"_type": "EdgeLabelView",
-											"_id": "AAAAAAGFoP26yDhiYdA=",
+											"_id": "AAAAAAGFrFgCCtSia8o=",
 											"_parent": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoP26yDhg4/w="
+												"$ref": "AAAAAAGFrFgCCtSg8ck="
 											},
 											"font": "Arial;13;0",
-											"left": 650,
-											"top": 1276,
-											"width": 161.14794921875,
+											"left": 990,
+											"top": 1292,
+											"width": 177.76611328125,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
 											"hostEdge": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"edgePosition": 1,
-											"text": "25 : Display public channels"
+											"text": "25 : Attribute guest role to user"
 										},
 										{
 											"_type": "EdgeLabelView",
-											"_id": "AAAAAAGFoP26yDhjO9U=",
+											"_id": "AAAAAAGFrFgCCtSjlsU=",
 											"_parent": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoP26yDhg4/w="
+												"$ref": "AAAAAAGFrFgCCtSg8ck="
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 730,
-											"top": 1291,
+											"left": 1078,
+											"top": 1307,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
 											"hostEdge": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"edgePosition": 1
 										},
 										{
 											"_type": "EdgeLabelView",
-											"_id": "AAAAAAGFoP26yDhkeyo=",
+											"_id": "AAAAAAGFrFgCCtSkfjk=",
 											"_parent": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoP26yDhg4/w="
+												"$ref": "AAAAAAGFrFgCCtSg8ck="
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 731,
-											"top": 1256,
+											"left": 1079,
+											"top": 1272,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
 											"hostEdge": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"edgePosition": 1
 										},
 										{
 											"_type": "UMLActivationView",
-											"_id": "AAAAAAGFoP26yDhleHA=",
+											"_id": "AAAAAAGFrFgCCtSlnLI=",
 											"_parent": {
-												"$ref": "AAAAAAGFoP26yDhhi7A="
+												"$ref": "AAAAAAGFrFgCCtShUrk="
 											},
 											"model": {
-												"$ref": "AAAAAAGFoP26yDhg4/w="
+												"$ref": "AAAAAAGFrFgCCtSg8ck="
 											},
 											"font": "Arial;13;0",
-											"left": 541,
-											"top": 1272,
+											"left": 908,
+											"top": 1288,
 											"width": 14,
 											"height": 29
 										}
 									],
 									"font": "Arial;13;0",
 									"head": {
-										"$ref": "AAAAAAGFoMbr6DSySh8="
-									},
-									"tail": {
 										"$ref": "AAAAAAGFoMcPsjTUCJ0="
 									},
-									"points": "908:1272;554:1272",
+									"tail": {
+										"$ref": "AAAAAAGFoMctRTT0dbw="
+									},
+									"points": "1237:1288;921:1288",
 									"nameLabel": {
-										"$ref": "AAAAAAGFoP26yDhiYdA="
+										"$ref": "AAAAAAGFrFgCCtSia8o="
 									},
 									"stereotypeLabel": {
-										"$ref": "AAAAAAGFoP26yDhjO9U="
+										"$ref": "AAAAAAGFrFgCCtSjlsU="
 									},
 									"propertyLabel": {
-										"$ref": "AAAAAAGFoP26yDhkeyo="
+										"$ref": "AAAAAAGFrFgCCtSkfjk="
 									},
 									"activation": {
-										"$ref": "AAAAAAGFoP26yDhleHA="
+										"$ref": "AAAAAAGFrFgCCtSlnLI="
 									}
 								}
 							]
@@ -45168,17 +45169,18 @@
 						},
 						{
 							"_type": "UMLMessage",
-							"_id": "AAAAAAGFoP26yDhg4/w=",
+							"_id": "AAAAAAGFrFgCCtSg8ck=",
 							"_parent": {
 								"$ref": "AAAAAAGFoMYeETSTutU="
 							},
-							"name": "Display public channels",
+							"name": "Attribute guest role to user",
 							"source": {
-								"$ref": "AAAAAAGFoMcPsjTNzZs="
+								"$ref": "AAAAAAGFoMctRTTtmaI="
 							},
 							"target": {
-								"$ref": "AAAAAAGFoMbr6DSrhcQ="
-							}
+								"$ref": "AAAAAAGFoMcPsjTNzZs="
+							},
+							"messageSort": "asynchCall"
 						}
 					],
 					"participants": [
@@ -45402,9 +45404,9 @@
 												"$ref": "AAAAAAGFoQQn+TiKLR4="
 											},
 											"font": "Arial;13;0",
-											"left": 894.55908203125,
+											"left": 896.72998046875,
 											"top": 109,
-											"width": 174.98291015625,
+											"width": 186.71337890625,
 											"height": 13,
 											"text": "Identification request verification"
 										},
@@ -45417,7 +45419,7 @@
 											"font": "Arial;13;1",
 											"left": 877,
 											"top": 109,
-											"width": 12.55908203125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -46134,9 +46136,9 @@
 												"$ref": "AAAAAAGFoRtSdzmSZfE="
 											},
 											"font": "Arial;13;0",
-											"left": 911.99365234375,
+											"left": 912.72998046875,
 											"top": 317,
-											"width": 214.0146484375,
+											"width": 235.85693359375,
 											"height": 13,
 											"text": "Submit response to identification request"
 										},
@@ -46149,7 +46151,7 @@
 											"font": "Arial;13;1",
 											"left": 893,
 											"top": 317,
-											"width": 13.99365234375,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "alt"
 										},
@@ -46182,7 +46184,7 @@
 															"font": "Arial;13;0",
 															"left": 908,
 															"top": 350,
-															"width": 86.25830078125,
+															"width": 93.93896484375,
 															"height": 13,
 															"text": "[Accept request]"
 														}
@@ -46215,7 +46217,7 @@
 															"font": "Arial;13;0",
 															"left": 908,
 															"top": 584,
-															"width": 82.65283203125,
+															"width": 91.04443359375,
 															"height": 13,
 															"text": "[Reject request]"
 														}
