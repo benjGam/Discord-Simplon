@@ -28511,7 +28511,7 @@
 												"$ref": "AAAAAAGFoFxB5C2ifa0="
 											},
 											"edgePosition": 1,
-											"text": "96 : Build course"
+											"text": "96 : Build class"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -28622,7 +28622,7 @@
 												"$ref": "AAAAAAGFp6/1jO6bcdQ="
 											},
 											"edgePosition": 1,
-											"text": "97 : Create dedicated course role named like the course"
+											"text": "97 : Create dedicated class role named like the course"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -28733,7 +28733,7 @@
 												"$ref": "AAAAAAGFp7JVZO7qsTc="
 											},
 											"edgePosition": 1,
-											"text": "98 : Bind dedicated course role to course"
+											"text": "98 : Bind dedicated class role to course"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -28844,7 +28844,7 @@
 												"$ref": "AAAAAAGFoFT+/yxKwh4="
 											},
 											"edgePosition": 1,
-											"text": "99 : Send course for saving"
+											"text": "99 : Send class for saving"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -28955,7 +28955,7 @@
 												"$ref": "AAAAAAGFoFWGmyxkMvM="
 											},
 											"edgePosition": 1,
-											"text": "100 : Request course saving"
+											"text": "100 : Request class saving"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -29066,7 +29066,7 @@
 												"$ref": "AAAAAAGFoFX8gix9Lrw="
 											},
 											"edgePosition": 1,
-											"text": "101 : Send course save response"
+											"text": "101 : Send class save response"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -29178,7 +29178,7 @@
 												"$ref": "AAAAAAGFoFZVWiyTbE4="
 											},
 											"edgePosition": 1,
-											"text": "102 : Course has been saved"
+											"text": "102 : Class has been saved"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -29270,8 +29270,8 @@
 										"$ref": "AAAAAAGFoYgJ8Ruagws="
 									},
 									"font": "Arial;13;0",
-									"left": 632,
-									"top": 4760,
+									"left": 624,
+									"top": 5048,
 									"width": 15,
 									"height": 15
 								},
@@ -30030,7 +30030,7 @@
 												"$ref": "AAAAAAGFoFhr7Czl3uQ="
 											},
 											"edgePosition": 1,
-											"text": "103 : Create course category"
+											"text": "103 : Create class category"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -30353,17 +30353,17 @@
 												"$ref": "AAAAAAGFp7U1Fu8JKeI="
 											},
 											"font": "Arial;13;0",
-											"left": 1404,
+											"left": 1408,
 											"top": 4587,
-											"width": 309.27685546875,
+											"width": 411.84228515625,
 											"height": 13,
-											"alpha": 1.5771243558105377,
-											"distance": 158.00316452527144,
+											"alpha": 1.575490127761982,
+											"distance": 213.00234740490538,
 											"hostEdge": {
 												"$ref": "AAAAAAGFp7U1Fu8Kz4Y="
 											},
 											"edgePosition": 1,
-											"text": "106 : Adapt course role perms to see course category"
+											"text": "106 : Adapt class category permissions to set visible class for class role"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -30474,7 +30474,7 @@
 												"$ref": "AAAAAAGFoFpQty1kprM="
 											},
 											"edgePosition": 1,
-											"text": "107 : Update course category"
+											"text": "107 : Update class category"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -30585,7 +30585,7 @@
 												"$ref": "AAAAAAGFoFr5cC1+ET0="
 											},
 											"edgePosition": 1,
-											"text": "108 : Add course role to trainers"
+											"text": "108 : Add class role to trainers"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -30686,8 +30686,8 @@
 												"$ref": "AAAAAAGFoF2noC3KNgU="
 											},
 											"font": "Arial;13;0",
-											"left": 677,
-											"top": 4716,
+											"left": 681,
+											"top": 5004,
 											"width": 274.57421875,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -30709,8 +30709,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 814,
-											"top": 4731,
+											"left": 818,
+											"top": 5019,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
@@ -30730,8 +30730,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 815,
-											"top": 4696,
+											"left": 819,
+											"top": 4984,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
@@ -30751,7 +30751,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 621,
-											"top": 4712,
+											"top": 5000,
 											"width": 14,
 											"height": 29
 										}
@@ -30763,7 +30763,7 @@
 									"tail": {
 										"$ref": "AAAAAAGFoAj4PyLF9kA="
 									},
-									"points": "997:4712;634:4712",
+									"points": "1004:5000;634:5000",
 									"nameLabel": {
 										"$ref": "AAAAAAGFoF2noC3MMyI="
 									},
@@ -32161,7 +32161,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Build course",
+							"name": "Build class",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32175,7 +32175,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Create dedicated course role named like the course",
+							"name": "Create dedicated class role named like the course",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32189,7 +32189,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Bind dedicated course role to course",
+							"name": "Bind dedicated class role to course",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32203,7 +32203,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Send course for saving",
+							"name": "Send class for saving",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32218,7 +32218,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Request course saving",
+							"name": "Request class saving",
 							"source": {
 								"$ref": "AAAAAAGFoAk44SL/S5Y="
 							},
@@ -32233,7 +32233,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Send course save response",
+							"name": "Send class save response",
 							"source": {
 								"$ref": "AAAAAAGFoAl45iMgrsg="
 							},
@@ -32248,7 +32248,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Course has been saved",
+							"name": "Class has been saved",
 							"source": {
 								"$ref": "AAAAAAGFoAk44SL/S5Y="
 							},
@@ -32263,7 +32263,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Create course category",
+							"name": "Create class category",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32307,7 +32307,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Adapt course role perms to see course category",
+							"name": "Adapt class category permissions to set visible class for class role",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32321,7 +32321,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Update course category",
+							"name": "Update class category",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -32336,7 +32336,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Add course role to trainers",
+							"name": "Add class role to trainers",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
