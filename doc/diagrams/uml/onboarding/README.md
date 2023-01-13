@@ -47,6 +47,15 @@ L'apprenant (représenté ici par **Learner**) peut lui aussi consulter son espa
 
 Le diagramme d'activités représente les différentes activités d'une application de façon générale et peu détaillée, il est conçu à partir du <a href='#usecase-diagram'>**diagramme de cas d'utilisation**</a>
 
+<img src='course-creation-activities.jpg'/>
+
+Ce présent diagramme décrit les activités possibles lors de la création d'une nouvelle formation : 
+
+Un **CAP** rejoint le canal dédié à la création d'une formation, **Discord** affiche donc un bouton afin de d'afficher au **CAP** une interface de création de formation.
+Le **CAP** clique sur le bouton et entre les différentes caractéristiques de la formation puis valide la demande de création d'une formation.
+Le **Bot** vérifie les informations entrées par le **CAP**, si une erreur est detectée, il le notifie au **CAP**, sinon il récupère les IDs des canaux globaux prévus pour servir de canaux de templates, puis il créer un template de formation.
+Enfin **Discord** va notifier le succès de la création de la formation au **CAP**
+
 <img src='class-creation-activities.jpg'/>
 
 Ce présent diagramme décrit les activités possibles lors de la création d'une nouvelles promotions :
