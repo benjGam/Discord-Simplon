@@ -63,9 +63,9 @@
 												"$ref": "AAAAAAGFkP4KzOZ6D/0="
 											},
 											"font": "Arial;13;0",
-											"left": 271.9599609375,
+											"left": 268.3291015625,
 											"top": 4781,
-											"width": 119.50439453125,
+											"width": 108.5546875,
 											"height": 13,
 											"text": "Creating learner role"
 										},
@@ -78,7 +78,7 @@
 											"font": "Arial;13;1",
 											"left": 245,
 											"top": 4781,
-											"width": 21.9599609375,
+											"width": 18.3291015625,
 											"height": 13,
 											"text": "seq"
 										},
@@ -164,9 +164,9 @@
 												"$ref": "AAAAAAGFjC4Hy2gifuY="
 											},
 											"font": "Arial;13;0",
-											"left": 279.9599609375,
+											"left": 276.3291015625,
 											"top": 13,
-											"width": 133.93896484375,
+											"width": 121.9609375,
 											"height": 13,
 											"text": "CAP - Creating Course"
 										},
@@ -179,7 +179,7 @@
 											"font": "Arial;13;1",
 											"left": 253,
 											"top": 13,
-											"width": 21.9599609375,
+											"width": 18.3291015625,
 											"height": 13,
 											"text": "seq"
 										},
@@ -1416,7 +1416,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1184.72998046875,
+											"left": 1183.99365234375,
 											"top": 405,
 											"width": 1,
 											"height": 13
@@ -1430,7 +1430,7 @@
 											"font": "Arial;13;1",
 											"left": 1165,
 											"top": 405,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -1463,7 +1463,7 @@
 															"font": "Arial;13;0",
 															"left": 1180,
 															"top": 438,
-															"width": 179.92431640625,
+															"width": 161.712890625,
 															"height": 13,
 															"text": "[Course name is already taken]"
 														}
@@ -2534,7 +2534,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1189.07177734375,
+											"left": 1187.61181640625,
 											"top": 717,
 											"width": 1,
 											"height": 13
@@ -2548,7 +2548,7 @@
 											"font": "Arial;13;1",
 											"left": 1165,
 											"top": 717,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -2581,7 +2581,7 @@
 															"font": "Arial;13;0",
 															"left": 1180,
 															"top": 750,
-															"width": 158.9453125,
+															"width": 146.20556640625,
 															"height": 13,
 															"text": "[Assign trainer(s) to course]"
 														}
@@ -2748,7 +2748,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1192.72998046875,
+											"left": 1191.99365234375,
 											"top": 917,
 											"width": 1,
 											"height": 13
@@ -2762,7 +2762,7 @@
 											"font": "Arial;13;1",
 											"left": 1173,
 											"top": 917,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -2795,7 +2795,7 @@
 															"font": "Arial;13;0",
 															"left": 1188,
 															"top": 950,
-															"width": 154.85107421875,
+															"width": 143.56494140625,
 															"height": 13,
 															"text": "[Trainer(s) are not existing]"
 														}
@@ -4427,9 +4427,9 @@
 												"$ref": "AAAAAAGFjC0eHWgA60w="
 											},
 											"font": "Arial;13;0",
-											"left": 271.9599609375,
+											"left": 268.3291015625,
 											"top": 2757,
-											"width": 149.8525390625,
+											"width": 139.27099609375,
 											"height": 13,
 											"text": "Moderator - Configure bot"
 										},
@@ -4442,7 +4442,7 @@
 											"font": "Arial;13;1",
 											"left": 245,
 											"top": 2757,
-											"width": 21.9599609375,
+											"width": 18.3291015625,
 											"height": 13,
 											"text": "seq"
 										},
@@ -5978,7 +5978,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 821.07177734375,
+											"left": 819.61181640625,
 											"top": 3197,
 											"width": 1,
 											"height": 13
@@ -5992,7 +5992,7 @@
 											"font": "Arial;13;1",
 											"left": 797,
 											"top": 3197,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -6025,7 +6025,7 @@
 															"font": "Arial;13;0",
 															"left": 812,
 															"top": 3230,
-															"width": 153.18798828125,
+															"width": 144.7646484375,
 															"height": 13,
 															"text": "[Moderator click on button]"
 														}
@@ -6749,7 +6749,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1853.07177734375,
+											"left": 1851.61181640625,
 											"top": 3429,
 											"width": 1,
 											"height": 13
@@ -6763,7 +6763,7 @@
 											"font": "Arial;13;1",
 											"left": 1829,
 											"top": 3429,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -6796,7 +6796,7 @@
 															"font": "Arial;13;0",
 															"left": 1844,
 															"top": 3462,
-															"width": 153.91796875,
+															"width": 142.23828125,
 															"height": 13,
 															"text": "[chans visibilities changed]"
 														}
@@ -6851,7 +6851,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 813.07177734375,
+											"left": 811.61181640625,
 											"top": 3725,
 											"width": 1,
 											"height": 13
@@ -6865,7 +6865,7 @@
 											"font": "Arial;13;1",
 											"left": 789,
 											"top": 3725,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -7619,7 +7619,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 813.07177734375,
+											"left": 811.61181640625,
 											"top": 4061,
 											"width": 1,
 											"height": 13
@@ -7633,7 +7633,7 @@
 											"font": "Arial;13;1",
 											"left": 789,
 											"top": 4061,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -7666,7 +7666,7 @@
 															"font": "Arial;13;0",
 															"left": 804,
 															"top": 4094,
-															"width": 135.154296875,
+															"width": 125.251953125,
 															"height": 13,
 															"text": "[configuration changed]"
 														}
@@ -8403,9 +8403,9 @@
 												"$ref": "AAAAAAGFkOLy1+Vo8r0="
 											},
 											"font": "Arial;13;0",
-											"left": 271.9599609375,
+											"left": 268.3291015625,
 											"top": 4421,
-											"width": 119.49169921875,
+											"width": 111.474609375,
 											"height": 13,
 											"text": "New member joining"
 										},
@@ -8418,7 +8418,7 @@
 											"font": "Arial;13;1",
 											"left": 245,
 											"top": 4421,
-											"width": 21.9599609375,
+											"width": 18.3291015625,
 											"height": 13,
 											"text": "seq"
 										},
@@ -9969,7 +9969,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1184.72998046875,
+											"left": 1183.99365234375,
 											"top": 5189,
 											"width": 1,
 											"height": 13
@@ -9983,7 +9983,7 @@
 											"font": "Arial;13;1",
 											"left": 1165,
 											"top": 5189,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -10016,7 +10016,7 @@
 															"font": "Arial;13;0",
 															"left": 1180,
 															"top": 5222,
-															"width": 147.41796875,
+															"width": 135.357421875,
 															"height": 13,
 															"text": "[role name is unavailable]"
 														}
@@ -16786,7 +16786,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Course Creation",
+							"name": "Class Creation",
 							"ownedViews": [
 								{
 									"_type": "UMLSeqLifelineView",
@@ -16886,14 +16886,14 @@
 											"left": 628,
 											"top": 80,
 											"width": 1,
-											"height": 3225
+											"height": 4145
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 592,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 3265,
+									"height": 4185,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoAjb1iKghj4="
 									},
@@ -17002,14 +17002,14 @@
 											"left": 1004,
 											"top": 80,
 											"width": 1,
-											"height": 3225
+											"height": 4145
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 968,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 3265,
+									"height": 4185,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoAj4PyLA3U4="
 									},
@@ -17118,14 +17118,14 @@
 											"left": 1364,
 											"top": 80,
 											"width": 1,
-											"height": 3225
+											"height": 4145
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1328,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 3265,
+									"height": 4185,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoAkiMiLhPHw="
 									},
@@ -17231,14 +17231,14 @@
 											"left": 1740,
 											"top": 80,
 											"width": 1,
-											"height": 3225
+											"height": 4145
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1704,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 3265,
+									"height": 4185,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoAk44SMB1EQ="
 									},
@@ -17347,14 +17347,14 @@
 											"left": 2119,
 											"top": 80,
 											"width": 1,
-											"height": 3225
+											"height": 4145
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 2080,
 									"top": 40,
 									"width": 77.80810546875,
-									"height": 3265,
+									"height": 4185,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFoAl45iMijps="
 									},
@@ -17381,9 +17381,9 @@
 											"font": "Arial;13;0",
 											"left": 408.72998046875,
 											"top": 117,
-											"width": 95.65625,
+											"width": 86.25537109375,
 											"height": 13,
-											"text": "Course Creation"
+											"text": "Class Creation"
 										},
 										{
 											"_type": "LabelView",
@@ -17403,7 +17403,7 @@
 									"left": 384,
 									"top": 112,
 									"width": 1913,
-									"height": 3193,
+									"height": 4113,
 									"nameLabel": {
 										"$ref": "AAAAAAGFoAisWSKQDsA="
 									},
@@ -17552,7 +17552,7 @@
 												"$ref": "AAAAAAGFoA50yCOInFY="
 											},
 											"edgePosition": 1,
-											"text": "2 : Display button to start displaying course creation form"
+											"text": "2 : Display button to start displaying class creation form"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -18544,16 +18544,16 @@
 											},
 											"font": "Arial;13;0",
 											"left": 678,
-											"top": 548,
+											"top": 544,
 											"width": 273.85693359375,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": 1.4056492710023296,
+											"distance": 6.082762530298219,
 											"hostEdge": {
 												"$ref": "AAAAAAGFoBofRySh+oQ="
 											},
 											"edgePosition": 1,
-											"text": "11 : Display embed to select day of course start"
+											"text": "11 : Display embed to select day of class start"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -18664,7 +18664,7 @@
 												"$ref": "AAAAAAGFoBrxIyS4Zyk="
 											},
 											"edgePosition": 1,
-											"text": "12 : Select course start day"
+											"text": "12 : Select class start day"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -18998,7 +18998,7 @@
 												"$ref": "AAAAAAGFoBzsECT/3/w="
 											},
 											"edgePosition": 1,
-											"text": "15 : Display embed to select month of course start"
+											"text": "15 : Display embed to select month of class start"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -19099,17 +19099,17 @@
 												"$ref": "AAAAAAGFoB1bviUVMdg="
 											},
 											"font": "Arial;13;0",
-											"left": 729,
-											"top": 713,
+											"left": 728,
+											"top": 711,
 											"width": 172.6943359375,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": -4.6217299948233626,
+											"distance": 11.045361017187261,
 											"hostEdge": {
 												"$ref": "AAAAAAGFoB1bviUW2xg="
 											},
 											"edgePosition": 1,
-											"text": "16 : Select course start month"
+											"text": "16 : Select class start month"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -19443,7 +19443,7 @@
 												"$ref": "AAAAAAGFoB6BvCWaTu4="
 											},
 											"edgePosition": 1,
-											"text": "19 : Display embed to select year of course start"
+											"text": "19 : Display embed to select year of class start"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -19554,7 +19554,7 @@
 												"$ref": "AAAAAAGFoB7DXiWx6ZE="
 											},
 											"edgePosition": 1,
-											"text": "20 : Select course start year"
+											"text": "20 : Select class start year"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -19887,7 +19887,7 @@
 												"$ref": "AAAAAAGFoCKCVCYhwck="
 											},
 											"edgePosition": 1,
-											"text": "23 : Set course start date"
+											"text": "23 : Set class start date"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -20110,7 +20110,7 @@
 												"$ref": "AAAAAAGFoCQOBCZRTqc="
 											},
 											"edgePosition": 1,
-											"text": "25 : Display embed to select day of course end"
+											"text": "25 : Display embed to select day of class end"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -20221,7 +20221,7 @@
 												"$ref": "AAAAAAGFoCVZXiZo7pM="
 											},
 											"edgePosition": 1,
-											"text": "26 : Select course end day"
+											"text": "26 : Select class end day"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -20555,7 +20555,7 @@
 												"$ref": "AAAAAAGFoCdefiavVzM="
 											},
 											"edgePosition": 1,
-											"text": "29 : Display embed to select month of course end"
+											"text": "29 : Display embed to select month of class end"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -20666,7 +20666,7 @@
 												"$ref": "AAAAAAGFoCfSuybGILI="
 											},
 											"edgePosition": 1,
-											"text": "30 : Select course end month"
+											"text": "30 : Select class end month"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -21000,7 +21000,7 @@
 												"$ref": "AAAAAAGFoCnrVScT+BU="
 											},
 											"edgePosition": 1,
-											"text": "33 : Display embed to select year of course end"
+											"text": "33 : Display embed to select year of class end"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -21111,7 +21111,7 @@
 												"$ref": "AAAAAAGFoCo4lCcqybU="
 											},
 											"edgePosition": 1,
-											"text": "34 : Select course end year"
+											"text": "34 : Select class end year"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -21896,7 +21896,7 @@
 												"$ref": "AAAAAAGFoC6gwCg8cp0="
 											},
 											"edgePosition": 1,
-											"text": "40 : Display message to get course name"
+											"text": "40 : Display message to get class name"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22007,7 +22007,7 @@
 												"$ref": "AAAAAAGFoDB7pChVF+w="
 											},
 											"edgePosition": 1,
-											"text": "41 : Send course name as message"
+											"text": "41 : Send class name as message"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22118,7 +22118,7 @@
 												"$ref": "AAAAAAGFoDEHAyhrH+U="
 											},
 											"edgePosition": 1,
-											"text": "42 : Send course name"
+											"text": "42 : Send class name"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22229,7 +22229,7 @@
 												"$ref": "AAAAAAGFoDHofiiDADY="
 											},
 											"edgePosition": 1,
-											"text": "43 : Check course name availability"
+											"text": "43 : Check class name availability"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22442,7 +22442,7 @@
 												"$ref": "AAAAAAGFoDJCBiiaHEU="
 											},
 											"edgePosition": 1,
-											"text": "44 : Search for course name matching"
+											"text": "44 : Search for class name matching"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22553,7 +22553,7 @@
 												"$ref": "AAAAAAGFoDVY6CjfUSw="
 											},
 											"edgePosition": 1,
-											"text": "45 : A course has found with this name"
+											"text": "45 : A class has found with this name"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22777,7 +22777,7 @@
 												"$ref": "AAAAAAGFoDY4dykNgq4="
 											},
 											"edgePosition": 1,
-											"text": "47 : Send course name unavailability notification"
+											"text": "47 : Send class name unavailability notification"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -22894,17 +22894,17 @@
 												"$ref": "AAAAAAGFoDdbHiko5e8="
 											},
 											"font": "Arial;13;0",
-											"left": 649,
+											"left": 647,
 											"top": 2023,
 											"width": 330.22412109375,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": 1.2793404497484746,
+											"distance": 10.44030650891055,
 											"hostEdge": {
 												"$ref": "AAAAAAGFoDdbHikpWQY="
 											},
 											"edgePosition": 1,
-											"text": "48 : Display message to notify course name unavailability"
+											"text": "48 : Display message to notify class name unavailability"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -23015,7 +23015,7 @@
 												"$ref": "AAAAAAGFoDiVFilMpkc="
 											},
 											"edgePosition": 1,
-											"text": "49 : No course found for this name"
+											"text": "49 : No class found for this name"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -26515,7 +26515,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display button to start displaying course creation form",
+							"name": "Display button to start displaying class creation form",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26645,7 +26645,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display embed to select day of course start",
+							"name": "Display embed to select day of class start",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26659,7 +26659,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Select course start day",
+							"name": "Select class start day",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -26703,7 +26703,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display embed to select month of course start",
+							"name": "Display embed to select month of class start",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26717,7 +26717,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Select course start month",
+							"name": "Select class start month",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -26761,7 +26761,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display embed to select year of course start",
+							"name": "Display embed to select year of class start",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26775,7 +26775,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Select course start year",
+							"name": "Select class start year",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -26818,7 +26818,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Set course start date",
+							"name": "Set class start date",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -26847,7 +26847,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display embed to select day of course end",
+							"name": "Display embed to select day of class end",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26861,7 +26861,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Select course end day",
+							"name": "Select class end day",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -26905,7 +26905,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display embed to select month of course end",
+							"name": "Display embed to select month of class end",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26919,7 +26919,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Select course end month",
+							"name": "Select class end month",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -26963,7 +26963,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display embed to select year of course end",
+							"name": "Display embed to select year of class end",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -26977,7 +26977,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Select course end year",
+							"name": "Select class end year",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -27064,7 +27064,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display message to get course name",
+							"name": "Display message to get class name",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -27078,7 +27078,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Send course name as message",
+							"name": "Send class name as message",
 							"source": {
 								"$ref": "AAAAAAGFoAjb1SKeG6U="
 							},
@@ -27092,7 +27092,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Send course name",
+							"name": "Send class name",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -27107,7 +27107,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Check course name availability",
+							"name": "Check class name availability",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -27122,7 +27122,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Search for course name matching",
+							"name": "Search for class name matching",
 							"source": {
 								"$ref": "AAAAAAGFoAk44SL/S5Y="
 							},
@@ -27137,7 +27137,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "A course has found with this name",
+							"name": "A class has found with this name",
 							"source": {
 								"$ref": "AAAAAAGFoAl45iMgrsg="
 							},
@@ -27167,7 +27167,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Send course name unavailability notification",
+							"name": "Send class name unavailability notification",
 							"source": {
 								"$ref": "AAAAAAGFoAkiMiLfb0I="
 							},
@@ -27182,7 +27182,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "Display message to notify course name unavailability",
+							"name": "Display message to notify class name unavailability",
 							"source": {
 								"$ref": "AAAAAAGFoAj4PyK+u98="
 							},
@@ -27196,7 +27196,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoAisWSKNZ4w="
 							},
-							"name": "No course found for this name",
+							"name": "No class found for this name",
 							"source": {
 								"$ref": "AAAAAAGFoAl45iMgrsg="
 							},
@@ -27897,9 +27897,9 @@
 												"$ref": "AAAAAAGFoH0AVC43QDQ="
 											},
 											"font": "Arial;13;0",
-											"left": 296.72998046875,
+											"left": 294.55908203125,
 											"top": 157,
-											"width": 120.95166015625,
+											"width": 108.57373046875,
 											"height": 13,
 											"text": "Creating course type"
 										},
@@ -27912,7 +27912,7 @@
 											"font": "Arial;13;1",
 											"left": 277,
 											"top": 157,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -29634,9 +29634,9 @@
 												"$ref": "AAAAAAGFoJh4yS/69bE="
 											},
 											"font": "Arial;13;0",
-											"left": 304.72998046875,
+											"left": 303.99365234375,
 											"top": 493,
-											"width": 208.3525390625,
+											"width": 189.44921875,
 											"height": 13,
 											"text": "Check if role with same name exists"
 										},
@@ -29649,7 +29649,7 @@
 											"font": "Arial;13;1",
 											"left": 285,
 											"top": 493,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -29682,7 +29682,7 @@
 															"font": "Arial;13;0",
 															"left": 300,
 															"top": 526,
-															"width": 164.00439453125,
+															"width": 149.45556640625,
 															"height": 13,
 															"text": "[role with same name exists]"
 														}
@@ -30645,9 +30645,9 @@
 												"$ref": "AAAAAAGFoKxD8zG3OtQ="
 											},
 											"font": "Arial;13;0",
-											"left": 309.07177734375,
+											"left": 307.61181640625,
 											"top": 757,
-											"width": 141.892578125,
+											"width": 132.4345703125,
 											"height": 13,
 											"text": "Chans visibility selection"
 										},
@@ -30660,7 +30660,7 @@
 											"font": "Arial;13;1",
 											"left": 285,
 											"top": 757,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -30746,9 +30746,9 @@
 												"$ref": "AAAAAAGFoK3U+DHcGH0="
 											},
 											"font": "Arial;13;0",
-											"left": 320.72998046875,
+											"left": 319.99365234375,
 											"top": 805,
-											"width": 118.04443359375,
+											"width": 111.48095703125,
 											"height": 13,
 											"text": "Check chan visibility"
 										},
@@ -30761,7 +30761,7 @@
 											"font": "Arial;13;1",
 											"left": 301,
 											"top": 805,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -30794,7 +30794,7 @@
 															"font": "Arial;13;0",
 															"left": 316,
 															"top": 838,
-															"width": 158.9580078125,
+															"width": 146.57373046875,
 															"height": 13,
 															"text": "[Chan is visible by learners]"
 														}
@@ -30827,7 +30827,7 @@
 															"font": "Arial;13;0",
 															"left": 316,
 															"top": 1016,
-															"width": 169.7998046875,
+															"width": 156.685546875,
 															"height": 13,
 															"text": "[Chan isnt visible by learners]"
 														}
@@ -33774,9 +33774,9 @@
 												"$ref": "AAAAAAGFoMYeETSV1NE="
 											},
 											"font": "Arial;13;0",
-											"left": 280.72998046875,
+											"left": 278.55908203125,
 											"top": 165,
-											"width": 92.025390625,
+											"width": 84.02734375,
 											"height": 13,
 											"text": "User join server"
 										},
@@ -33789,7 +33789,7 @@
 											"font": "Arial;13;1",
 											"left": 261,
 											"top": 165,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -34955,9 +34955,9 @@
 												"$ref": "AAAAAAGFoOEDeDXZyYM="
 											},
 											"font": "Arial;13;0",
-											"left": 304.72998046875,
+											"left": 303.99365234375,
 											"top": 397,
-											"width": 200.41796875,
+											"width": 188.37646484375,
 											"height": 13,
 											"text": "Check if invitation link is registered"
 										},
@@ -34970,7 +34970,7 @@
 											"font": "Arial;13;1",
 											"left": 285,
 											"top": 397,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -35003,7 +35003,7 @@
 															"font": "Arial;13;0",
 															"left": 300,
 															"top": 430,
-															"width": 167.63525390625,
+															"width": 159.2119140625,
 															"height": 13,
 															"text": "[Invitation link isnt registered]"
 														}
@@ -35728,9 +35728,9 @@
 												"$ref": "AAAAAAGFoOyH3zbZNjo="
 											},
 											"font": "Arial;13;0",
-											"left": 312.72998046875,
+											"left": 311.99365234375,
 											"top": 669,
-											"width": 99.26806640625,
+											"width": 89.07373046875,
 											"height": 13,
 											"text": "Check role name"
 										},
@@ -35743,7 +35743,7 @@
 											"font": "Arial;13;1",
 											"left": 293,
 											"top": 669,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -35776,7 +35776,7 @@
 															"font": "Arial;13;0",
 															"left": 308,
 															"top": 702,
-															"width": 137.28076171875,
+															"width": 127.07373046875,
 															"height": 13,
 															"text": "[if role name isnt Guest]"
 														}
@@ -36608,7 +36608,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 525.07177734375,
+											"left": 523.61181640625,
 											"top": 1013,
 											"width": 1,
 											"height": 13
@@ -36622,7 +36622,7 @@
 											"font": "Arial;13;1",
 											"left": 501,
 											"top": 1013,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -38070,9 +38070,9 @@
 												"$ref": "AAAAAAGFoQQn+TiKLR4="
 											},
 											"font": "Arial;13;0",
-											"left": 896.72998046875,
+											"left": 894.55908203125,
 											"top": 109,
-											"width": 186.71337890625,
+											"width": 174.98291015625,
 											"height": 13,
 											"text": "Identification request verification"
 										},
@@ -38085,7 +38085,7 @@
 											"font": "Arial;13;1",
 											"left": 877,
 											"top": 109,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -38802,9 +38802,9 @@
 												"$ref": "AAAAAAGFoRtSdzmSZfE="
 											},
 											"font": "Arial;13;0",
-											"left": 912.72998046875,
+											"left": 911.99365234375,
 											"top": 317,
-											"width": 235.85693359375,
+											"width": 214.0146484375,
 											"height": 13,
 											"text": "Submit response to identification request"
 										},
@@ -38817,7 +38817,7 @@
 											"font": "Arial;13;1",
 											"left": 893,
 											"top": 317,
-											"width": 14.72998046875,
+											"width": 13.99365234375,
 											"height": 13,
 											"text": "alt"
 										},
@@ -38850,7 +38850,7 @@
 															"font": "Arial;13;0",
 															"left": 908,
 															"top": 350,
-															"width": 93.93896484375,
+															"width": 86.25830078125,
 															"height": 13,
 															"text": "[Accept request]"
 														}
@@ -38883,7 +38883,7 @@
 															"font": "Arial;13;0",
 															"left": 908,
 															"top": 584,
-															"width": 91.04443359375,
+															"width": 82.65283203125,
 															"height": 13,
 															"text": "[Reject request]"
 														}
@@ -40529,9 +40529,9 @@
 												"$ref": "AAAAAAGFoTrzORrHK9U="
 											},
 											"font": "Arial;13;0",
-											"left": 904.72998046875,
+											"left": 902.55908203125,
 											"top": 157,
-											"width": 163.5888671875,
+											"width": 146.49462890625,
 											"height": 13,
 											"text": "Select course to show / hide"
 										},
@@ -40544,7 +40544,7 @@
 											"font": "Arial;13;1",
 											"left": 885,
 											"top": 157,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
