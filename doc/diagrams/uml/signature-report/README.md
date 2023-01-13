@@ -1,3 +1,5 @@
+# Sommaire
+
 # Bot de gestion des signatures
 
 This document is about to explain the different diagrams you can find in this repository about our Signature Discord Bot. 
