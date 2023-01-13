@@ -29,6 +29,10 @@ Ce présent diagramme indique qu'un **Apprenant** rejoint un canal dédié à l'
 
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
+Le diagramme de séquence représente les différentes activités d'une application de façon très détaillée, il est conçu à partir du <a href='#activities-diagram'>**diagramme d'activités**</a>
 
+<img src='sequence-diagram.png'/>
+
+La lecture de ce diagramme suffit à son compréhension en raison de son niveau de détail.
 
 # Diagramme de classes <a id='classes-diagram'>
