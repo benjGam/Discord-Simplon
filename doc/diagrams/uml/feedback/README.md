@@ -1,9 +1,14 @@
 # Sommaire
 
+- <a href='#context'>Contexte</a>
 - <a href='#usecase-diagram'>Diagramme de cas d'utilisation</a>
 - <a href='#activities-diagram'>Diagramme d'activités</a>
 - <a href='#sequences-diagram'>Diagramme de séquences</a>
 - <a href='#classes-diagram'>Diagramme de classes</a>
+
+# Contexte
+
+Le **Bot de Feedback** doit permettre aux **apprenants** ainsi qu'aux **alumnis** de faire des retours quant à une formation qu'ils ont suivis auprès de Simplon, cela se caractérise par la mise en place d'un canal dédié régie par le **Bot**.
 
 # Diagramme de cas d'utilisation <a id='usecase-diagram'></a>
 
