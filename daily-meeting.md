@@ -31,7 +31,7 @@
 
 #### Matin :
 
-- Finir merise et UML.
+- Finir merise.
 - RBAC.
 - PgSQL.
 
@@ -40,10 +40,10 @@
 - Bastien: 
     - Se renseigner sur SQL et PG.
     - Écriture mail de suivi.
+    - Envoie du mail de suivis
     - Bot ticketing :
         - Fait la config du diagramme de sequence
         - Fait la config du diagramme d'activite
-        - Vérifier et update le diagramme de sequence
         - Vérification et modification du mail de suivis.
         - Refait le diagramme d'activité.
         - Refait le diagramme de séquece.
@@ -71,6 +71,32 @@
     - Bot Signature:
         - Ajout des fichiers.
         - Fichier explicatif.
+
+#### Apres-midi :
+
+- Mettre en place docker.
+- Mettre en place la base de donées.
+- Mettre en place l'architecture des bots.
+- Mettre en place Multi repositories.
+
+
+## Daily du 13-01-23
+
+
+##### Travail Réaliser le matin :
+
+#### Matin :
+
+- Diagramme de classe (Bastien).
+- MCD.
+
+- Bastien :
+    - Finir le diagramme de class du bot ticketing.
+    - RBAC (Bastien).
+    - Se renseigner sur PgSQL + exo (Bastien). 
+- Benjamin : 
+    - Rework les diagrames suites aux changements qu'il a apporter hier.
+
 
 #### Apres-midi :
 
