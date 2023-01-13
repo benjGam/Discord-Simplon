@@ -69,6 +69,16 @@ Alors **Discord** applique le template de formation à la catégorie de la promo
 Ensuite le **Bot** va lié le rôle de promotion à chaque apprenant.
 Enfin **Discord** va notifier le succès de la création de la promotion au **CAP**
 
+<img src='user-join-activities.jpg'>
+
+Ce présent diagramme décrit les activités possibles lorsce qu'un **nouvel utilisateur** rejoint le serveur **Discord**
+
+Le **Nouvel utilisateur** clique sur le lien d'invitation
+**Discord** récupère une demande d'entrer sur le serveur, il met alors à jour sa liste de membres.
+Le **Bot** vérifie alors le lien d'invitation afin de determiner si le lien à un rôle associé ou non, si le lien n'a pas de rôle associé alors il attribue le rôle **Invité**
+sinon, **Discord** affiche un formulaire sous forme de Pop-up afin de permettre au **Nouvel utilisateur** de s'identifier, à l'issue du remplissage de ce formulaire d'identification, le **Bot** envoi un message dans le canal dédié aux vérifications d'identités puis **Discord** affiche le message et envoi un message afin de notifier la prise en compte de sa demande d'identification au **Nouvel utilisateur**.
+Enfin **Discord** attribue le rôle **Invité** au **Nouvel utilisateur** le temps que la demande d'identification de ce dernier soit acceptée.
+
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
 Le diagramme de séquence représente les différentes activités d'une application de façon très détaillée, il est conçu à partir du <a href='#activities-diagram'>**diagramme d'activités**</a>
