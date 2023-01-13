@@ -47,7 +47,18 @@ L'apprenant (représenté ici par **Learner**) peut lui aussi consulter son espa
 
 Le diagramme d'activités représente les différentes activités d'une application de façon générale et peu détaillée, il est conçu à partir du <a href='#usecase-diagram'>**diagramme de cas d'utilisation**</a>
 
-<img src='activities.jpg'/>
+<img src='class-creation-activities.jpg'/>
+
+Ce présent diagramme décrit les activités possibles lors de la création d'une nouvelles promotions :
+
+Un **CAP** rejoint le canal dédié à la création d'une promotion, **Discord** affiche donc un bouton afin de donner au **CAP** une interface de création de promotion.
+Le **CAP** clique sur le bouton et entre les différentes caractéristiques de la promotion puis valide la demande de création de promotion.
+Le **Bot** vérifie les informations entrées par le **CAP**, si une erreur est detectée, il le notifie au **CAP¨**, sinon le **Bot** récupère le template du type de formation,
+puis il créer un rôle de promotion ainsi qu'une catégorie (un espace) dédié à la promotion à laquelle il lie un lien d'invitation.
+Il attribue le rôle de promotion au **CAP** qui a crée la promotion.
+Alors **Discord** applique le template de formation à la catégorie de la promotion et lie le rôle de promotion à la catégorie.
+Ensuite le **Bot** va lié le rôle de promotion à chaque apprenant.
+Enfin **Discord** va notifier le succès de la création de la promotion au **CAP**
 
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
