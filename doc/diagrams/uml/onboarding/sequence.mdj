@@ -47401,9 +47401,9 @@
 												"$ref": "AAAAAAGFoSuXeDt52zc="
 											},
 											"font": "Arial;13;0",
-											"left": 1712,
+											"left": 1695,
 											"top": 703,
-											"width": 255.810546875,
+											"width": 288.34228515625,
 											"height": 13,
 											"alpha": 3.0730726413794187,
 											"distance": 204.47982785595258,
@@ -47411,7 +47411,7 @@
 												"$ref": "AAAAAAGFoSuXeDt6a+Y="
 											},
 											"edgePosition": 1,
-											"text": "13 : Notify identification request has rejected"
+											"text": "13 : Notify identification request has been rejected"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -47674,7 +47674,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoQQn+TiI/44="
 							},
-							"name": "Notify identification request has rejected",
+							"name": "Notify identification request has been rejected",
 							"source": {
 								"$ref": "AAAAAAGFoQegSzjx09s="
 							},
