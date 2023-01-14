@@ -7,6 +7,7 @@
   - <a href='#activities-class-creation'>Création d'une nouvelle promotion</a>
   - <a href='#activities-user-join'>Utilisateur rejoignant le serveur</a>
   - <a href='#activities-identification-request-verification'>Consultation des demandes d'identifications</a>
+  - <a href='#activities-select-class'>Selection des promotions à afficher ou non</a>
 - <a href='#sequences-diagram'>Diagramme de séquences</a>
 - <a href='#classes-diagram'>Diagramme de classes</a>
 
@@ -79,7 +80,7 @@ Enfin **Discord** va notifier le succès de la création de la promotion au **CA
 
 ## Utilisateur rejoignant le serveur <a id='activities-user-join'></a>
 
-<img src='assets/activities/user-join.jpg'>
+<img src='assets/activities/user-join.jpg'/>
 
 Ce présent diagramme décrit les activités possibles lorsce qu'un **nouvel utilisateur** rejoint le serveur **Discord**
 
@@ -91,7 +92,7 @@ Enfin **Discord** attribue le rôle **Invité** au **Nouvel utilisateur** le tem
 
 ## Consultation des demandes d'identifications <a id='activities-identification-request-verification'></a>
 
-<img src='assets/activities/identification-request-verification.jpg'>
+<img src='assets/activities/identification-request-verification.jpg'/>
 
 Ce présent diagramme décrit les activités possibles lorsce qu'un **CAP** veut consulter valider ou refuser une demande d'identification
 
@@ -100,6 +101,22 @@ Le **CAP** clique alors sur l'un des deux boutons (**Accepter** ou **Refuser**).
 Le **Bot** analyse si le **CAP** à cliquer sur **Accepter**, alors, il attribue le rôle associé au lien d'invitation avec lequel l'utilisateur à rejoint le serveur **Discord** et notifie le **nouvel utilisateur** que sa demande d'identification à été acceptée.
 Si le **CAP** à cliquer sur le bouton **Refuser** il notifie simplement au **nouvel utilisateur** que sa demande d'identification à été refusée.
 Enfin **Discord** passe la demande d'identification en état **Fermée** afin de désactiver les intéractions avec la demande d'identification.
+
+## Selection des promotions à afficher ou non <a id='activities-select-class'></a>
+
+<img src='assets/activities/select-class-to-show-hide.jpg'/>
+
+Ce présent diagramme décrit les activités possibles lorsce qu'un **CAP** veut selectionner une promotion à voir ou non
+
+Le **CAP** rejoint le canal prévu à cet effet, **Discord** affiche alors un bouton sur lequel le **CAP** clique.
+Le **Bot** analyse si le **CAP** s'est affilié à une **Fabrique** lors de son identification, si c'est le cas,
+le **Bot** récupère toutes les promotions affiliées à la **Fabrique**, si ce n'est pas le cas alors il récupère,
+toutes les promotions en cours puis demande à **Discord** d'afficher un bouton pour chaque promotion récupérée.
+
+Le **CAP** clique sur le bouton d'une promotion, le **Bot** vérifie alors si le **CAP** a déjà le rôle de la
+promotion, si c'est le cas, il lui retire ce qui a pour effet de désactiver l'affiche de l'espace de promotion.
+Si ce n'est pas le cas, le **Bot** ajoute le rôle de la promotion au **CAP** ce qui a pour effet d'afficher
+l'espace de promotion.
 
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
