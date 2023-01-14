@@ -29,6 +29,11 @@ Le diagramme de cas d'utilisation représente les cas d'utilisation possibles d'
 
 <img src='assets/usecases/use-case.jpg'/>
 
+Un apprenant (représenté ici par l'acteur **Learner**) peut créer un ticket ce qui implique qu'il doit détailler sa requête, cela implique aussi que le **Bot** créer un **Thread** (ou fil de discussion)
+La création du ticket implique aussi la **fermeture** du ticket, ce qui implique que le **Bot** archive le fil discussion.
+La création du ticket implique aussi la notification du **Pôle concerné**
+La **fermeture** du ticket implique aussi un export en tant que mail.
+
 ## Configuration du Bot <a id='usecase-config'></a>
 
 <img src='assets/usecases/configuration.jpg'/>
