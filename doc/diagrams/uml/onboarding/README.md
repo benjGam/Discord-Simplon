@@ -8,6 +8,7 @@
   - <a href='#activities-user-join'>Utilisateur rejoignant le serveur</a>
   - <a href='#activities-identification-request-verification'>Consultation des demandes d'identifications</a>
   - <a href='#activities-select-class'>Selection des promotions à afficher ou non</a>
+  - <a href='#activities-configure-bot'>Configuration du bot par un **Administrateur**</a>
 - <a href='#sequences-diagram'>Diagramme de séquences</a>
 - <a href='#classes-diagram'>Diagramme de classes</a>
 
@@ -114,9 +115,21 @@ le **Bot** récupère toutes les promotions affiliées à la **Fabrique**, si ce
 toutes les promotions en cours puis demande à **Discord** d'afficher un bouton pour chaque promotion récupérée.
 
 Le **CAP** clique sur le bouton d'une promotion, le **Bot** vérifie alors si le **CAP** a déjà le rôle de la
-promotion, si c'est le cas, il lui retire ce qui a pour effet de désactiver l'affiche de l'espace de promotion.
+promotion, si c'est le cas, il lui retire ce qui a pour effet de désactiver l'affichage de l'espace de promotion.
 Si ce n'est pas le cas, le **Bot** ajoute le rôle de la promotion au **CAP** ce qui a pour effet d'afficher
 l'espace de promotion.
+
+## Configuration du bot par un **Administrateur** <a id='activities-configure-bot'></a>
+
+<img src='assets/activities/administrator-configure-bot.jpg'/>
+
+Ce présent diagramme décrit les activités possibles lorsce qu'un **Administrateur** veut configurer le bot
+
+**L'administrateur** tape une commande dans un canal (peu importe le quel), **Discord** transmet la commande au **Bot**,
+Le **Bot** vérifie la commande entrée, s'il s'agit d'une commande pour modifier le canal pour la création des promotions, alors il modifie cette entrée dans sa configuration
+sinon, il modifie l'entrée pour la création de formation.
+Ensuite **Discord** nettoie le précedent canal et affiche l'interface liée à la commande dans le canal spécifié dans la commande.
+Enfin **Discord** affiche un message de succès à **l'administrateur**
 
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
