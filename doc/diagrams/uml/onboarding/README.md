@@ -3,6 +3,9 @@
 - <a href='#context'>Contexte</a>
 - <a href='#usecase-diagram'>Diagramme de cas d'utilisation</a>
 - <a href='#activities-diagram'>Diagramme d'activités</a>
+  - <a href='#activities-course-creation'>Création d'une nouvelle formation</a>
+  - <a href='#activities-class-creation'>Création d'une nouvelle promotion</a>
+  - <a href='#activities-user-join'>Utilisateur rejoignant le serveur</a>
 - <a href='#sequences-diagram'>Diagramme de séquences</a>
 - <a href='#classes-diagram'>Diagramme de classes</a>
 
@@ -20,7 +23,7 @@ il doit aussi permettre aux membres concernés de consulter ces différents espa
 
 Le diagramme de cas d'utilisation représente les cas d'utilisation possibles d'une application de façon générale et très peu détaillée : 
 
-<img src='use-case.jpg'/>
+<img src='assets/usecase/use-case.jpg'/>
 
 Dans ce présent diagramme :
 
@@ -47,7 +50,9 @@ L'apprenant (représenté ici par **Learner**) peut lui aussi consulter son espa
 
 Le diagramme d'activités représente les différentes activités d'une application de façon générale et peu détaillée, il est conçu à partir du <a href='#usecase-diagram'>**diagramme de cas d'utilisation**</a>
 
-<img src='course-creation-activities.jpg'/>
+## Création de formation <a id='activities-course-creation'></a>
+
+<img src='assets/activities/course-creation.jpg'/>
 
 Ce présent diagramme décrit les activités possibles lors de la création d'une nouvelle formation : 
 
@@ -56,7 +61,9 @@ Le **CAP** clique sur le bouton et entre les différentes caractéristiques de l
 Le **Bot** vérifie les informations entrées par le **CAP**, si une erreur est detectée, il le notifie au **CAP**, sinon il récupère les IDs des canaux globaux prévus pour servir de canaux de templates, puis il créer un template de formation.
 Enfin **Discord** va notifier le succès de la création de la formation au **CAP**
 
-<img src='class-creation-activities.jpg'/>
+## Création d'une nouvelle promotion <a id='activities-class-creation'></a>
+
+<img src='assets/activities/class-creation.jpg'/>
 
 Ce présent diagramme décrit les activités possibles lors de la création d'une nouvelles promotions :
 
@@ -69,7 +76,9 @@ Alors **Discord** applique le template de formation à la catégorie de la promo
 Ensuite le **Bot** va lié le rôle de promotion à chaque apprenant.
 Enfin **Discord** va notifier le succès de la création de la promotion au **CAP**
 
-<img src='user-join-activities.jpg'>
+## Utilisateur rejoignant le serveur <a id='activities-user-join'></a>
+
+<img src='assets/activities/user-join.jpg'>
 
 Ce présent diagramme décrit les activités possibles lorsce qu'un **nouvel utilisateur** rejoint le serveur **Discord**
 
