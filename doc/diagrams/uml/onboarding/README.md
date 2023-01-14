@@ -165,10 +165,13 @@ Le diagramme de séquence représente les différentes activités d'une applicat
 
 <img src='assets/sequences/administrator-configure-bot.jpg'/>
 
-
 # Diagramme de classes <a id='classes-diagram'></a>
 
 Le diagramme de classe représente les différentes classes d'une application, ce diagramme doit être utilisé lors de la phase de développement afin de permettre aux développeurs de savoir la façon dont doit être développer l'application.<br>
 
-<img src='classes.jpg'/>
+<img src='assets/classes/classes.jpg'/>
 
+Dans ce diagramme nous avons une classe nommé **Config** qui est utile afin de configurer le **Bot**, elle compose la classe **Guild**
+qui représente le **Serveur Discord** qui aggrege une la classe **Course** qui représente une formation.
+
+La classe **CategoryTemplate** compose cette même classe **Course** et représente la façon dont doit-être agencé une **catégorie** Discord selon son type de **Course** (Formation)
