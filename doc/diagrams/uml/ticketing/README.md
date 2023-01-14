@@ -16,6 +16,11 @@
 
 # Contexte <a id='context'></a>
 
+Le **Bot de ticketing** doit permettre aux utilisateurs du **serveur Discord** de créer des tickets lorsce qu'ils rencontrent un problème que l'organisme de formation est en mesure de résoudre.
+Par exemple, dans le cadre d'un problème rencontré par un **Apprenant** dans le cadre de sa rémunération, ce dernier peut créer un ticket à adresser aux **membres des équipes administratives** dans lequel il détaillera son problème.
+
+De plus, le **Bot de ticketing** doit permettre la traçabilité des tickets, tant sur le serveur **Discord** que dans un contexte de conservation par **mail**.
+
 # Diagramme de cas d'utilisation <a id='usecase-diagram'></a>
 
 Le diagramme de cas d'utilisation représente les cas d'utilisation possibles d'une application de façon générale et très peu détaillée : 
