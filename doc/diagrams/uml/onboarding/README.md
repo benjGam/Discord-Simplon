@@ -174,4 +174,13 @@ Le diagramme de classe représente les différentes classes d'une application, c
 Dans ce diagramme nous avons une classe nommé **Config** qui est utile afin de configurer le **Bot**, elle compose la classe **Guild**
 qui représente le **Serveur Discord** qui aggrege une la classe **Course** qui représente une formation.
 
-La classe **CategoryTemplate** compose cette même classe **Course** et représente la façon dont doit-être agencé une **catégorie** Discord selon son type de **Course** (Formation)
+La classe **CategoryTemplate** compose cette même classe **Course** et représente la façon dont doit-être agencé une **catégorie Discord** selon son type de **Course** (Formation)
+La classe **Course** représente une formation
+La classe **ClassCategory** compose la classe **CategoryTemplate** et est l'instanciation de la classe **CategoryTemplate**
+La classe **ClassCategory** aggrère la classe **ClassChannel** qui est  l'instanciation des canaux pour la promotion
+La classe **ClassChannel** généralise (hérite) de la classe **Channel** qui est la représentation d'un **canal Discord**
+La classe **Permission** compose la classe **Channel**, cette classe permet de définir les permissions des différents rôles selon le **canal Discord**
+La classe **ClassCategory** compose la classe **Class** qui représente une promotion dans son ensemble
+La classe **ClassRole** compose elle aussi la classe **Class**, elle représente le rôle associé à chaque promotion
+La classe **ClassRole** est associé à la classe **IdentifiedUser** qui représente un utilisateur identifié sur le **serveur Discord**
+La classe **IdentifiedUser** généralise (hérite) **User** qui représente un utilisateur lambda
