@@ -27028,7 +27028,6 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -472,
-											"top": 16,
 											"height": 13
 										},
 										{
@@ -27039,7 +27038,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 1149,
-											"top": 783,
+											"top": 775,
 											"width": 195.04443359375,
 											"height": 13,
 											"text": "Modify course creation channel"
@@ -27053,7 +27052,6 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -472,
-											"top": 16,
 											"width": 86.6708984375,
 											"height": 13,
 											"text": "(from Bot)"
@@ -27067,14 +27065,13 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -472,
-											"top": 16,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1144,
-									"top": 776,
+									"top": 768,
 									"width": 205.04443359375,
 									"height": 25,
 									"stereotypeLabel": {
@@ -27097,7 +27094,7 @@
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 1144,
-							"top": 776,
+							"top": 768,
 							"width": 205.04443359375,
 							"height": 41,
 							"nameCompartment": {
@@ -27227,16 +27224,16 @@
 									},
 									"font": "Arial;13;0",
 									"left": 1136,
-									"top": 677,
+									"top": 679,
 									"width": 187.14794921875,
 									"height": 13,
-									"alpha": -2.8966149310268086,
-									"distance": 12.36931687685298,
+									"alpha": -2.8501369154322598,
+									"distance": 10.44030650891055,
 									"hostEdge": {
 										"$ref": "AAAAAAGFp5pZ/bWp398="
 									},
 									"edgePosition": 1,
-									"text": " [modification of course creation]"
+									"text": " [modification of class creation]"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -27288,7 +27285,7 @@
 							"tail": {
 								"$ref": "AAAAAAGFp5h54LUfiVQ="
 							},
-							"points": "1320:696;1232:696;1232:776",
+							"points": "1320:696;1232:696;1232:768",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFp5pZ/bWqPRk="
@@ -27320,17 +27317,17 @@
 										"$ref": "AAAAAAGFp5ruWbXB+ZU="
 									},
 									"font": "Arial;13;0",
-									"left": 1384,
-									"top": 680,
-									"width": 215.33154296875,
+									"left": 1368,
+									"top": 679,
+									"width": 187.14794921875,
 									"height": 13,
-									"alpha": 2.055273900023381,
-									"distance": 21.470910553583888,
+									"alpha": -2.3086119782931633,
+									"distance": 14.866068747318506,
 									"hostEdge": {
 										"$ref": "AAAAAAGFp5ruWbXCmzo="
 									},
 									"edgePosition": 1,
-									"text": " [modification of course type creation]"
+									"text": " [modification of course creation]"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -27432,7 +27429,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1278,
-									"top": 829,
+									"top": 825,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -27453,7 +27450,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 1293,
-									"top": 829,
+									"top": 825,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -27474,7 +27471,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1249,
-									"top": 830,
+									"top": 826,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -27491,7 +27488,7 @@
 							"tail": {
 								"$ref": "AAAAAAGFp5l+l7Vy2kU="
 							},
-							"points": "1264:816;1264:856",
+							"points": "1264:808;1264:856",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGFp5uVgbXjoPc="
@@ -28749,7 +28746,7 @@
 					"target": {
 						"$ref": "AAAAAAGFp5l+l7VwmyQ="
 					},
-					"guard": "modification of course creation"
+					"guard": "modification of class creation"
 				},
 				{
 					"_type": "UMLControlFlow",
@@ -28763,7 +28760,7 @@
 					"target": {
 						"$ref": "AAAAAAGFp5n/iLWNv08="
 					},
-					"guard": "modification of course type creation"
+					"guard": "modification of course creation"
 				},
 				{
 					"_type": "UMLControlFlow",
