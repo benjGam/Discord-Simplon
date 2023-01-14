@@ -10,6 +10,12 @@
   - <a href='#activities-select-class'>Selection des promotions à afficher ou non</a>
   - <a href='#activities-configure-bot'>Configuration du bot par un **Administrateur**</a>
 - <a href='#sequences-diagram'>Diagramme de séquences</a>
+  - <a href='#sequences-course-creation'>Création d'une nouvelle formation</a>
+  - <a href='#sequences-class-creation'>Création d'une nouvelle promotion</a>
+  - <a href='#sequences-user-join'>Utilisateur rejoignant le serveur</a>
+  - <a href='#sequences-identification-request-verification'>Consultation des demandes d'identifications</a>
+  - <a href='#sequences-select-class'>Selection des promotions à afficher ou non</a>
+  - <a href='#sequences-configure-bot'>Configuration du bot par un **Administrateur**</a>
 - <a href='#classes-diagram'>Diagramme de classes</a>
 
 # Contexte <a id='context'></a>
@@ -135,9 +141,30 @@ Enfin **Discord** affiche un message de succès à **l'administrateur**
 
 Le diagramme de séquence représente les différentes activités d'une application de façon très détaillée, il est conçu à partir du <a href='#activities-diagram'>**diagramme d'activités**</a>
 
-<img src='sequence.jpg'/>
+## Création d'une nouvelle formation <a id='sequences-course-creation'></a>
 
-La lecture de ce diagramme suffit à son compréhension en raison de son niveau de détail.
+<img src='assets/sequences/course-creation.jpg'/>
+
+## Création d'une nouvelle promotion <a id='sequences-class-creation'></a>
+
+<img src='assets/sequences/class-creation.jpg'/>
+
+## Utilisateur rejoignant le serveur <a id='sequences-user-join'></a>
+
+<img src='assets/sequences/user-join.jpg'/>
+
+## Consultation des demandes d'identifications <a id='sequences-identification-request-verification'></a>
+
+<img src='assets/sequences/identification-request-verification.jpg'/>
+
+## Selection des promotions à afficher ou non <a id='sequences-select-class'></a>
+
+<img src='assets/sequences/select-class-to-show-hide.jpg'/>
+
+## Configuration du bot par un **Administrateur** <a id='sequences-configure-bot'></a>
+
+<img src='assets/sequences/administrator-configure-bot.jpg'/>
+
 
 # Diagramme de classes <a id='classes-diagram'></a>
 
