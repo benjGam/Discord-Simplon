@@ -6,6 +6,7 @@
   - <a href='#activities-course-creation'>Création d'une nouvelle formation</a>
   - <a href='#activities-class-creation'>Création d'une nouvelle promotion</a>
   - <a href='#activities-user-join'>Utilisateur rejoignant le serveur</a>
+  - <a href='#activities-identification-request-verification'>Consultation des demandes d'identifications</a>
 - <a href='#sequences-diagram'>Diagramme de séquences</a>
 - <a href='#classes-diagram'>Diagramme de classes</a>
 
@@ -87,6 +88,18 @@ Le **Nouvel utilisateur** clique sur le lien d'invitation
 Le **Bot** vérifie alors le lien d'invitation afin de determiner si le lien à un rôle associé ou non, si le lien n'a pas de rôle associé alors il attribue le rôle **Invité**
 sinon, **Discord** affiche un formulaire sous forme de Pop-up afin de permettre au **Nouvel utilisateur** de s'identifier, à l'issue du remplissage de ce formulaire d'identification, le **Bot** envoi un message dans le canal dédié aux vérifications d'identités puis **Discord** affiche le message et envoi un message afin de notifier la prise en compte de sa demande d'identification au **Nouvel utilisateur**.
 Enfin **Discord** attribue le rôle **Invité** au **Nouvel utilisateur** le temps que la demande d'identification de ce dernier soit acceptée.
+
+## Consultation des demandes d'identifications <a id='activities-identification-request-verification'></a>
+
+<img src='assets/activities/identification-request-verification.jpg'>
+
+Ce présent diagramme décrit les activités possibles lorsce qu'un **CAP** veut consulter valider ou refuser une demande d'identification
+
+Le **CAP** rejoint le canal prévu à cet effet, **Discord** renvoi alors toutes les demandes d'identifications des **nouveaux utilisateurs**.
+Le **CAP** clique alors sur l'un des deux boutons (**Accepter** ou **Refuser**).
+Le **Bot** analyse si le **CAP** à cliquer sur **Accepter**, alors, il attribue le rôle associé au lien d'invitation avec lequel l'utilisateur à rejoint le serveur **Discord** et notifie le **nouvel utilisateur** que sa demande d'identification à été acceptée.
+Si le **CAP** à cliquer sur le bouton **Refuser** il notifie simplement au **nouvel utilisateur** que sa demande d'identification à été refusée.
+Enfin **Discord** passe la demande d'identification en état **Fermée** afin de désactiver les intéractions avec la demande d'identification.
 
 # Diagramme de séquences <a id='sequences-diagram'></a>
 
