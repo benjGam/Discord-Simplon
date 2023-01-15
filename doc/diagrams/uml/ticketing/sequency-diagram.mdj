@@ -6108,7 +6108,7 @@
 												"$ref": "AAAAAAGFpW3q1tDC6CI="
 											},
 											"edgePosition": 1,
-											"text": "11 : request for change status of mail to ticket close"
+											"text": "11 : request for change status of mail"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -6234,7 +6234,7 @@
 												"$ref": "AAAAAAGFpW8fztDk19A="
 											},
 											"edgePosition": 1,
-											"text": "12 : Change status of ticket mail to close"
+											"text": "12 : Change status of mail to ticket close"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -6691,7 +6691,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoupJKHjMylU="
 							},
-							"name": "request for change status of mail to ticket close",
+							"name": "request for change status of mail",
 							"source": {
 								"$ref": "AAAAAAGFpQsGxM3wvhw="
 							},
@@ -6705,7 +6705,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGFoupJKHjMylU="
 							},
-							"name": "Change status of ticket mail to close",
+							"name": "Change status of mail to ticket close",
 							"source": {
 								"$ref": "AAAAAAGFpQtSbM4wLw8="
 							},
@@ -6947,8 +6947,8 @@
 												"$ref": "AAAAAAGFpXCmj9EoUcY="
 											},
 											"font": "Arial;13;0",
-											"left": 809,
-											"top": 85,
+											"left": 833,
+											"top": 101,
 											"width": 126,
 											"height": 13,
 											"text": "NewMessageInTicket"
@@ -6960,16 +6960,16 @@
 												"$ref": "AAAAAAGFpXCmj9EoUcY="
 											},
 											"font": "Arial;13;1",
-											"left": 789,
-											"top": 85,
+											"left": 813,
+											"top": 101,
 											"width": 15,
 											"height": 13,
 											"text": "sd"
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 784,
-									"top": 80,
+									"left": 808,
+									"top": 96,
 									"width": 1793,
 									"height": 921,
 									"nameLabel": {
