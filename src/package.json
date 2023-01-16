@@ -2,14 +2,19 @@
   "name": "discord-simplon",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
-    "onboarding": "node ./onboarding/index.ts",
-    "signature" : "node ./signature/index.js"
+    "ts_onboarding": "tsc  --skipLibCheck --moduleResolution node16 --module ES2022 onboarding/*.ts --outDir onboarding/dist/ ",
+    "lint_oboarding": "eslint . --ext /onboarding/*.ts",
+    "onboarding" : "node ./onboarding/dist/index.js",
+    "signature": "node ./signature/index.js"
+
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
     "eslint": "^8.32.0",
     "typescript": "^4.9.4"
   }
