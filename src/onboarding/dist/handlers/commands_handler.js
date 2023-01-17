@@ -35,17 +35,17 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-import { REST, Routes } from "discord.js";
+import { REST, Routes, Collection } from "discord.js";
 import * as fs from "fs";
 import * as dotenv from "dotenv";
 export default (function (client, discord_token, discord_client_id) { return __awaiter(void 0, void 0, void 0, function () {
-    var commandFiles, commands, _i, commandFiles_1, file, cmd, rest;
+    var commandFiles, _i, commandFiles_1, file, cmd, rest;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
                 dotenv.config();
                 commandFiles = fs.readdirSync('./onboarding/dist/commands/');
-                commands = [];
+                client.commands = new Collection();
                 _i = 0, commandFiles_1 = commandFiles;
                 _a.label = 1;
             case 1:
@@ -54,8 +54,8 @@ export default (function (client, discord_token, discord_client_id) { return __a
                 return [4 /*yield*/, import("../commands/".concat(file))];
             case 2:
                 cmd = _a.sent();
-                commands.push(cmd["default"].data);
-                console.log(commands);
+                //console.log(cmd.default);
+                client.commands.set(cmd["default"].data.name, cmd["default"]);
                 _a.label = 3;
             case 3:
                 _i++;
@@ -69,7 +69,7 @@ export default (function (client, discord_token, discord_client_id) { return __a
                             case 0:
                                 _a.trys.push([0, 2, , 3]);
                                 console.log('Started refreshing application (/) commands.');
-                                return [4 /*yield*/, rest.put(Routes.applicationCommands(discord_client_id), { body: commands })];
+                                return [4 /*yield*/, rest.put(Routes.applicationCommands(discord_client_id), { body: client.commands.map(function (x) { return x.data.toJSON(); }) })];
                             case 1:
                                 _a.sent();
                                 console.log('Successfully reloaded application (/) commands.');
