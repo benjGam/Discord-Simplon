@@ -37,31 +37,22 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 import { Client, Events, GatewayIntentBits } from "discord.js";
 import * as dotenv from "dotenv";
 import commands_handler from "./handlers/commands_handler.js";
+import events_handler from "./handlers/events_handler.js";
 dotenv.config();
 var DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 var DISCORD_ID = process.env.DISCORD_ID;
-var client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.DirectMessages, GatewayIntentBits.GuildMessages] });
+var client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.DirectMessages, GatewayIntentBits.GuildMessages, GatewayIntentBits.GuildMembers] });
 commands_handler(client, DISCORD_TOKEN, DISCORD_ID);
-client.once(Events.ClientReady, function () {
-    console.log('Ready!');
-});
+events_handler(client);
 client.on(Events.InteractionCreate, function (interaction) { return __awaiter(void 0, void 0, void 0, function () {
     var parsedClient, command;
     return __generator(this, function (_a) {
-        switch (_a.label) {
-            case 0:
-                parsedClient = client;
-                command = parsedClient.commands.get(interaction.commandName);
-                return [4 /*yield*/, command.execute(interaction)];
-            case 1:
-                _a.sent();
-                return [2 /*return*/];
-        }
+        if (!interaction.isChatInputCommand())
+            return [2 /*return*/];
+        parsedClient = client;
+        command = parsedClient.commands.get(interaction['commandName']);
+        command.execute(interaction);
+        return [2 /*return*/];
     });
 }); });
-client.on('ready', function () {
-    if (client.user != undefined) {
-        console.log("Logged in as ".concat(client.user.tag, "!"));
-    }
-});
 client.login(DISCORD_TOKEN);
